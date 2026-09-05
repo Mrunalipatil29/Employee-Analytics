@@ -1,0 +1,1499 @@
+﻿Employee ID,Department,Gender,Age,Job_Title,Hire_Date,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Overtime_Hours,Training_Hours,Promotions,Employee_Satisfaction_Score,Resigned,Age Group,Salary Category,Performance Score
+1,IT,Male,55,Specialist,19-Jan-22,2,High School,5,6750,22,66,0,2.63,FALSE,50+,6K-6.9K,high
+2,Finance,Male,29,Developer,18-Apr-24,0,High School,5,7500,13,61,2,1.72,FALSE,20-29,7K+,high
+3,Finance,Male,55,Specialist,26-Oct-15,8,High School,3,5850,6,1,0,3.17,FALSE,50+,Below 6K,medium
+4,Customer Support,Female,48,Analyst,22-Oct-16,7,Bachelor,2,4800,28,0,1,1.86,FALSE,40-49,Below 6K,low
+5,Engineering,Female,36,Analyst,23-Jul-21,3,Bachelor,2,4800,29,9,1,1.25,FALSE,30-39,Below 6K,low
+6,IT,Male,43,Manager,14-Aug-16,8,High School,3,7800,8,95,0,2.77,FALSE,40-49,7K+,medium
+7,IT,Male,37,Technician,28-Aug-23,1,Bachelor,5,5250,29,27,0,4.46,FALSE,30-39,Below 6K,high
+8,Engineering,Female,55,Engineer,27-Oct-14,9,Bachelor,2,7200,7,64,0,2.09,FALSE,50+,7K+,low
+9,Marketing,Female,55,Technician,29-Jun-23,1,High School,2,4200,21,0,1,1.44,FALSE,50+,Below 6K,low
+10,Engineering,Female,45,Consultant,23-Dec-16,7,Bachelor,1,6050,2,53,2,2.93,FALSE,40-49,6K-6.9K,low
+11,Customer Support,Male,52,Engineer,26-Nov-19,4,Bachelor,3,7800,5,90,1,2.34,FALSE,50+,7K+,medium
+12,Customer Support,Male,27,Technician,19-Feb-15,9,Bachelor,5,5250,2,88,0,1.96,FALSE,20-29,Below 6K,high
+13,HR,Male,51,Technician,04-Jul-19,5,Bachelor,4,4900,16,17,2,2.13,FALSE,50+,Below 6K,high
+14,e,Male,27,Analyst,14-Oct-14,9,Bachelor,4,5600,5,26,1,1.46,FALSE,20-29,Below 6K,high
+15,Finance,Male,46,Analyst,11-Mar-23,1,Master,1,4400,13,37,1,2.22,FALSE,40-49,Below 6K,low
+16,Customer Support,Male,26,Developer,19-Apr-23,1,High School,2,6000,9,46,1,2.42,FALSE,20-29,6K-6.9K,low
+17,Operations,Male,29,Engineer,21-Sep-19,4,Bachelor,2,7200,29,76,2,3.15,FALSE,20-29,7K+,low
+18,Sales,Other,28,Developer,08-Nov-22,1,High School,3,6500,6,54,0,1.19,FALSE,20-29,6K-6.9K,medium
+19,Customer Support,Other,56,Developer,01-Oct-15,8,Bachelor,1,5500,24,36,0,1.12,FALSE,50+,Below 6K,low
+20,Finance,Male,23,Technician,08-May-15,9,High School,2,4200,9,66,0,3.91,FALSE,20-29,Below 6K,low
+21,Operations,Female,33,Manager,19-Dec-22,1,Bachelor,1,6600,13,53,2,3.7,FALSE,30-39,6K-6.9K,low
+22,Sales,Male,59,Manager,25-May-17,7,Master,5,9000,9,20,0,4.66,FALSE,50+,7K+,high
+23,Finance,Male,26,Specialist,23-Jul-16,8,High School,4,6300,9,71,2,3.68,FALSE,20-29,6K-6.9K,high
+24,Sales,Male,58,Consultant,21-Jan-18,6,Master,2,6600,28,78,2,4.26,FALSE,50+,6K-6.9K,low
+25,HR,Female,38,Analyst,23-Jun-18,6,Bachelor,2,4800,24,49,1,4.43,FALSE,30-39,Below 6K,low
+26,Customer Support,Male,38,Specialist,03-May-22,2,Bachelor,5,6750,0,9,2,2.12,FALSE,30-39,6K-6.9K,high
+27,Finance,Male,45,Engineer,12-Jul-21,3,Bachelor,2,7200,23,26,1,3.16,FALSE,40-49,7K+,low
+28,Legal,Male,43,Manager,22-Nov-14,9,Master,3,7800,3,45,2,1.35,TRUE,40-49,7K+,medium
+29,Engineering,Male,53,Specialist,17-Apr-22,2,Bachelor,2,5400,14,42,1,4.52,FALSE,50+,Below 6K,low
+30,Finance,Male,52,Analyst,21-Jun-23,1,High School,3,5200,29,37,2,4.95,FALSE,50+,Below 6K,medium
+31,Customer Support,Male,58,Consultant,14-May-18,6,Bachelor,1,6050,25,16,2,4.65,FALSE,50+,6K-6.9K,low
+32,Legal,Female,24,Manager,12-Jun-23,1,High School,4,8400,7,22,0,1.95,FALSE,20-29,7K+,high
+33,Customer Support,Male,29,Analyst,13-Jun-24,0,High School,2,4800,16,37,0,4.43,FALSE,20-29,Below 6K,low
+34,Sales,Female,25,Engineer,11-Sep-21,2,PhD,4,8400,24,37,2,2.1,FALSE,20-29,7K+,high
+35,Marketing,Male,41,Analyst,23-May-19,5,Master,4,5600,0,36,1,1.94,FALSE,40-49,Below 6K,high
+36,HR,Female,42,Engineer,12-Oct-19,4,Master,5,9000,18,21,1,4.21,FALSE,40-49,7K+,high
+37,Sales,Male,43,Consultant,04-Apr-24,0,High School,2,6600,10,18,1,4.97,FALSE,40-49,6K-6.9K,low
+38,Sales,Other,46,Consultant,13-Jan-15,9,Master,2,6600,15,48,0,2.47,FALSE,40-49,6K-6.9K,low
+39,IT,Male,48,Specialist,03-Feb-22,2,Bachelor,1,4950,1,6,1,2.66,FALSE,40-49,Below 6K,low
+40,HR,Female,58,Engineer,11-Apr-23,1,Bachelor,5,9000,2,85,1,4.22,FALSE,50+,7K+,high
+41,HR,Female,44,Analyst,25-Dec-20,3,Bachelor,2,4800,9,28,2,2.9,TRUE,40-49,Below 6K,low
+42,Marketing,Male,29,Specialist,31-Oct-21,2,High School,4,6300,6,28,2,4.84,FALSE,20-29,6K-6.9K,high
+43,Customer Support,Male,60,Engineer,11-Aug-16,8,Bachelor,3,7800,4,21,0,3.59,FALSE,50+,7K+,medium
+44,Marketing,Female,43,Manager,21-May-21,3,High School,3,7800,2,85,0,3.32,FALSE,40-49,7K+,medium
+45,Customer Support,Female,46,Developer,03-Mar-21,3,Master,2,6000,29,4,1,2.53,FALSE,40-49,6K-6.9K,low
+46,HR,Female,29,Specialist,12-Jun-16,8,High School,2,5400,11,90,1,1.59,FALSE,20-29,Below 6K,low
+47,HR,Male,32,Technician,03-Apr-21,3,Bachelor,4,4900,26,21,2,1.27,FALSE,30-39,Below 6K,high
+48,Operations,Male,31,Specialist,23-Nov-23,0,Bachelor,1,4950,20,82,2,4.84,FALSE,30-39,Below 6K,low
+49,Legal,Male,40,Specialist,02-Jun-16,8,High School,5,6750,0,13,1,2.9,FALSE,40-49,6K-6.9K,high
+50,Operations,Other,57,Developer,24-Jan-20,4,High School,2,6000,19,15,0,1.47,FALSE,50+,6K-6.9K,low
+51,Legal,Female,35,Consultant,13-Sep-19,4,Bachelor,1,6050,29,28,1,3.02,FALSE,30-39,6K-6.9K,low
+52,HR,Male,40,Developer,21-Mar-17,7,Bachelor,2,6000,12,18,1,1.43,FALSE,40-49,6K-6.9K,low
+53,Engineering,Male,28,Consultant,03-Jun-15,9,Bachelor,3,7150,4,12,0,2.56,FALSE,20-29,7K+,medium
+54,Engineering,Female,37,Technician,24-Oct-15,8,High School,2,4200,0,92,1,1.1,FALSE,30-39,Below 6K,low
+55,Operations,Female,34,Technician,15-Aug-15,9,High School,5,5250,6,68,1,1.87,TRUE,30-39,Below 6K,high
+56,Marketing,Female,34,Developer,25-Nov-21,2,Bachelor,3,6500,21,7,0,1.7,FALSE,30-39,6K-6.9K,medium
+57,Customer Support,Female,33,Specialist,17-Apr-16,8,PhD,1,4950,28,36,2,2.64,TRUE,30-39,Below 6K,low
+58,Finance,Male,23,Developer,21-Jul-19,5,Bachelor,4,7000,8,27,2,3.97,FALSE,20-29,7K+,high
+59,IT,Other,52,Technician,03-Jul-24,0,High School,3,4550,5,74,2,4.23,TRUE,50+,Below 6K,medium
+60,Customer Support,Female,54,Manager,05-Sep-19,5,Bachelor,1,6600,19,99,1,3.02,FALSE,50+,6K-6.9K,low
+61,Operations,Female,34,Consultant,21-May-21,3,Bachelor,2,6600,14,20,1,2.32,FALSE,30-39,6K-6.9K,low
+62,Engineering,Male,53,Specialist,11-Jul-17,7,High School,5,6750,0,75,2,2.15,FALSE,50+,6K-6.9K,high
+63,Sales,Male,27,Manager,23-May-18,6,Bachelor,3,7800,12,73,1,2.26,FALSE,20-29,7K+,medium
+64,Finance,Female,58,Manager,23-Jan-18,6,High School,4,8400,14,21,0,1.68,TRUE,50+,7K+,high
+65,Sales,Female,41,Specialist,19-Nov-18,5,Bachelor,1,4950,13,3,0,4.33,FALSE,40-49,Below 6K,low
+66,Legal,Male,37,Technician,16-Jul-24,0,Bachelor,4,4900,4,12,1,2.13,FALSE,30-39,Below 6K,high
+67,Sales,Male,49,Manager,03-Jan-17,7,Master,2,7200,19,93,0,4.26,FALSE,40-49,7K+,low
+68,HR,Male,39,Consultant,14-Aug-24,0,Bachelor,2,6600,17,64,2,2.45,FALSE,30-39,6K-6.9K,low
+69,Operations,Female,38,Specialist,21-Jul-16,8,Bachelor,4,6300,9,9,0,2.42,FALSE,30-39,6K-6.9K,high
+70,Sales,Male,52,Manager,26-Nov-15,8,Master,1,6600,13,8,0,4.45,FALSE,50+,6K-6.9K,low
+71,IT,Female,42,Developer,13-Jan-23,1,High School,1,5500,13,75,1,4.49,FALSE,40-49,Below 6K,low
+72,Engineering,Female,42,Analyst,17-Jul-23,1,Master,4,5600,16,15,2,3.55,FALSE,40-49,Below 6K,high
+73,Sales,Female,33,Developer,08-Jan-23,1,Bachelor,2,6000,15,41,0,1.31,FALSE,30-39,6K-6.9K,low
+74,Legal,Female,47,Developer,18-Jan-20,4,Bachelor,2,6000,15,8,1,4.98,FALSE,40-49,6K-6.9K,low
+75,HR,Female,33,Consultant,29-Apr-24,0,High School,2,6600,24,1,1,1.39,FALSE,30-39,6K-6.9K,low
+76,Engineering,Male,47,Consultant,11-Apr-18,6,High School,4,7700,22,84,1,1.75,FALSE,40-49,7K+,high
+77,Customer Support,Male,31,Technician,24-May-17,7,PhD,3,4550,19,82,0,3.2,FALSE,30-39,Below 6K,medium
+78,Sales,Male,28,Developer,17-Oct-20,3,Master,5,7500,6,38,1,3.55,FALSE,20-29,7K+,high
+79,Legal,Male,46,Consultant,05-Feb-16,8,High School,3,7150,27,94,2,3.5,TRUE,40-49,7K+,medium
+80,Customer Support,Female,54,Specialist,20-Feb-19,5,High School,1,4950,5,53,1,2.09,FALSE,50+,Below 6K,low
+81,Legal,Female,55,Developer,07-May-24,0,Master,3,6500,25,94,0,3.75,FALSE,50+,6K-6.9K,medium
+82,Customer Support,Female,23,Specialist,14-Dec-16,7,High School,3,5850,14,0,0,3.4,TRUE,20-29,Below 6K,medium
+83,Engineering,Male,46,Analyst,23-Jun-21,3,Bachelor,2,4800,10,85,0,1.33,FALSE,40-49,Below 6K,low
+84,HR,Female,28,Analyst,23-Mar-16,8,Master,1,4400,22,67,2,2.17,FALSE,20-29,Below 6K,low
+85,Marketing,Female,46,Specialist,16-Sep-15,8,Bachelor,2,5400,13,0,1,4.27,FALSE,40-49,Below 6K,low
+86,Legal,Female,59,Engineer,11-Feb-15,9,Bachelor,4,8400,7,40,2,2.37,FALSE,50+,7K+,high
+87,Marketing,Male,55,Technician,14-Nov-19,4,PhD,3,4550,9,59,2,1.77,FALSE,50+,Below 6K,medium
+88,Marketing,Male,52,Technician,05-Jul-19,5,Bachelor,2,4200,2,12,0,1.11,FALSE,50+,Below 6K,low
+89,Finance,Female,27,Engineer,06-Nov-23,0,Master,2,7200,25,22,1,2.08,FALSE,20-29,7K+,low
+90,Customer Support,Female,39,Manager,19-Jan-18,6,Bachelor,4,8400,10,53,0,3.22,FALSE,30-39,7K+,high
+91,Customer Support,Male,55,Consultant,15-Mar-24,0,Bachelor,2,6600,5,26,2,3.23,TRUE,50+,6K-6.9K,low
+92,Legal,Male,48,Developer,13-Jul-19,5,Bachelor,1,5500,26,84,1,3.69,TRUE,40-49,Below 6K,low
+93,Finance,Male,50,Manager,09-Nov-23,0,High School,4,8400,29,3,2,3.66,FALSE,50+,7K+,high
+94,Engineering,Male,52,Specialist,23-Apr-21,3,High School,4,6300,10,81,1,4.1,FALSE,50+,6K-6.9K,high
+95,Operations,Male,52,Developer,06-Jul-15,9,High School,1,5500,19,33,0,4.36,FALSE,50+,Below 6K,low
+96,Marketing,Female,30,Manager,11-Apr-19,5,High School,3,7800,20,43,2,1.03,TRUE,30-39,7K+,medium
+97,Engineering,Male,58,Specialist,14-Apr-15,9,PhD,3,5850,16,0,0,2.34,FALSE,50+,Below 6K,medium
+98,Finance,Female,38,Manager,31-Dec-15,8,High School,3,7800,12,64,0,4.2,FALSE,30-39,7K+,medium
+99,Sales,Male,24,Developer,15-Nov-19,4,Bachelor,2,6000,0,37,1,4.39,FALSE,20-29,6K-6.9K,low
+100,Customer Support,Other,33,Manager,01-Dec-17,6,Bachelor,3,7800,10,30,1,3.19,TRUE,30-39,7K+,medium
+101,Finance,Female,45,Engineer,29-Dec-17,6,High School,4,8400,18,48,0,3.42,FALSE,40-49,7K+,high
+102,IT,Female,33,Consultant,22-Nov-19,4,High School,1,6050,11,48,1,3.63,TRUE,30-39,6K-6.9K,low
+103,IT,Male,33,Consultant,07-Jan-20,4,Bachelor,3,7150,29,57,2,5,TRUE,30-39,7K+,medium
+104,Engineering,Male,58,Consultant,20-Jan-18,6,Bachelor,4,7700,18,53,1,2.13,FALSE,50+,7K+,high
+105,Customer Support,Female,55,Technician,21-May-19,5,High School,1,3850,1,29,1,2.3,FALSE,50+,Below 6K,low
+106,Customer Support,Male,46,Manager,13-Sep-21,2,Bachelor,4,8400,6,10,0,2.94,FALSE,40-49,7K+,high
+107,HR,Female,22,Developer,17-Dec-20,3,Bachelor,4,7000,17,1,0,2.8,FALSE,20-29,7K+,high
+108,Operations,Female,37,Engineer,26-Jan-15,9,Bachelor,4,8400,7,12,2,4.68,FALSE,30-39,7K+,high
+109,Sales,Male,56,Consultant,02-Aug-18,6,Bachelor,1,6050,2,82,1,2.7,FALSE,50+,6K-6.9K,low
+110,Sales,Male,36,Consultant,23-Sep-18,5,High School,5,8250,28,56,0,1.64,FALSE,30-39,7K+,high
+111,IT,Male,43,Technician,08-Sep-23,0,Bachelor,2,4200,4,75,2,4.8,FALSE,40-49,Below 6K,low
+112,Finance,Male,39,Analyst,06-Nov-18,5,Bachelor,1,4400,25,34,0,3.51,FALSE,30-39,Below 6K,low
+113,Legal,Female,30,Technician,07-May-17,7,Master,4,4900,12,59,0,4.5,FALSE,30-39,Below 6K,high
+114,Customer Support,Male,35,Consultant,07-Jun-24,0,Bachelor,4,7700,0,31,2,3.58,FALSE,30-39,7K+,high
+115,Legal,Female,48,Specialist,08-Jun-23,1,Bachelor,2,5400,1,88,1,1.58,FALSE,40-49,Below 6K,low
+116,Customer Support,Female,56,Analyst,26-Apr-21,3,Bachelor,5,6000,29,96,0,2.47,FALSE,50+,6K-6.9K,high
+117,Legal,Male,26,Manager,30-Apr-21,3,High School,5,9000,15,44,2,3.24,FALSE,20-29,7K+,high
+118,IT,Male,38,Consultant,10-Jun-16,8,PhD,4,7700,17,81,1,4.2,FALSE,30-39,7K+,high
+119,IT,Female,27,Manager,22-Jan-20,4,Bachelor,5,9000,27,4,1,2.87,FALSE,20-29,7K+,high
+120,Finance,Male,29,Specialist,10-Jul-21,3,Bachelor,3,5850,6,65,0,4.37,FALSE,20-29,Below 6K,medium
+121,Customer Support,Male,26,Specialist,21-Mar-19,5,Bachelor,1,4950,12,23,1,4.17,FALSE,20-29,Below 6K,low
+122,Legal,Female,25,Technician,27-Nov-19,4,High School,1,3850,4,13,1,2.94,TRUE,20-29,Below 6K,low
+123,Operations,Female,44,Manager,12-Aug-15,9,Bachelor,4,8400,28,60,1,4.47,FALSE,40-49,7K+,high
+124,Finance,Male,46,Consultant,04-Nov-14,9,Bachelor,4,7700,19,19,0,1.14,FALSE,40-49,7K+,high
+125,IT,Male,28,Engineer,03-Nov-20,3,High School,3,7800,12,36,2,1.39,FALSE,20-29,7K+,medium
+126,Marketing,Male,34,Developer,10-Nov-15,8,High School,1,5500,3,60,0,4.65,FALSE,30-39,Below 6K,low
+127,Engineering,Other,59,Consultant,01-Oct-14,9,Bachelor,2,6600,17,35,0,4.4,FALSE,50+,6K-6.9K,low
+128,Sales,Male,31,Consultant,16-Jun-22,2,Bachelor,2,6600,22,44,2,1.74,FALSE,30-39,6K-6.9K,low
+129,Sales,Male,51,Developer,17-Jun-23,1,High School,5,7500,7,66,2,1.24,TRUE,50+,7K+,high
+130,Sales,Other,29,Engineer,27-May-20,4,Bachelor,1,6600,25,66,2,1.61,FALSE,20-29,6K-6.9K,low
+131,Engineering,Male,47,Specialist,17-Apr-15,9,Master,5,6750,27,97,2,2.84,TRUE,40-49,6K-6.9K,high
+132,HR,Male,32,Technician,17-Dec-23,0,Bachelor,5,5250,28,34,0,2.87,FALSE,30-39,Below 6K,high
+133,Marketing,Female,55,Manager,06-Oct-20,3,High School,3,7800,15,92,0,1.96,FALSE,50+,7K+,medium
+134,Operations,Female,29,Consultant,01-May-19,5,High School,2,6600,13,44,1,3.83,FALSE,20-29,6K-6.9K,low
+135,Operations,Male,24,Consultant,10-Aug-22,2,Bachelor,2,6600,0,63,0,3.79,FALSE,20-29,6K-6.9K,low
+136,Sales,Male,23,Analyst,06-Oct-21,2,Bachelor,5,6000,29,94,0,3.03,FALSE,20-29,6K-6.9K,high
+137,Legal,Female,35,Analyst,11-Jan-17,7,Bachelor,2,4800,17,9,1,1.25,FALSE,30-39,Below 6K,low
+138,Customer Support,Male,28,Manager,26-Mar-19,5,Master,5,9000,12,34,2,4.83,FALSE,20-29,7K+,high
+139,Finance,Male,38,Technician,01-Nov-18,5,High School,2,4200,23,22,0,1.12,FALSE,30-39,Below 6K,low
+140,Legal,Female,39,Specialist,21-Dec-22,1,High School,1,4950,5,11,0,4.38,FALSE,30-39,Below 6K,low
+141,Engineering,Female,23,Analyst,15-Jan-19,5,Bachelor,2,4800,11,16,1,3.61,FALSE,20-29,Below 6K,low
+142,Customer Support,Male,22,Specialist,16-Mar-21,3,PhD,3,5850,8,45,1,4.61,FALSE,20-29,Below 6K,medium
+143,Legal,Female,60,Specialist,21-Nov-16,7,Bachelor,2,5400,19,93,0,2.62,FALSE,50+,Below 6K,low
+144,Customer Support,Female,54,Analyst,19-Feb-17,7,High School,3,5200,27,64,2,1.82,FALSE,50+,Below 6K,medium
+145,Operations,Female,26,Consultant,03-Jun-23,1,Bachelor,1,6050,15,46,0,2.23,FALSE,20-29,6K-6.9K,low
+146,Customer Support,Male,43,Consultant,24-Feb-18,6,Master,2,6600,12,80,2,4.36,FALSE,40-49,6K-6.9K,low
+147,Legal,Female,57,Engineer,02-Jun-19,5,Bachelor,1,6600,7,1,0,3.3,FALSE,50+,6K-6.9K,low
+148,Sales,Male,58,Analyst,10-Nov-16,7,Master,3,5200,25,34,2,4.55,FALSE,50+,Below 6K,medium
+149,IT,Female,31,Technician,01-Aug-17,7,Master,1,3850,13,78,2,4.75,FALSE,30-39,Below 6K,low
+150,Finance,Female,55,Analyst,19-Mar-21,3,Bachelor,1,4400,21,92,0,3,FALSE,50+,Below 6K,low
+151,Operations,Male,59,Consultant,27-Oct-20,3,Bachelor,4,7700,15,19,0,4.76,FALSE,50+,7K+,high
+152,Sales,Male,25,Manager,04-Jun-23,1,Bachelor,4,8400,10,51,1,1.02,FALSE,20-29,7K+,high
+153,Marketing,Female,54,Technician,22-Sep-14,9,High School,5,5250,22,21,2,4.44,FALSE,50+,Below 6K,high
+154,Customer Support,Male,60,Specialist,14-Jul-17,7,Bachelor,3,5850,1,15,2,4.88,FALSE,50+,Below 6K,medium
+155,Legal,Male,51,Engineer,22-Jun-15,9,Bachelor,3,7800,17,30,2,3.78,FALSE,50+,7K+,medium
+156,Customer Support,Female,35,Specialist,28-Jun-23,1,Master,1,4950,24,70,1,1.05,FALSE,30-39,Below 6K,low
+157,Legal,Male,46,Manager,04-May-20,4,Bachelor,1,6600,7,71,0,1.79,FALSE,40-49,6K-6.9K,low
+158,Operations,Female,39,Analyst,16-Jul-15,9,Bachelor,1,4400,14,11,2,3.34,FALSE,30-39,Below 6K,low
+159,Legal,Female,41,Technician,21-Jun-15,9,Master,1,3850,21,98,0,4.04,FALSE,40-49,Below 6K,low
+160,Operations,Female,30,Manager,04-Jul-22,2,Master,4,8400,17,27,0,4.15,TRUE,30-39,7K+,high
+161,Engineering,Male,36,Manager,27-Dec-15,8,Master,1,6600,27,70,1,2.85,FALSE,30-39,6K-6.9K,low
+162,HR,Male,32,Technician,13-Sep-19,4,Bachelor,5,5250,20,41,2,2.04,FALSE,30-39,Below 6K,high
+163,Finance,Male,44,Technician,19-Jan-23,1,Bachelor,5,5250,15,29,0,1.78,FALSE,40-49,Below 6K,high
+164,Legal,Male,37,Analyst,21-Nov-16,7,High School,1,4400,2,53,1,1.97,TRUE,30-39,Below 6K,low
+165,Engineering,Male,26,Analyst,19-Dec-20,3,High School,2,4800,23,43,0,1.82,TRUE,20-29,Below 6K,low
+166,Sales,Female,30,Specialist,18-May-20,4,High School,3,5850,23,47,2,3.49,FALSE,30-39,Below 6K,medium
+167,Sales,Male,36,Manager,04-Jun-18,6,High School,4,8400,1,78,1,1.14,FALSE,30-39,7K+,high
+168,Legal,Male,31,Analyst,18-Nov-16,7,Bachelor,5,6000,25,93,0,1.97,FALSE,30-39,6K-6.9K,high
+169,Legal,Female,39,Specialist,27-Jan-19,5,High School,4,6300,23,84,0,4.25,FALSE,30-39,6K-6.9K,high
+170,Legal,Female,34,Technician,22-Oct-19,4,High School,5,5250,26,49,2,2.59,FALSE,30-39,Below 6K,high
+171,Engineering,Male,23,Manager,09-Apr-23,1,Bachelor,3,7800,9,52,2,4.72,FALSE,20-29,7K+,medium
+172,Finance,Male,22,Developer,28-Mar-15,9,Bachelor,2,6000,17,50,2,3.63,FALSE,20-29,6K-6.9K,low
+173,Operations,Male,43,Developer,30-Mar-20,4,PhD,2,6000,1,63,1,2.24,FALSE,40-49,6K-6.9K,low
+174,Marketing,Female,26,Specialist,20-Sep-19,4,High School,5,6750,18,16,0,3.36,FALSE,20-29,6K-6.9K,high
+175,Customer Support,Female,30,Analyst,05-May-24,0,Bachelor,2,4800,21,42,2,3.85,FALSE,30-39,Below 6K,low
+176,Engineering,Female,48,Developer,26-Aug-24,0,Bachelor,3,6500,12,16,1,3.59,TRUE,40-49,6K-6.9K,medium
+177,HR,Female,54,Consultant,13-May-17,7,Bachelor,3,7150,7,99,1,3.79,FALSE,50+,7K+,medium
+178,Customer Support,Male,25,Analyst,01-Aug-17,7,Bachelor,4,5600,14,47,0,1.14,FALSE,20-29,Below 6K,high
+179,Customer Support,Other,48,Technician,28-Feb-18,6,Bachelor,2,4200,8,79,2,1.3,FALSE,40-49,Below 6K,low
+180,Legal,Female,53,Manager,25-Jun-16,8,Master,2,7200,25,36,2,2.89,FALSE,50+,7K+,low
+181,Legal,Male,28,Technician,13-Apr-17,7,Bachelor,1,3850,13,67,1,2.39,TRUE,20-29,Below 6K,low
+182,Legal,Male,57,Manager,02-Aug-24,0,Bachelor,2,7200,9,56,2,4.28,FALSE,50+,7K+,low
+183,Sales,Male,48,Technician,28-May-18,6,Bachelor,4,4900,29,21,1,2.47,FALSE,40-49,Below 6K,high
+184,Customer Support,Female,32,Manager,14-May-22,2,Bachelor,5,9000,17,62,2,1.46,FALSE,30-39,7K+,high
+185,Finance,Female,33,Technician,15-Jan-15,9,Bachelor,3,4550,1,56,2,2.69,FALSE,30-39,Below 6K,medium
+186,HR,Female,57,Manager,27-Jul-23,1,Bachelor,4,8400,7,59,2,4.38,FALSE,50+,7K+,high
+187,Legal,Male,38,Engineer,19-Oct-18,5,Master,4,8400,22,38,0,3.08,FALSE,30-39,7K+,high
+188,IT,Female,43,Specialist,15-Feb-22,2,High School,2,5400,8,97,2,4.01,FALSE,40-49,Below 6K,low
+189,Customer Support,Female,26,Specialist,18-Jul-23,1,Bachelor,2,5400,15,11,0,2.8,TRUE,20-29,Below 6K,low
+190,Operations,Female,41,Consultant,21-May-22,2,Bachelor,1,6050,24,4,0,3.85,FALSE,40-49,6K-6.9K,low
+191,HR,Female,37,Analyst,17-Mar-16,8,Bachelor,4,5600,0,12,0,2.32,FALSE,30-39,Below 6K,high
+192,Engineering,Female,36,Analyst,26-Dec-20,3,Bachelor,2,4800,24,64,1,3.84,TRUE,30-39,Below 6K,low
+193,Finance,Male,54,Specialist,01-Jan-20,4,Bachelor,1,4950,22,99,0,3.94,FALSE,50+,Below 6K,low
+194,IT,Female,45,Analyst,10-Apr-21,3,Bachelor,2,4800,26,85,0,1.48,FALSE,40-49,Below 6K,low
+195,IT,Female,56,Specialist,25-Jul-17,7,Master,5,6750,22,61,0,2.51,TRUE,50+,6K-6.9K,high
+196,Legal,Female,39,Engineer,30-Mar-23,1,Master,5,9000,24,26,1,1.59,TRUE,30-39,7K+,high
+197,HR,Male,44,Technician,30-Jul-22,2,High School,1,3850,8,15,2,1.49,FALSE,40-49,Below 6K,low
+198,HR,Female,55,Analyst,04-Feb-21,3,Bachelor,5,6000,22,42,2,3.45,FALSE,50+,6K-6.9K,high
+199,IT,Female,52,Developer,08-Apr-19,5,Bachelor,1,5500,28,56,0,3.23,FALSE,50+,Below 6K,low
+200,Operations,Male,27,Consultant,26-Apr-21,3,Master,1,6050,26,38,2,3.73,TRUE,20-29,6K-6.9K,low
+201,Finance,Male,45,Analyst,21-Sep-14,9,Bachelor,5,6000,14,26,1,2.41,FALSE,40-49,6K-6.9K,high
+202,Operations,Female,54,Specialist,13-May-19,5,Bachelor,3,5850,21,14,2,3.47,FALSE,50+,Below 6K,medium
+203,Engineering,Male,32,Consultant,05-Mar-16,8,High School,2,6600,20,87,1,4.06,FALSE,30-39,6K-6.9K,low
+204,Customer Support,Male,52,Analyst,09-Apr-20,4,Bachelor,2,4800,18,37,0,2.63,FALSE,50+,Below 6K,low
+205,HR,Female,38,Technician,01-Dec-17,6,High School,1,3850,2,40,1,1.25,FALSE,30-39,Below 6K,low
+206,Marketing,Male,50,Engineer,29-Aug-23,1,Bachelor,2,7200,21,88,2,4.9,TRUE,50+,7K+,low
+207,Customer Support,Male,41,Manager,19-Nov-20,3,Master,4,8400,1,66,2,1.02,FALSE,40-49,7K+,high
+208,Sales,Female,40,Developer,26-Nov-16,7,High School,1,5500,7,64,1,4.61,TRUE,40-49,Below 6K,low
+209,Engineering,Male,43,Developer,21-Nov-15,8,High School,3,6500,24,75,2,2.96,FALSE,40-49,6K-6.9K,medium
+210,Legal,Male,42,Consultant,26-Apr-15,9,Bachelor,2,6600,13,23,0,4.32,FALSE,40-49,6K-6.9K,low
+211,Finance,Female,26,Specialist,01-Aug-21,3,High School,4,6300,26,98,0,2.86,TRUE,20-29,6K-6.9K,high
+212,Marketing,Male,36,Manager,07-Jan-20,4,PhD,2,7200,9,52,2,2.76,FALSE,30-39,7K+,low
+213,Operations,Male,28,Developer,27-Feb-23,1,Bachelor,4,7000,10,21,0,4.27,FALSE,20-29,7K+,high
+214,Legal,Female,32,Specialist,19-Dec-19,4,Master,5,6750,11,99,1,2.42,FALSE,30-39,6K-6.9K,high
+215,Operations,Female,25,Developer,11-Sep-19,4,High School,3,6500,1,69,0,1.75,FALSE,20-29,6K-6.9K,medium
+216,Sales,Female,30,Manager,25-Mar-18,6,Bachelor,3,7800,22,74,2,4.21,TRUE,30-39,7K+,medium
+217,Operations,Female,42,Engineer,25-Jul-20,4,Master,2,7200,17,5,0,4.58,FALSE,40-49,7K+,low
+218,Legal,Female,22,Analyst,06-Jul-18,6,High School,4,5600,11,7,0,4.77,FALSE,20-29,Below 6K,high
+219,Engineering,Male,23,Engineer,18-Nov-19,4,Bachelor,5,9000,5,95,1,4.14,FALSE,20-29,7K+,high
+220,Customer Support,Male,52,Engineer,13-Nov-15,8,Bachelor,4,8400,27,82,1,4.97,FALSE,50+,7K+,high
+221,Operations,Male,25,Consultant,17-Nov-19,4,High School,2,6600,7,9,1,3.23,FALSE,20-29,6K-6.9K,low
+222,Customer Support,Male,50,Developer,05-Jul-16,8,Bachelor,5,7500,2,14,1,4.74,FALSE,50+,7K+,high
+223,Legal,Male,32,Analyst,14-Feb-21,3,Bachelor,1,4400,25,52,0,4.98,FALSE,30-39,Below 6K,low
+224,Engineering,Female,55,Engineer,16-Oct-21,2,Bachelor,4,8400,23,43,1,2.76,FALSE,50+,7K+,high
+225,Sales,Female,53,Specialist,03-Oct-20,3,Master,1,4950,20,29,1,1.49,FALSE,50+,Below 6K,low
+226,Sales,Female,44,Manager,31-Dec-14,9,PhD,5,9000,11,65,2,4.9,FALSE,40-49,7K+,high
+227,HR,Female,25,Engineer,14-Sep-14,9,Bachelor,5,9000,18,69,0,1.66,FALSE,20-29,7K+,high
+228,Operations,Female,57,Developer,11-May-19,5,Bachelor,2,6000,8,53,2,2.83,FALSE,50+,6K-6.9K,low
+229,IT,Male,42,Consultant,11-Dec-20,3,Bachelor,4,7700,3,7,2,3.62,FALSE,40-49,7K+,high
+230,Legal,Female,39,Engineer,13-Apr-22,2,Bachelor,5,9000,27,70,2,1.39,FALSE,30-39,7K+,high
+231,Operations,Male,25,Manager,25-Jan-15,9,High School,3,7800,6,56,1,3.1,FALSE,20-29,7K+,medium
+232,Customer Support,Female,27,Analyst,10-Jun-22,2,High School,3,5200,28,80,1,2.06,FALSE,20-29,Below 6K,medium
+233,Sales,Female,32,Technician,19-May-15,9,High School,2,4200,20,29,1,1.45,FALSE,30-39,Below 6K,low
+234,Finance,Female,57,Analyst,25-Feb-22,2,Master,4,5600,10,58,0,4.13,FALSE,50+,Below 6K,high
+235,Marketing,Male,32,Analyst,26-Nov-15,8,Master,4,5600,9,91,2,2.65,FALSE,30-39,Below 6K,high
+236,HR,Female,39,Technician,02-Jan-23,1,Master,5,5250,28,29,2,4.33,FALSE,30-39,Below 6K,high
+237,Marketing,Other,44,Technician,26-May-17,7,Bachelor,1,3850,3,33,2,3.51,FALSE,40-49,Below 6K,low
+238,Sales,Male,28,Engineer,19-May-22,2,High School,4,8400,23,37,0,1.96,FALSE,20-29,7K+,high
+239,Operations,Female,42,Consultant,07-Jul-16,8,High School,4,7700,18,55,1,4.65,FALSE,40-49,7K+,high
+240,Finance,Female,27,Manager,09-Oct-22,1,High School,4,8400,19,90,2,1.53,FALSE,20-29,7K+,high
+241,HR,Male,60,Developer,28-Apr-23,1,High School,3,6500,9,32,0,2.18,TRUE,50+,6K-6.9K,medium
+242,Engineering,Male,42,Manager,11-May-23,1,Master,1,6600,24,8,2,4.72,FALSE,40-49,6K-6.9K,low
+243,Finance,Male,33,Developer,28-Jun-18,6,High School,2,6000,28,33,2,3.42,FALSE,30-39,6K-6.9K,low
+244,IT,Female,47,Analyst,05-Oct-21,2,Bachelor,2,4800,4,31,2,1.04,FALSE,40-49,Below 6K,low
+245,HR,Female,45,Manager,28-May-20,4,Bachelor,5,9000,7,65,1,4.79,FALSE,40-49,7K+,high
+246,IT,Female,32,Specialist,25-Dec-21,2,Bachelor,4,6300,26,87,2,4.82,FALSE,30-39,6K-6.9K,high
+247,Marketing,Female,24,Technician,13-Mar-17,7,Bachelor,4,4900,20,18,0,1.46,FALSE,20-29,Below 6K,high
+248,HR,Female,43,Analyst,12-May-21,3,Bachelor,2,4800,5,37,1,4.81,FALSE,40-49,Below 6K,low
+249,Legal,Male,32,Consultant,08-Apr-22,2,High School,3,7150,15,75,0,1.49,FALSE,30-39,7K+,medium
+250,Customer Support,Male,35,Technician,28-Jan-23,1,High School,3,4550,4,84,1,2.03,FALSE,30-39,Below 6K,medium
+251,Engineering,Male,56,Technician,05-Feb-15,9,Bachelor,2,4200,14,20,2,2.7,FALSE,50+,Below 6K,low
+252,IT,Male,35,Consultant,29-Oct-17,6,Bachelor,1,6050,23,25,0,3.76,FALSE,30-39,6K-6.9K,low
+253,Operations,Male,34,Specialist,19-Nov-20,3,Bachelor,3,5850,27,57,2,4.87,FALSE,30-39,Below 6K,medium
+254,Legal,Female,30,Consultant,18-Feb-15,9,Master,4,7700,26,37,1,3.4,FALSE,30-39,7K+,high
+255,Marketing,Other,46,Developer,18-Nov-17,6,High School,1,5500,24,3,1,1.05,FALSE,40-49,Below 6K,low
+256,Operations,Male,34,Consultant,07-Apr-15,9,High School,4,7700,8,81,2,3.17,FALSE,30-39,7K+,high
+257,Engineering,Female,45,Specialist,15-Feb-19,5,Bachelor,2,5400,16,12,2,1.61,FALSE,40-49,Below 6K,low
+258,HR,Female,31,Specialist,17-Jun-19,5,Bachelor,3,5850,22,78,0,3.3,FALSE,30-39,Below 6K,medium
+259,Sales,Male,26,Technician,09-Jan-16,8,Bachelor,5,5250,25,57,1,3.98,FALSE,20-29,Below 6K,high
+260,Marketing,Male,40,Manager,08-Apr-20,4,High School,2,7200,6,94,1,4.41,FALSE,40-49,7K+,low
+261,Marketing,Male,46,Developer,26-Jul-18,6,Master,2,6000,8,93,2,4.27,FALSE,40-49,6K-6.9K,low
+262,Operations,Female,32,Technician,12-Nov-19,4,Bachelor,1,3850,10,89,1,1.43,FALSE,30-39,Below 6K,low
+263,HR,Female,26,Developer,24-Sep-17,6,Master,2,6000,7,9,0,4.97,FALSE,20-29,6K-6.9K,low
+264,IT,Male,52,Manager,18-Jul-20,4,Master,4,8400,29,18,1,2.68,FALSE,50+,7K+,high
+265,Marketing,Other,26,Engineer,02-Jul-21,3,PhD,4,8400,2,81,0,3.98,FALSE,20-29,7K+,high
+266,IT,Female,34,Technician,14-Dec-17,6,PhD,5,5250,17,4,0,4.18,FALSE,30-39,Below 6K,high
+267,Finance,Male,31,Developer,06-Nov-15,8,Bachelor,1,5500,24,76,0,3.39,FALSE,30-39,Below 6K,low
+268,IT,Female,54,Manager,12-Jul-17,7,Bachelor,2,7200,11,32,2,4.08,FALSE,50+,7K+,low
+269,Operations,Male,39,Technician,01-Jul-24,0,High School,2,4200,29,69,2,4.5,TRUE,30-39,Below 6K,low
+270,IT,Female,52,Manager,04-Dec-16,7,Bachelor,3,7800,20,57,0,1.54,FALSE,50+,7K+,medium
+271,Sales,Male,39,Specialist,05-Feb-21,3,Bachelor,3,5850,22,19,0,1.52,FALSE,30-39,Below 6K,medium
+272,Operations,Male,31,Consultant,11-Dec-15,8,Master,1,6050,19,25,0,3.33,FALSE,30-39,6K-6.9K,low
+273,Marketing,Female,44,Manager,11-Feb-15,9,Bachelor,5,9000,28,5,2,2.63,FALSE,40-49,7K+,high
+274,Operations,Other,25,Engineer,23-Sep-15,8,Bachelor,1,6600,23,33,1,4.21,FALSE,20-29,6K-6.9K,low
+275,IT,Male,26,Technician,22-Sep-22,1,Bachelor,4,4900,8,12,0,2.64,FALSE,20-29,Below 6K,high
+276,Marketing,Male,56,Consultant,08-Jan-23,1,Bachelor,4,7700,25,53,2,4.9,FALSE,50+,7K+,high
+277,Engineering,Male,27,Engineer,18-Jul-23,1,PhD,4,8400,15,74,2,1.53,FALSE,20-29,7K+,high
+278,Legal,Female,59,Consultant,12-Aug-20,4,Bachelor,3,7150,20,66,0,1.84,FALSE,50+,7K+,medium
+279,Operations,Male,34,Developer,02-Feb-19,5,Bachelor,3,6500,19,48,1,1.9,FALSE,30-39,6K-6.9K,medium
+280,Customer Support,Male,54,Consultant,31-Aug-16,8,Bachelor,2,6600,13,49,2,3.92,FALSE,50+,6K-6.9K,low
+281,Sales,Female,57,Analyst,16-Feb-19,5,Bachelor,1,4400,15,36,0,2.5,FALSE,50+,Below 6K,low
+282,Engineering,Female,43,Consultant,23-Oct-14,9,Bachelor,5,8250,5,42,0,3.06,TRUE,40-49,7K+,high
+283,Customer Support,Male,36,Engineer,01-May-23,1,Bachelor,3,7800,23,45,2,4.79,FALSE,30-39,7K+,medium
+284,IT,Female,41,Technician,18-Jun-18,6,High School,4,4900,24,75,2,3.91,FALSE,40-49,Below 6K,high
+285,Marketing,Female,38,Manager,28-Aug-21,3,High School,3,7800,29,66,2,4.85,FALSE,30-39,7K+,medium
+286,HR,Female,40,Manager,06-Dec-23,0,Bachelor,1,6600,1,2,1,1.65,TRUE,40-49,6K-6.9K,low
+287,HR,Female,22,Consultant,29-Jan-23,1,High School,4,7700,25,58,2,3.36,FALSE,20-29,7K+,high
+288,Finance,Male,34,Analyst,08-Aug-15,9,Bachelor,5,6000,21,66,0,4.91,FALSE,30-39,6K-6.9K,high
+289,Operations,Female,58,Manager,01-Nov-15,8,Master,5,9000,27,94,2,1.96,FALSE,50+,7K+,high
+290,Legal,Male,42,Analyst,22-Dec-19,4,High School,4,5600,23,5,0,2.29,TRUE,40-49,Below 6K,high
+291,Engineering,Male,40,Consultant,09-Mar-16,8,High School,4,7700,23,88,2,3.49,FALSE,40-49,7K+,high
+292,Sales,Male,56,Analyst,06-Feb-21,3,Bachelor,3,5200,29,46,1,2.26,FALSE,50+,Below 6K,medium
+293,Sales,Male,51,Developer,27-Oct-17,6,High School,3,6500,27,33,0,4.16,FALSE,50+,6K-6.9K,medium
+294,Operations,Female,22,Consultant,10-Aug-16,8,PhD,4,7700,9,2,2,2.74,FALSE,20-29,7K+,high
+295,Sales,Male,48,Specialist,23-Apr-21,3,Bachelor,4,6300,25,39,0,1.39,FALSE,40-49,6K-6.9K,high
+296,HR,Female,40,Consultant,12-Feb-22,2,High School,3,7150,29,21,2,3.99,FALSE,40-49,7K+,medium
+297,Operations,Female,36,Consultant,07-Mar-20,4,Master,4,7700,8,35,1,3.34,TRUE,30-39,7K+,high
+298,Customer Support,Female,30,Analyst,18-Feb-23,1,PhD,1,4400,1,76,0,4.39,FALSE,30-39,Below 6K,low
+299,Engineering,Other,22,Engineer,27-Feb-17,7,Bachelor,2,7200,6,92,1,5,FALSE,20-29,7K+,low
+300,Finance,Female,53,Technician,29-Jun-23,1,Bachelor,2,4200,23,23,1,2.5,FALSE,50+,Below 6K,low
+301,Marketing,Male,34,Developer,16-Sep-21,2,Master,2,6000,7,68,0,4.69,FALSE,30-39,6K-6.9K,low
+302,Customer Support,Female,23,Developer,13-Aug-18,6,Master,5,7500,17,62,1,3.37,FALSE,20-29,7K+,high
+303,Sales,Female,57,Analyst,05-Aug-19,5,Bachelor,5,6000,17,19,2,2.01,FALSE,50+,6K-6.9K,high
+304,Operations,Male,24,Consultant,29-Dec-15,8,Master,1,6050,5,94,0,1.21,FALSE,20-29,6K-6.9K,low
+305,Engineering,Male,46,Analyst,16-Feb-21,3,Bachelor,1,4400,5,20,1,4.98,FALSE,40-49,Below 6K,low
+306,Legal,Female,51,Developer,25-Apr-20,4,Bachelor,5,7500,21,77,1,3.65,FALSE,50+,7K+,high
+307,Engineering,Female,46,Technician,26-Aug-17,7,Bachelor,1,3850,17,26,1,2.97,TRUE,40-49,Below 6K,low
+308,Sales,Female,58,Analyst,01-Oct-21,2,Master,1,4400,28,30,0,3.65,FALSE,50+,Below 6K,low
+309,Marketing,Female,24,Manager,13-Jan-16,8,Bachelor,2,7200,4,53,0,1.11,FALSE,20-29,7K+,low
+310,Marketing,Female,35,Consultant,29-Apr-19,5,Bachelor,2,6600,1,76,2,2.32,FALSE,30-39,6K-6.9K,low
+311,Finance,Female,46,Developer,07-Oct-22,1,Master,3,6500,5,84,2,3.45,FALSE,40-49,6K-6.9K,medium
+312,Customer Support,Male,34,Engineer,07-Apr-21,3,High School,3,7800,29,57,0,2.21,FALSE,30-39,7K+,medium
+313,Customer Support,Male,47,Consultant,02-Jun-19,5,Master,1,6050,26,90,0,4.23,FALSE,40-49,6K-6.9K,low
+314,Engineering,Male,54,Analyst,19-Nov-23,0,High School,4,5600,1,84,0,1.18,TRUE,50+,Below 6K,high
+315,Sales,Female,43,Manager,01-Apr-21,3,High School,2,7200,25,57,2,1.42,TRUE,40-49,7K+,low
+316,Sales,Male,42,Analyst,19-Sep-23,0,High School,4,5600,14,71,2,1.22,FALSE,40-49,Below 6K,high
+317,Operations,Male,23,Consultant,14-Jul-19,5,Master,2,6600,6,28,2,2.09,FALSE,20-29,6K-6.9K,low
+318,Finance,Female,27,Engineer,01-Nov-15,8,Bachelor,1,6600,13,66,0,2.49,FALSE,20-29,6K-6.9K,low
+319,Sales,Female,22,Engineer,17-Jul-16,8,High School,3,7800,1,52,1,3.48,FALSE,20-29,7K+,medium
+320,Sales,Female,45,Engineer,19-Jun-17,7,Bachelor,3,7800,4,34,1,4.7,FALSE,40-49,7K+,medium
+321,Finance,Female,36,Specialist,19-Oct-20,3,High School,1,4950,26,41,1,3.53,FALSE,30-39,Below 6K,low
+322,Engineering,Female,23,Consultant,29-Aug-16,8,Master,1,6050,0,37,1,4.67,FALSE,20-29,6K-6.9K,low
+323,IT,Male,26,Manager,12-May-21,3,High School,5,9000,9,3,1,1.62,FALSE,20-29,7K+,high
+324,Marketing,Female,34,Consultant,23-Jun-18,6,High School,1,6050,21,58,2,1.59,FALSE,30-39,6K-6.9K,low
+325,Finance,Male,24,Analyst,25-Aug-18,6,High School,4,5600,15,87,1,2.74,FALSE,20-29,Below 6K,high
+326,HR,Male,57,Developer,25-Nov-23,0,Bachelor,4,7000,9,74,2,3.21,FALSE,50+,7K+,high
+327,Finance,Female,46,Consultant,14-Jun-16,8,Bachelor,4,7700,11,65,2,3.89,FALSE,40-49,7K+,high
+328,Finance,Female,22,Developer,17-Aug-20,4,High School,5,7500,19,42,0,4.75,FALSE,20-29,7K+,high
+329,Legal,Other,53,Consultant,22-Oct-17,6,Bachelor,2,6600,21,42,1,1.93,FALSE,50+,6K-6.9K,low
+330,Operations,Female,27,Specialist,27-Sep-22,1,High School,4,6300,4,26,2,3.45,FALSE,20-29,6K-6.9K,high
+331,Marketing,Other,34,Consultant,17-Jan-16,8,Bachelor,5,8250,11,4,0,3.33,FALSE,30-39,7K+,high
+332,HR,Female,50,Technician,12-Apr-19,5,High School,4,4900,0,3,1,4.09,FALSE,50+,Below 6K,high
+333,Operations,Female,31,Engineer,10-Feb-22,2,High School,4,8400,1,68,1,3.28,FALSE,30-39,7K+,high
+334,Operations,Male,38,Technician,25-Feb-16,8,PhD,2,4200,28,45,2,1.74,FALSE,30-39,Below 6K,low
+335,Finance,Female,33,Consultant,30-Sep-22,1,High School,5,8250,4,86,1,2.71,FALSE,30-39,7K+,high
+336,IT,Female,28,Consultant,12-Nov-21,2,Master,2,6600,6,83,2,2.63,FALSE,20-29,6K-6.9K,low
+337,Customer Support,Male,35,Engineer,12-Dec-16,7,High School,1,6600,0,26,1,4.64,FALSE,30-39,6K-6.9K,low
+338,Operations,Female,55,Developer,07-Feb-17,7,Master,1,5500,26,51,1,1.94,FALSE,50+,Below 6K,low
+339,Finance,Male,60,Specialist,14-Sep-23,0,Bachelor,3,5850,9,67,0,1.85,TRUE,50+,Below 6K,medium
+340,Legal,Female,45,Specialist,23-Feb-17,7,Bachelor,4,6300,14,22,0,1.35,FALSE,40-49,6K-6.9K,high
+341,Marketing,Male,43,Engineer,15-Feb-23,1,Master,1,6600,3,59,0,3.48,FALSE,40-49,6K-6.9K,low
+342,Finance,Male,31,Manager,28-Aug-24,0,High School,2,7200,1,20,0,4.73,FALSE,30-39,7K+,low
+343,Finance,Female,29,Manager,01-Apr-21,3,Master,5,9000,11,6,1,3.11,FALSE,20-29,7K+,high
+344,Customer Support,Female,27,Analyst,25-Sep-20,3,Bachelor,3,5200,1,86,0,3.92,FALSE,20-29,Below 6K,medium
+345,Operations,Female,56,Developer,09-Sep-22,1,Bachelor,4,7000,16,36,0,2.15,TRUE,50+,7K+,high
+346,Operations,Female,58,Analyst,17-Nov-17,6,Bachelor,3,5200,19,73,0,2.72,FALSE,50+,Below 6K,medium
+347,HR,Female,54,Analyst,05-Apr-19,5,Bachelor,3,5200,9,97,2,3.72,FALSE,50+,Below 6K,medium
+348,HR,Male,48,Consultant,14-May-21,3,Master,3,7150,28,57,0,1.14,FALSE,40-49,7K+,medium
+349,Sales,Male,31,Technician,08-Jun-17,7,Bachelor,4,4900,15,81,1,2.53,FALSE,30-39,Below 6K,high
+350,Engineering,Female,43,Manager,18-Apr-20,4,Bachelor,2,7200,17,9,0,2.02,FALSE,40-49,7K+,low
+351,IT,Female,26,Developer,11-Sep-20,3,Bachelor,4,7000,23,89,2,3.08,FALSE,20-29,7K+,high
+352,HR,Male,43,Engineer,03-Jan-19,5,Bachelor,1,6600,27,32,0,4.88,FALSE,40-49,6K-6.9K,low
+353,Legal,Female,25,Specialist,13-Feb-22,2,Bachelor,3,5850,18,68,2,4.37,FALSE,20-29,Below 6K,medium
+354,Legal,Female,44,Analyst,19-Sep-22,1,Bachelor,2,4800,18,41,1,3.33,FALSE,40-49,Below 6K,low
+355,Customer Support,Male,46,Technician,16-Jul-20,4,Bachelor,5,5250,15,11,1,4.78,FALSE,40-49,Below 6K,high
+356,HR,Female,27,Developer,31-Jul-20,4,High School,1,5500,14,94,2,2.31,FALSE,20-29,Below 6K,low
+357,Operations,Female,53,Specialist,25-Jan-22,2,High School,4,6300,23,63,2,2.89,TRUE,50+,6K-6.9K,high
+358,Sales,Female,32,Technician,25-Mar-22,2,Bachelor,5,5250,10,90,0,3.62,FALSE,30-39,Below 6K,high
+359,Operations,Male,36,Technician,02-Dec-18,5,High School,3,4550,24,35,1,4.75,FALSE,30-39,Below 6K,medium
+360,Finance,Male,52,Consultant,11-Mar-23,1,High School,2,6600,7,10,2,3.55,FALSE,50+,6K-6.9K,low
+361,HR,Male,50,Engineer,27-Aug-23,1,High School,2,7200,26,42,1,3.92,FALSE,50+,7K+,low
+362,Sales,Female,38,Specialist,11-Jun-16,8,High School,4,6300,25,91,1,1.07,FALSE,30-39,6K-6.9K,high
+363,IT,Female,30,Specialist,20-Jan-22,2,Master,5,6750,13,92,2,1.82,FALSE,30-39,6K-6.9K,high
+364,Customer Support,Female,37,Engineer,18-Aug-24,0,High School,5,9000,8,37,1,2.64,TRUE,30-39,7K+,high
+365,Legal,Male,40,Technician,12-Jan-22,2,High School,3,4550,24,98,1,3.42,TRUE,40-49,Below 6K,medium
+366,Marketing,Male,45,Manager,16-Jun-21,3,Bachelor,3,7800,18,0,2,3.26,FALSE,40-49,7K+,medium
+367,Marketing,Female,42,Technician,03-Feb-19,5,Bachelor,1,3850,23,28,2,1.03,FALSE,40-49,Below 6K,low
+368,Marketing,Male,39,Manager,14-Nov-17,6,Master,4,8400,8,74,0,3.68,FALSE,30-39,7K+,high
+369,Legal,Female,28,Engineer,22-Jan-16,8,Master,3,7800,15,54,0,4.31,FALSE,20-29,7K+,medium
+370,HR,Other,30,Manager,09-Apr-15,9,Master,4,8400,10,88,2,3.17,TRUE,30-39,7K+,high
+371,Engineering,Male,32,Consultant,28-Dec-17,6,Bachelor,3,7150,2,80,0,2.96,FALSE,30-39,7K+,medium
+372,Customer Support,Male,50,Specialist,10-Oct-17,6,Bachelor,5,6750,12,27,1,2.69,FALSE,50+,6K-6.9K,high
+373,Customer Support,Female,27,Specialist,28-Mar-17,7,PhD,1,4950,3,0,0,4.99,FALSE,20-29,Below 6K,low
+374,IT,Female,32,Manager,04-Apr-24,0,Bachelor,3,7800,25,7,1,1.29,TRUE,30-39,7K+,medium
+375,Operations,Female,37,Manager,03-Jun-15,9,High School,4,8400,16,11,0,2.38,FALSE,30-39,7K+,high
+376,HR,Female,43,Analyst,14-May-16,8,Bachelor,1,4400,16,80,0,1.08,FALSE,40-49,Below 6K,low
+377,Finance,Male,28,Manager,10-Apr-22,2,High School,2,7200,1,7,2,3.76,FALSE,20-29,7K+,low
+378,Engineering,Female,33,Developer,11-May-15,9,Bachelor,4,7000,28,29,0,3.35,TRUE,30-39,7K+,high
+379,Sales,Female,53,Engineer,03-Jan-19,5,High School,1,6600,14,40,0,4.22,FALSE,50+,6K-6.9K,low
+380,Customer Support,Female,44,Specialist,17-Jan-19,5,Bachelor,1,4950,10,87,2,2.49,FALSE,40-49,Below 6K,low
+381,Operations,Female,26,Technician,25-Dec-14,9,High School,3,4550,25,43,2,3.79,FALSE,20-29,Below 6K,medium
+382,Customer Support,Male,42,Specialist,25-Dec-16,7,Master,1,4950,23,32,2,3.49,FALSE,40-49,Below 6K,low
+383,Marketing,Male,36,Specialist,22-Apr-21,3,Master,3,5850,12,58,1,4.11,FALSE,30-39,Below 6K,medium
+384,Engineering,Female,34,Developer,23-Oct-21,2,High School,3,6500,20,88,1,3.15,FALSE,30-39,6K-6.9K,medium
+385,Sales,Female,52,Manager,21-Jun-20,4,High School,3,7800,17,61,1,2.42,FALSE,50+,7K+,medium
+386,Operations,Male,31,Manager,15-Oct-18,5,High School,3,7800,23,31,1,4.62,FALSE,30-39,7K+,medium
+387,Sales,Male,26,Manager,06-May-16,8,High School,5,9000,11,64,1,2.21,FALSE,20-29,7K+,high
+388,Operations,Female,43,Manager,23-May-24,0,PhD,2,7200,7,25,2,1.17,FALSE,40-49,7K+,low
+389,Finance,Female,60,Technician,07-Jan-20,4,High School,4,4900,10,95,1,4.48,TRUE,50+,Below 6K,high
+390,IT,Female,23,Developer,12-Mar-16,8,High School,2,6000,14,89,2,2.82,FALSE,20-29,6K-6.9K,low
+391,Engineering,Male,33,Manager,27-Jan-16,8,Bachelor,3,7800,20,76,2,3.72,FALSE,30-39,7K+,medium
+392,Finance,Male,25,Manager,19-Mar-21,3,High School,3,7800,11,85,0,1.65,FALSE,20-29,7K+,medium
+393,Finance,Male,35,Technician,30-Jan-17,7,Bachelor,3,4550,10,67,2,4.01,FALSE,30-39,Below 6K,medium
+394,Marketing,Female,31,Engineer,13-Oct-14,9,Master,4,8400,23,25,2,4.68,FALSE,30-39,7K+,high
+395,IT,Female,34,Engineer,31-Jan-20,4,Bachelor,4,8400,5,19,2,3.15,TRUE,30-39,7K+,high
+396,Customer Support,Female,39,Developer,26-Jul-15,9,High School,1,5500,20,97,1,2.44,FALSE,30-39,Below 6K,low
+397,Finance,Male,35,Developer,14-Oct-20,3,High School,4,7000,25,96,1,2,FALSE,30-39,7K+,high
+398,Legal,Male,41,Technician,18-Feb-18,6,Bachelor,4,4900,27,29,0,3.13,FALSE,40-49,Below 6K,high
+399,Finance,Male,25,Technician,18-Jan-17,7,High School,1,3850,3,12,2,1.53,FALSE,20-29,Below 6K,low
+400,HR,Other,31,Technician,06-Nov-23,0,Bachelor,2,4200,6,7,2,4.51,TRUE,30-39,Below 6K,low
+401,Marketing,Female,54,Specialist,11-Apr-22,2,Bachelor,3,5850,21,74,0,4.81,FALSE,50+,Below 6K,medium
+402,Finance,Female,58,Engineer,03-Mar-19,5,High School,2,7200,7,70,2,4.47,FALSE,50+,7K+,low
+403,HR,Male,39,Consultant,14-Aug-22,2,High School,4,7700,9,60,0,1.17,FALSE,30-39,7K+,high
+404,IT,Male,25,Specialist,05-Sep-20,4,Bachelor,3,5850,1,40,1,1.56,FALSE,20-29,Below 6K,medium
+405,Customer Support,Female,27,Consultant,22-Mar-18,6,High School,5,8250,7,66,1,4.95,FALSE,20-29,7K+,high
+406,Sales,Male,41,Engineer,07-Jun-19,5,Bachelor,3,7800,17,73,0,1.81,TRUE,40-49,7K+,medium
+407,HR,Male,40,Analyst,14-Oct-21,2,PhD,2,4800,10,24,2,3.01,FALSE,40-49,Below 6K,low
+408,IT,Male,30,Developer,09-Jul-15,9,High School,3,6500,1,41,1,2.31,FALSE,30-39,6K-6.9K,medium
+409,IT,Male,52,Analyst,16-Feb-20,4,Bachelor,2,4800,28,51,1,4.39,FALSE,50+,Below 6K,low
+410,Engineering,Female,38,Specialist,22-Jan-24,0,PhD,2,5400,29,13,0,3.55,TRUE,30-39,Below 6K,low
+411,Engineering,Male,50,Engineer,20-Feb-21,3,Bachelor,5,9000,19,88,2,2.34,FALSE,50+,7K+,high
+412,Marketing,Male,29,Technician,11-Jul-16,8,Bachelor,5,5250,16,18,1,3.98,FALSE,20-29,Below 6K,high
+413,Customer Support,Male,22,Developer,24-Dec-16,7,Bachelor,1,5500,29,55,0,1.05,FALSE,20-29,Below 6K,low
+414,Engineering,Male,29,Analyst,05-May-18,6,High School,4,5600,23,47,2,4.79,FALSE,20-29,Below 6K,high
+415,Customer Support,Other,33,Technician,29-Dec-21,2,Bachelor,5,5250,19,97,2,2.04,FALSE,30-39,Below 6K,high
+416,IT,Female,30,Developer,17-Oct-20,3,High School,2,6000,16,9,1,4.93,FALSE,30-39,6K-6.9K,low
+417,Operations,Male,42,Manager,20-Oct-20,3,Bachelor,2,7200,24,93,0,1.77,FALSE,40-49,7K+,low
+418,IT,Male,42,Specialist,10-Aug-18,6,PhD,3,5850,24,94,2,1.89,FALSE,40-49,Below 6K,medium
+419,Customer Support,Female,42,Engineer,07-Oct-15,8,Master,5,9000,10,86,2,1.72,FALSE,40-49,7K+,high
+420,Marketing,Male,38,Engineer,04-Jan-23,1,High School,4,8400,25,58,0,2.04,TRUE,30-39,7K+,high
+421,Legal,Female,37,Technician,15-Feb-20,4,PhD,5,5250,13,63,0,4.07,FALSE,30-39,Below 6K,high
+422,Marketing,Male,52,Technician,19-Sep-17,6,Master,3,4550,16,43,1,4.59,FALSE,50+,Below 6K,medium
+423,Marketing,Male,51,Engineer,16-Aug-18,6,Master,1,6600,5,2,0,4.16,FALSE,50+,6K-6.9K,low
+424,Finance,Female,31,Manager,15-May-17,7,Master,4,8400,8,62,0,3.74,FALSE,30-39,7K+,high
+425,IT,Female,30,Developer,28-Sep-18,5,PhD,2,6000,23,48,0,1.62,FALSE,30-39,6K-6.9K,low
+426,Sales,Female,45,Engineer,18-Jul-23,1,Bachelor,2,7200,10,28,2,1.95,FALSE,40-49,7K+,low
+427,Finance,Female,22,Developer,02-Jun-22,2,Bachelor,5,7500,21,41,0,3.48,FALSE,20-29,7K+,high
+428,Customer Support,Female,48,Engineer,24-Jun-17,7,Bachelor,4,8400,6,19,1,3.85,FALSE,40-49,7K+,high
+429,HR,Male,25,Engineer,07-Jul-20,4,High School,2,7200,23,12,1,2,FALSE,20-29,7K+,low
+430,IT,Male,50,Manager,17-Nov-23,0,Bachelor,2,7200,27,4,2,2.94,FALSE,50+,7K+,low
+431,Engineering,Female,57,Developer,08-Dec-21,2,Bachelor,2,6000,26,57,1,3.86,FALSE,50+,6K-6.9K,low
+432,Engineering,Female,23,Developer,24-Feb-21,3,High School,4,7000,24,27,0,2.38,FALSE,20-29,7K+,high
+433,Customer Support,Female,40,Consultant,21-Feb-24,0,High School,1,6050,9,45,0,3.04,FALSE,40-49,6K-6.9K,low
+434,Marketing,Female,50,Technician,31-Aug-16,8,High School,4,4900,5,5,0,1.57,FALSE,50+,Below 6K,high
+435,Operations,Male,45,Specialist,29-Jan-19,5,Master,3,5850,2,75,2,4.35,FALSE,40-49,Below 6K,medium
+436,Sales,Male,45,Manager,10-Mar-19,5,Bachelor,4,8400,2,85,0,1.18,TRUE,40-49,7K+,high
+437,Legal,Male,51,Consultant,11-Apr-23,1,High School,3,7150,2,5,2,1.9,FALSE,50+,7K+,medium
+438,Operations,Female,23,Manager,29-Jul-22,2,High School,5,9000,3,50,0,4.13,FALSE,20-29,7K+,high
+439,Marketing,Male,35,Analyst,20-Nov-17,6,Bachelor,1,4400,10,26,0,3.78,FALSE,30-39,Below 6K,low
+440,Legal,Male,48,Engineer,24-Oct-14,9,High School,5,9000,12,5,0,2.27,FALSE,40-49,7K+,high
+441,HR,Male,39,Consultant,05-Sep-17,7,Bachelor,5,8250,18,12,1,2.13,FALSE,30-39,7K+,high
+442,Engineering,Male,49,Analyst,24-Mar-19,5,Bachelor,2,4800,4,54,0,2.26,FALSE,40-49,Below 6K,low
+443,Customer Support,Male,28,Engineer,18-Mar-17,7,Master,4,8400,11,40,1,2.64,FALSE,20-29,7K+,high
+444,HR,Male,30,Analyst,01-Nov-20,3,Master,4,5600,17,7,2,4.33,FALSE,30-39,Below 6K,high
+445,HR,Male,39,Manager,30-Apr-16,8,Bachelor,4,8400,5,10,1,1.81,FALSE,30-39,7K+,high
+446,Sales,Other,56,Specialist,06-Feb-20,4,High School,4,6300,11,88,1,1.66,FALSE,50+,6K-6.9K,high
+447,Marketing,Female,23,Consultant,03-Apr-21,3,High School,4,7700,12,37,1,2.83,FALSE,20-29,7K+,high
+448,Sales,Female,30,Developer,13-Apr-15,9,High School,2,6000,9,62,0,3.37,FALSE,30-39,6K-6.9K,low
+449,Marketing,Female,47,Consultant,16-Feb-24,0,Bachelor,4,7700,27,93,0,2.64,FALSE,40-49,7K+,high
+450,IT,Male,53,Technician,15-Oct-23,0,PhD,4,4900,14,7,1,2.35,FALSE,50+,Below 6K,high
+451,Customer Support,Female,49,Engineer,16-Oct-20,3,Bachelor,1,6600,6,78,1,1.13,TRUE,40-49,6K-6.9K,low
+452,Customer Support,Female,47,Specialist,19-Apr-20,4,PhD,2,5400,7,53,1,4.9,FALSE,40-49,Below 6K,low
+453,Customer Support,Male,36,Specialist,10-Jan-20,4,PhD,1,4950,18,59,2,2.15,FALSE,30-39,Below 6K,low
+454,Operations,Female,31,Developer,01-Aug-21,3,Bachelor,5,7500,27,28,1,1.04,FALSE,30-39,7K+,high
+455,IT,Male,33,Developer,10-Aug-19,5,Bachelor,4,7000,28,68,1,3.47,FALSE,30-39,7K+,high
+456,Operations,Male,23,Manager,27-Sep-15,8,High School,5,9000,13,94,0,4.38,FALSE,20-29,7K+,high
+457,Marketing,Female,35,Technician,01-Jul-15,9,Master,2,4200,3,4,0,4.51,FALSE,30-39,Below 6K,low
+458,Engineering,Female,52,Consultant,01-Oct-20,3,Bachelor,4,7700,9,40,1,4.05,FALSE,50+,7K+,high
+459,Sales,Male,39,Consultant,16-Mar-17,7,Master,4,7700,27,60,2,3.6,TRUE,30-39,7K+,high
+460,Engineering,Female,59,Engineer,06-Oct-15,8,Bachelor,2,7200,18,67,0,2.44,TRUE,50+,7K+,low
+461,Operations,Male,28,Analyst,17-Jul-20,4,Bachelor,3,5200,28,98,2,2.54,FALSE,20-29,Below 6K,medium
+462,Sales,Male,60,Developer,16-Apr-18,6,High School,1,5500,21,74,2,3.9,FALSE,50+,Below 6K,low
+463,IT,Male,26,Manager,23-Nov-14,9,High School,4,8400,3,62,1,3.06,FALSE,20-29,7K+,high
+464,Operations,Female,37,Consultant,22-Dec-20,3,Bachelor,3,7150,12,64,2,4.72,FALSE,30-39,7K+,medium
+465,IT,Male,40,Specialist,30-May-18,6,Master,3,5850,13,35,2,3.39,FALSE,40-49,Below 6K,medium
+466,HR,Male,47,Manager,10-Mar-22,2,High School,3,7800,1,5,1,1.2,FALSE,40-49,7K+,medium
+467,Sales,Male,50,Specialist,01-Sep-16,8,Bachelor,5,6750,28,99,2,3.18,FALSE,50+,6K-6.9K,high
+468,Marketing,Male,56,Consultant,05-Nov-22,1,Bachelor,5,8250,28,48,2,2.97,FALSE,50+,7K+,high
+469,Finance,Male,39,Consultant,07-Mar-18,6,Bachelor,2,6600,0,54,1,3.39,FALSE,30-39,6K-6.9K,low
+470,Operations,Male,36,Analyst,26-Jan-18,6,High School,5,6000,23,48,1,2.42,FALSE,30-39,6K-6.9K,high
+471,IT,Female,47,Developer,18-Jun-22,2,Bachelor,4,7000,15,22,0,1.59,FALSE,40-49,7K+,high
+472,Customer Support,Female,47,Specialist,19-Oct-23,0,Bachelor,4,6300,28,27,1,2.34,FALSE,40-49,6K-6.9K,high
+473,IT,Female,27,Engineer,18-Mar-15,9,Bachelor,4,8400,2,64,0,3.03,FALSE,20-29,7K+,high
+474,Marketing,Male,32,Consultant,03-Sep-19,5,Bachelor,4,7700,2,70,2,3.74,FALSE,30-39,7K+,high
+475,Engineering,Female,29,Consultant,03-Aug-18,6,High School,4,7700,22,6,1,4.56,FALSE,20-29,7K+,high
+476,Sales,Female,39,Technician,03-Jun-19,5,High School,3,4550,8,58,2,1.22,FALSE,30-39,Below 6K,medium
+477,Engineering,Male,26,Engineer,23-Aug-22,2,Bachelor,3,7800,7,3,0,1.2,FALSE,20-29,7K+,medium
+478,Legal,Male,39,Specialist,11-Jun-17,7,Bachelor,1,4950,11,26,2,2.84,FALSE,30-39,Below 6K,low
+479,HR,Male,32,Analyst,06-Jun-18,6,Bachelor,2,4800,25,10,0,1.81,FALSE,30-39,Below 6K,low
+480,IT,Male,37,Consultant,03-Jan-18,6,High School,5,8250,0,42,2,4.28,FALSE,30-39,7K+,high
+481,IT,Male,57,Engineer,08-Aug-16,8,PhD,4,8400,26,39,0,2.17,FALSE,50+,7K+,high
+482,Engineering,Female,52,Specialist,13-Oct-20,3,High School,3,5850,24,48,0,2.91,FALSE,50+,Below 6K,medium
+483,Operations,Male,55,Manager,15-Aug-22,2,Bachelor,3,7800,17,34,0,1.23,FALSE,50+,7K+,medium
+484,Operations,Female,58,Consultant,05-Jul-19,5,High School,1,6050,21,26,2,1.79,FALSE,50+,6K-6.9K,low
+485,Operations,Male,37,Specialist,12-Jan-18,6,Bachelor,5,6750,22,8,1,4.83,FALSE,30-39,6K-6.9K,high
+486,HR,Male,59,Consultant,16-May-20,4,Bachelor,3,7150,15,80,1,2.18,FALSE,50+,7K+,medium
+487,Customer Support,Male,43,Technician,29-Nov-23,0,Bachelor,5,5250,1,20,1,3.86,FALSE,40-49,Below 6K,high
+488,Engineering,Male,41,Consultant,25-Nov-19,4,Bachelor,1,6050,14,86,0,3.65,FALSE,40-49,6K-6.9K,low
+489,IT,Female,48,Specialist,06-Jul-17,7,High School,2,5400,6,97,1,2.47,FALSE,40-49,Below 6K,low
+490,Finance,Female,42,Analyst,11-Aug-19,5,Master,4,5600,2,11,2,3.21,FALSE,40-49,Below 6K,high
+491,Legal,Female,51,Consultant,02-Dec-19,4,High School,1,6050,25,99,1,2.01,FALSE,50+,6K-6.9K,low
+492,Customer Support,Male,36,Manager,07-Apr-22,2,Bachelor,3,7800,20,7,2,4.68,FALSE,30-39,7K+,medium
+493,Legal,Male,22,Engineer,25-Jan-17,7,Bachelor,1,6600,21,64,2,4.99,FALSE,20-29,6K-6.9K,low
+494,Marketing,Other,48,Specialist,10-Dec-17,6,Master,4,6300,3,88,1,4.92,FALSE,40-49,6K-6.9K,high
+495,Sales,Male,41,Specialist,23-Jan-24,0,Bachelor,2,5400,7,37,0,2.3,FALSE,40-49,Below 6K,low
+496,Finance,Female,50,Developer,29-Aug-24,0,PhD,4,7000,23,69,2,4.31,FALSE,50+,7K+,high
+497,Engineering,Male,27,Consultant,07-May-19,5,Bachelor,2,6600,10,26,1,3.5,FALSE,20-29,6K-6.9K,low
+498,Engineering,Male,35,Analyst,19-Jun-19,5,High School,4,5600,18,48,0,2.95,FALSE,30-39,Below 6K,high
+499,Operations,Female,27,Specialist,10-Mar-19,5,High School,3,5850,0,62,1,3.88,FALSE,20-29,Below 6K,medium
+500,Marketing,Male,27,Analyst,25-Sep-20,3,Bachelor,5,6000,15,97,0,3.38,FALSE,20-29,6K-6.9K,high
+501,IT,Female,31,Specialist,12-Jun-23,1,High School,5,6750,9,90,0,2.24,FALSE,30-39,6K-6.9K,high
+502,Customer Support,Male,57,Technician,20-Oct-18,5,High School,2,4200,18,98,0,4.27,FALSE,50+,Below 6K,low
+503,Finance,Male,40,Consultant,22-Apr-22,2,High School,2,6600,22,19,0,1.89,FALSE,40-49,6K-6.9K,low
+504,Operations,Female,36,Specialist,31-Oct-17,6,High School,4,6300,28,36,0,3.73,FALSE,30-39,6K-6.9K,high
+505,Finance,Female,58,Analyst,13-Sep-14,9,High School,1,4400,0,39,2,1.15,FALSE,50+,Below 6K,low
+506,HR,Other,56,Technician,01-May-16,8,Bachelor,5,5250,2,87,0,3.83,FALSE,50+,Below 6K,high
+507,Customer Support,Other,36,Manager,14-Nov-19,4,Master,5,9000,22,45,2,2.44,FALSE,30-39,7K+,high
+508,Engineering,Male,49,Manager,27-Jun-15,9,Master,1,6600,20,51,0,4.41,FALSE,40-49,6K-6.9K,low
+509,Operations,Male,35,Consultant,13-Aug-18,6,Bachelor,1,6050,5,57,0,3.8,FALSE,30-39,6K-6.9K,low
+510,Legal,Male,57,Specialist,18-Nov-17,6,Bachelor,1,4950,0,7,1,4.06,FALSE,50+,Below 6K,low
+511,HR,Female,50,Consultant,23-Apr-16,8,High School,5,8250,2,15,2,3.04,FALSE,50+,7K+,high
+512,IT,Female,46,Specialist,18-Oct-15,8,Bachelor,2,5400,18,74,0,3.36,FALSE,40-49,Below 6K,low
+513,Legal,Male,35,Engineer,05-Sep-19,5,Master,2,7200,14,72,0,1.15,FALSE,30-39,7K+,low
+514,Finance,Male,36,Consultant,22-Apr-18,6,High School,2,6600,3,51,2,2.43,FALSE,30-39,6K-6.9K,low
+515,IT,Male,50,Consultant,30-Nov-15,8,High School,3,7150,5,30,1,2.31,FALSE,50+,7K+,medium
+516,Engineering,Female,46,Consultant,12-Dec-16,7,High School,5,8250,11,44,2,1.4,FALSE,40-49,7K+,high
+517,Legal,Male,55,Manager,21-Jun-17,7,Master,4,8400,25,3,2,4.58,FALSE,50+,7K+,high
+518,Engineering,Female,27,Developer,18-Apr-24,0,Bachelor,1,5500,16,93,0,1.99,FALSE,20-29,Below 6K,low
+519,Finance,Male,39,Developer,07-Jan-23,1,Bachelor,5,7500,0,47,2,2.17,FALSE,30-39,7K+,high
+520,Finance,Female,43,Developer,03-Apr-20,4,High School,1,5500,16,56,2,2.66,FALSE,40-49,Below 6K,low
+521,Sales,Male,24,Consultant,23-Feb-19,5,High School,2,6600,9,57,2,1,FALSE,20-29,6K-6.9K,low
+522,Customer Support,Female,52,Analyst,29-Sep-15,8,High School,1,4400,23,28,1,2.61,FALSE,50+,Below 6K,low
+523,Engineering,Female,49,Consultant,10-Apr-16,8,High School,5,8250,4,81,2,4.12,FALSE,40-49,7K+,high
+524,Legal,Female,27,Specialist,20-Mar-18,6,Bachelor,4,6300,26,12,2,4.02,FALSE,20-29,6K-6.9K,high
+525,Marketing,Male,59,Consultant,25-Apr-22,2,Bachelor,5,8250,14,48,1,2.1,FALSE,50+,7K+,high
+526,Operations,Male,31,Technician,11-Mar-20,4,High School,1,3850,18,67,1,1.74,FALSE,30-39,Below 6K,low
+527,Operations,Male,52,Manager,20-Jul-20,4,Bachelor,4,8400,20,51,2,1.24,FALSE,50+,7K+,high
+528,HR,Female,28,Engineer,04-May-21,3,Bachelor,1,6600,11,6,0,2.82,FALSE,20-29,6K-6.9K,low
+529,HR,Male,32,Developer,02-Sep-20,4,Bachelor,3,6500,0,68,0,3.43,FALSE,30-39,6K-6.9K,medium
+530,HR,Male,27,Developer,25-Nov-21,2,Bachelor,2,6000,4,22,1,2.17,FALSE,20-29,6K-6.9K,low
+531,Marketing,Male,37,Engineer,28-Feb-18,6,Master,2,7200,20,88,1,4.28,TRUE,30-39,7K+,low
+532,Customer Support,Female,30,Engineer,05-Dec-18,5,Bachelor,3,7800,3,87,0,4.82,FALSE,30-39,7K+,medium
+533,Legal,Male,34,Manager,20-Jul-19,5,Master,2,7200,21,39,1,4.21,FALSE,30-39,7K+,low
+534,Customer Support,Female,45,Developer,02-Jun-16,8,High School,4,7000,25,97,1,2.21,FALSE,40-49,7K+,high
+535,HR,Male,29,Consultant,14-Sep-20,3,High School,2,6600,21,47,0,3.96,FALSE,20-29,6K-6.9K,low
+536,Finance,Female,45,Specialist,09-Mar-22,2,Bachelor,1,4950,10,26,0,4.16,TRUE,40-49,Below 6K,low
+537,Marketing,Female,46,Technician,08-Mar-18,6,Bachelor,2,4200,29,89,1,4.06,FALSE,40-49,Below 6K,low
+538,IT,Male,35,Manager,07-Apr-22,2,Bachelor,3,7800,25,57,2,4.16,TRUE,30-39,7K+,medium
+539,HR,Female,46,Technician,13-Mar-21,3,High School,5,5250,13,29,0,2.4,FALSE,40-49,Below 6K,high
+540,Sales,Female,55,Technician,03-May-18,6,High School,4,4900,29,89,2,1.58,FALSE,50+,Below 6K,high
+541,Legal,Female,52,Engineer,28-Sep-22,1,Bachelor,2,7200,20,2,0,3.18,FALSE,50+,7K+,low
+542,Marketing,Female,35,Specialist,15-Dec-22,1,Bachelor,3,5850,10,26,1,4.8,FALSE,30-39,Below 6K,medium
+543,Marketing,Other,38,Specialist,05-Apr-19,5,PhD,1,4950,26,42,2,4,FALSE,30-39,Below 6K,low
+544,Legal,Female,35,Developer,29-Jun-24,0,Bachelor,2,6000,9,3,0,4.52,TRUE,30-39,6K-6.9K,low
+545,Sales,Male,39,Developer,02-Jan-15,9,Bachelor,1,5500,12,45,0,2.33,FALSE,30-39,Below 6K,low
+546,Operations,Female,33,Manager,26-Mar-23,1,Bachelor,1,6600,11,5,2,2.38,FALSE,30-39,6K-6.9K,low
+547,Sales,Male,52,Specialist,09-Dec-15,8,High School,1,4950,28,79,1,3.44,FALSE,50+,Below 6K,low
+548,Sales,Other,58,Analyst,01-Sep-24,0,Bachelor,3,5200,5,31,0,2.95,FALSE,50+,Below 6K,medium
+549,Finance,Female,48,Specialist,29-Oct-19,4,High School,1,4950,23,81,1,1.41,FALSE,40-49,Below 6K,low
+550,Operations,Male,31,Engineer,03-Jul-18,6,Master,2,7200,11,62,2,1.85,TRUE,30-39,7K+,low
+551,Engineering,Female,31,Specialist,04-Sep-23,1,Bachelor,2,5400,24,59,1,3.08,FALSE,30-39,Below 6K,low
+552,Customer Support,Female,45,Analyst,20-Dec-16,7,Master,3,5200,22,17,2,2.57,FALSE,40-49,Below 6K,medium
+553,Engineering,Female,24,Developer,19-Sep-18,5,Bachelor,2,6000,2,46,0,4.2,FALSE,20-29,6K-6.9K,low
+554,Customer Support,Male,60,Engineer,09-Sep-21,2,Bachelor,5,9000,27,7,1,2.66,FALSE,50+,7K+,high
+555,Sales,Male,24,Technician,08-Sep-14,9,Master,1,3850,23,96,2,2.34,FALSE,20-29,Below 6K,low
+556,Finance,Male,60,Analyst,29-Apr-18,6,High School,5,6000,6,19,1,2.9,FALSE,50+,6K-6.9K,high
+557,Customer Support,Female,51,Specialist,21-Mar-24,0,Bachelor,2,5400,14,90,1,1.68,FALSE,50+,Below 6K,low
+558,Engineering,Female,48,Specialist,20-Apr-19,5,Master,5,6750,6,98,0,2.48,FALSE,40-49,6K-6.9K,high
+559,Legal,Female,54,Technician,08-Oct-16,7,High School,2,4200,1,34,2,1.12,TRUE,50+,Below 6K,low
+560,Finance,Female,29,Developer,08-Aug-20,4,Bachelor,1,5500,24,40,2,2.88,FALSE,20-29,Below 6K,low
+561,Customer Support,Female,46,Manager,02-Feb-23,1,Bachelor,1,6600,23,37,2,2.4,FALSE,40-49,6K-6.9K,low
+562,Marketing,Female,56,Specialist,19-Jul-15,9,Bachelor,1,4950,13,61,2,3.92,FALSE,50+,Below 6K,low
+563,Engineering,Male,56,Analyst,23-Feb-22,2,Bachelor,1,4400,0,12,2,3.58,FALSE,50+,Below 6K,low
+564,Sales,Female,57,Technician,02-Aug-22,2,High School,3,4550,25,20,0,2.8,FALSE,50+,Below 6K,medium
+565,Sales,Female,35,Analyst,03-Jan-19,5,Master,3,5200,25,3,0,3.31,FALSE,30-39,Below 6K,medium
+566,Operations,Male,33,Technician,18-Jun-17,7,Bachelor,5,5250,11,60,0,1.4,FALSE,30-39,Below 6K,high
+567,Customer Support,Female,26,Technician,06-Jul-18,6,High School,5,5250,12,75,1,4.14,FALSE,20-29,Below 6K,high
+568,Operations,Female,28,Engineer,23-Dec-17,6,Bachelor,4,8400,1,52,0,1.56,TRUE,20-29,7K+,high
+569,Marketing,Female,55,Specialist,03-Jan-15,9,Master,5,6750,3,2,1,1.66,FALSE,50+,6K-6.9K,high
+570,Legal,Male,46,Developer,15-Oct-14,9,Bachelor,4,7000,29,87,2,4.04,FALSE,40-49,7K+,high
+571,HR,Male,35,Developer,20-Feb-19,5,High School,4,7000,18,5,1,2.47,TRUE,30-39,7K+,high
+572,Operations,Female,32,Manager,24-Mar-21,3,Bachelor,1,6600,24,23,0,2.1,FALSE,30-39,6K-6.9K,low
+573,HR,Female,26,Analyst,15-Dec-18,5,Bachelor,2,4800,6,56,0,2.21,FALSE,20-29,Below 6K,low
+574,Finance,Female,35,Analyst,08-Oct-21,2,Bachelor,4,5600,20,92,1,3.97,FALSE,30-39,Below 6K,high
+575,Engineering,Female,41,Manager,30-Jul-20,4,Bachelor,5,9000,19,31,2,2.13,FALSE,40-49,7K+,high
+576,Marketing,Male,50,Analyst,12-Nov-21,2,High School,5,6000,7,5,1,4.86,FALSE,50+,6K-6.9K,high
+577,Marketing,Male,25,Technician,22-Aug-15,9,High School,4,4900,6,47,0,1.12,FALSE,20-29,Below 6K,high
+578,IT,Male,40,Specialist,12-Nov-21,2,High School,3,5850,20,0,1,1.22,TRUE,40-49,Below 6K,medium
+579,Customer Support,Female,37,Developer,02-Jun-22,2,Bachelor,1,5500,23,84,1,4.54,FALSE,30-39,Below 6K,low
+580,IT,Female,52,Specialist,30-Nov-19,4,Bachelor,2,5400,8,77,2,2.7,FALSE,50+,Below 6K,low
+581,Engineering,Male,54,Analyst,13-Dec-18,5,Bachelor,3,5200,19,35,1,2.4,FALSE,50+,Below 6K,medium
+582,Finance,Male,54,Specialist,13-May-17,7,Bachelor,2,5400,27,86,2,2.38,FALSE,50+,Below 6K,low
+583,HR,Male,34,Manager,18-Aug-15,9,Bachelor,5,9000,25,13,1,1.1,FALSE,30-39,7K+,high
+584,Legal,Male,39,Developer,06-Sep-21,2,High School,1,5500,17,32,0,1.81,FALSE,30-39,Below 6K,low
+585,Sales,Female,59,Specialist,10-Mar-18,6,Bachelor,3,5850,4,71,1,2.92,FALSE,50+,Below 6K,medium
+586,Engineering,Female,53,Engineer,24-Jul-23,1,Bachelor,4,8400,9,37,1,3.62,FALSE,50+,7K+,high
+587,IT,Male,49,Developer,28-Dec-23,0,High School,2,6000,13,14,0,1.82,FALSE,40-49,6K-6.9K,low
+588,Marketing,Male,59,Analyst,07-Jul-15,9,High School,1,4400,6,20,0,2.16,FALSE,50+,Below 6K,low
+589,Engineering,Female,36,Consultant,01-Jun-15,9,High School,1,6050,9,15,0,1.4,FALSE,30-39,6K-6.9K,low
+590,Marketing,Male,43,Analyst,15-Jun-21,3,High School,5,6000,11,62,0,1.34,FALSE,40-49,6K-6.9K,high
+591,Engineering,Male,27,Consultant,22-Jun-22,2,High School,1,6050,7,90,1,4.35,FALSE,20-29,6K-6.9K,low
+592,Finance,Male,54,Consultant,31-Jan-24,0,Bachelor,5,8250,12,15,2,1.03,FALSE,50+,7K+,high
+593,Marketing,Female,29,Developer,13-Jul-20,4,Bachelor,3,6500,11,39,2,1.09,FALSE,20-29,6K-6.9K,medium
+594,HR,Male,33,Analyst,12-May-18,6,Bachelor,4,5600,28,25,2,1.99,FALSE,30-39,Below 6K,high
+595,HR,Male,35,Developer,29-Jul-18,6,Bachelor,1,5500,24,8,0,1.51,TRUE,30-39,Below 6K,low
+596,Finance,Female,43,Manager,28-Jun-17,7,Bachelor,4,8400,4,28,0,4.83,FALSE,40-49,7K+,high
+597,Sales,Male,40,Technician,15-Sep-17,6,Bachelor,3,4550,18,18,2,4.75,FALSE,40-49,Below 6K,medium
+598,Operations,Female,27,Technician,20-Nov-20,3,Bachelor,5,5250,16,56,2,1.78,FALSE,20-29,Below 6K,high
+599,IT,Female,39,Developer,27-Aug-21,3,High School,3,6500,20,64,1,2.76,FALSE,30-39,6K-6.9K,medium
+600,Operations,Male,34,Technician,17-Apr-20,4,High School,5,5250,25,38,2,4.46,TRUE,30-39,Below 6K,high
+601,HR,Other,27,Developer,24-Jul-20,4,Master,3,6500,7,69,2,1.28,FALSE,20-29,6K-6.9K,medium
+602,IT,Male,27,Developer,30-Dec-23,0,Master,5,7500,5,95,2,4.72,FALSE,20-29,7K+,high
+603,Customer Support,Female,46,Analyst,24-Mar-15,9,Master,1,4400,24,8,2,3.96,FALSE,40-49,Below 6K,low
+604,Sales,Male,28,Consultant,18-Sep-16,7,Bachelor,2,6600,11,19,1,4.25,FALSE,20-29,6K-6.9K,low
+605,Marketing,Male,41,Engineer,21-Nov-23,0,High School,5,9000,20,41,2,1.7,FALSE,40-49,7K+,high
+606,IT,Female,35,Engineer,04-Jun-24,0,Master,4,8400,3,75,0,3.7,FALSE,30-39,7K+,high
+607,Engineering,Female,43,Manager,08-Jun-23,1,High School,2,7200,21,53,1,4.77,FALSE,40-49,7K+,low
+608,Sales,Male,42,Technician,14-May-18,6,Bachelor,1,3850,9,2,2,4.73,FALSE,40-49,Below 6K,low
+609,Sales,Female,43,Technician,31-Oct-23,0,Bachelor,1,3850,17,33,2,4.68,FALSE,40-49,Below 6K,low
+610,Sales,Male,30,Technician,19-Apr-23,1,High School,1,3850,20,16,1,3.48,FALSE,30-39,Below 6K,low
+611,Marketing,Female,42,Manager,20-Feb-19,5,High School,1,6600,19,15,2,1.58,FALSE,40-49,6K-6.9K,low
+612,HR,Male,42,Technician,09-Oct-22,1,Bachelor,5,5250,14,46,1,2.98,TRUE,40-49,Below 6K,high
+613,Operations,Male,56,Developer,19-Jul-20,4,PhD,3,6500,17,95,2,4.34,FALSE,50+,6K-6.9K,medium
+614,Sales,Female,41,Analyst,21-Jan-19,5,Bachelor,3,5200,1,77,1,1.96,FALSE,40-49,Below 6K,medium
+615,Operations,Male,24,Specialist,10-Jul-15,9,High School,2,5400,0,69,1,3.65,TRUE,20-29,Below 6K,low
+616,Operations,Male,26,Technician,13-Mar-16,8,High School,4,4900,13,29,1,3.24,FALSE,20-29,Below 6K,high
+617,Sales,Female,36,Engineer,25-Apr-22,2,Master,2,7200,28,27,1,2.14,FALSE,30-39,7K+,low
+618,Operations,Male,56,Consultant,04-Mar-15,9,Bachelor,1,6050,9,50,1,4.2,FALSE,50+,6K-6.9K,low
+619,IT,Female,40,Consultant,04-Dec-23,0,Master,2,6600,7,23,0,4.08,FALSE,40-49,6K-6.9K,low
+620,Operations,Female,56,Technician,27-Sep-19,4,High School,1,3850,5,40,0,3.1,TRUE,50+,Below 6K,low
+621,HR,Male,40,Specialist,28-Jul-17,7,Bachelor,4,6300,10,49,0,3.24,FALSE,40-49,6K-6.9K,high
+622,Engineering,Female,35,Consultant,22-Jul-21,3,High School,1,6050,19,39,0,2.51,FALSE,30-39,6K-6.9K,low
+623,Legal,Male,33,Developer,28-Jan-23,1,High School,4,7000,28,34,2,3.93,FALSE,30-39,7K+,high
+624,Engineering,Male,42,Technician,29-May-22,2,Master,5,5250,23,37,1,2.28,FALSE,40-49,Below 6K,high
+625,Legal,Female,51,Engineer,13-Sep-19,4,High School,5,9000,9,75,0,1.17,FALSE,50+,7K+,high
+626,Legal,Male,49,Consultant,12-Apr-20,4,Master,1,6050,21,17,2,2.9,FALSE,40-49,6K-6.9K,low
+627,IT,Female,26,Manager,13-Apr-18,6,High School,3,7800,14,82,1,2.85,FALSE,20-29,7K+,medium
+628,IT,Female,33,Engineer,14-Jun-19,5,PhD,5,9000,17,16,0,1.32,FALSE,30-39,7K+,high
+629,Finance,Female,35,Manager,09-Jun-22,2,Bachelor,5,9000,22,87,1,3.73,TRUE,30-39,7K+,high
+630,Sales,Female,35,Engineer,11-Sep-17,6,High School,3,7800,21,97,2,4.86,FALSE,30-39,7K+,medium
+631,HR,Female,48,Analyst,12-Oct-23,0,Bachelor,1,4400,16,37,1,2.55,FALSE,40-49,Below 6K,low
+632,Finance,Female,35,Manager,05-May-19,5,Bachelor,2,7200,1,24,0,4.25,FALSE,30-39,7K+,low
+633,IT,Female,35,Technician,08-May-18,6,Bachelor,3,4550,3,73,1,3.84,FALSE,30-39,Below 6K,medium
+634,HR,Male,51,Consultant,07-Sep-23,0,Bachelor,5,8250,1,39,0,4.88,FALSE,50+,7K+,high
+635,Sales,Male,33,Specialist,18-May-18,6,High School,1,4950,2,28,0,4.49,FALSE,30-39,Below 6K,low
+636,IT,Female,37,Developer,04-Oct-16,7,High School,5,7500,25,64,2,1.56,FALSE,30-39,7K+,high
+637,Finance,Other,47,Analyst,30-Aug-16,8,Bachelor,4,5600,8,24,2,2.95,FALSE,40-49,Below 6K,high
+638,Sales,Male,42,Specialist,10-Feb-17,7,Bachelor,2,5400,25,70,1,4.47,FALSE,40-49,Below 6K,low
+639,Sales,Female,29,Consultant,20-Jul-24,0,High School,5,8250,26,88,2,2.44,FALSE,20-29,7K+,high
+640,Sales,Male,53,Analyst,11-Mar-15,9,High School,4,5600,20,96,1,2.95,TRUE,50+,Below 6K,high
+641,Engineering,Male,43,Engineer,10-Sep-17,6,PhD,2,7200,10,63,2,4.04,FALSE,40-49,7K+,low
+642,IT,Male,35,Engineer,08-Sep-18,5,High School,4,8400,6,11,1,3.58,FALSE,30-39,7K+,high
+643,IT,Male,37,Manager,09-Jul-15,9,Bachelor,4,8400,20,55,0,2.37,FALSE,30-39,7K+,high
+644,Legal,Male,30,Engineer,28-May-20,4,Master,2,7200,3,97,0,1.49,FALSE,30-39,7K+,low
+645,Legal,Female,59,Manager,16-Oct-15,8,High School,2,7200,22,59,2,2.8,FALSE,50+,7K+,low
+646,Finance,Female,39,Technician,22-Jan-16,8,High School,4,4900,16,19,2,3.26,FALSE,30-39,Below 6K,high
+647,Customer Support,Male,22,Technician,29-Nov-19,4,Master,5,5250,19,19,0,3.6,FALSE,20-29,Below 6K,high
+648,Customer Support,Male,30,Consultant,20-Mar-15,9,High School,4,7700,1,54,2,1.83,FALSE,30-39,7K+,high
+649,Marketing,Female,31,Developer,03-Sep-24,0,Bachelor,4,7000,23,15,1,1.43,FALSE,30-39,7K+,high
+650,Legal,Male,44,Developer,29-Jan-19,5,High School,2,6000,23,90,0,3.55,FALSE,40-49,6K-6.9K,low
+651,Legal,Female,29,Developer,10-Dec-15,8,Master,3,6500,23,99,2,3.23,FALSE,20-29,6K-6.9K,medium
+652,Operations,Male,33,Specialist,12-Sep-22,1,Bachelor,1,4950,11,30,0,2.07,FALSE,30-39,Below 6K,low
+653,Marketing,Male,39,Specialist,14-Jun-15,9,PhD,1,4950,27,75,2,1.62,FALSE,30-39,Below 6K,low
+654,Operations,Male,39,Analyst,24-Oct-14,9,High School,1,4400,11,89,2,3.18,FALSE,30-39,Below 6K,low
+655,HR,Male,27,Analyst,04-Dec-15,8,High School,5,6000,7,81,2,4.24,FALSE,20-29,6K-6.9K,high
+656,Customer Support,Female,59,Analyst,09-Aug-16,8,High School,2,4800,25,23,0,3.25,TRUE,50+,Below 6K,low
+657,HR,Female,39,Technician,02-Jan-18,6,Bachelor,4,4900,10,59,1,2.18,FALSE,30-39,Below 6K,high
+658,Finance,Male,35,Analyst,22-Nov-20,3,High School,1,4400,15,94,2,2.69,FALSE,30-39,Below 6K,low
+659,Operations,Female,33,Manager,17-Sep-14,9,Bachelor,5,9000,26,86,0,2.91,TRUE,30-39,7K+,high
+660,Customer Support,Female,55,Engineer,07-May-20,4,Bachelor,4,8400,4,23,2,4.84,FALSE,50+,7K+,high
+661,Customer Support,Male,43,Consultant,07-Jan-24,0,High School,3,7150,3,63,2,4.08,FALSE,40-49,7K+,medium
+662,Sales,Male,46,Analyst,19-Jul-15,9,High School,1,4400,16,18,1,2.66,FALSE,40-49,Below 6K,low
+663,Engineering,Female,47,Analyst,19-Nov-20,3,High School,1,4400,9,29,1,1.89,FALSE,40-49,Below 6K,low
+664,Legal,Male,47,Engineer,01-May-20,4,Bachelor,3,7800,8,89,2,1.86,FALSE,40-49,7K+,medium
+665,Customer Support,Female,37,Technician,17-Feb-18,6,High School,5,5250,20,87,0,2.19,FALSE,30-39,Below 6K,high
+666,IT,Female,37,Technician,08-Oct-19,4,PhD,4,4900,19,10,1,2.13,FALSE,30-39,Below 6K,high
+667,Sales,Male,59,Analyst,10-Oct-16,7,High School,1,4400,7,30,0,3.02,FALSE,50+,Below 6K,low
+668,Finance,Male,45,Technician,15-Feb-23,1,PhD,1,3850,16,99,1,3.37,FALSE,40-49,Below 6K,low
+669,Sales,Female,43,Consultant,22-Oct-14,9,High School,1,6050,26,98,0,2.85,FALSE,40-49,6K-6.9K,low
+670,Legal,Male,47,Developer,29-Apr-19,5,Master,1,5500,16,58,2,2.35,FALSE,40-49,Below 6K,low
+671,Customer Support,Male,46,Specialist,19-Sep-16,7,High School,2,5400,22,22,0,4.33,FALSE,40-49,Below 6K,low
+672,Legal,Female,56,Consultant,26-Sep-16,7,Bachelor,3,7150,17,98,0,3.09,FALSE,50+,7K+,medium
+673,Finance,Female,53,Analyst,27-May-24,0,Bachelor,5,6000,26,83,2,4.64,FALSE,50+,6K-6.9K,high
+674,Legal,Female,50,Consultant,15-Dec-19,4,Bachelor,2,6600,23,79,1,1.29,FALSE,50+,6K-6.9K,low
+675,IT,Female,53,Developer,25-Nov-16,7,High School,2,6000,27,67,2,4.5,FALSE,50+,6K-6.9K,low
+676,Finance,Male,52,Manager,07-Aug-16,8,Bachelor,3,7800,27,67,2,4.06,FALSE,50+,7K+,medium
+677,IT,Male,46,Manager,01-Apr-17,7,High School,3,7800,6,25,2,3.2,FALSE,40-49,7K+,medium
+678,Legal,Female,25,Consultant,17-Jul-23,1,PhD,2,6600,10,74,1,2.75,FALSE,20-29,6K-6.9K,low
+679,Marketing,Other,60,Consultant,06-Mar-24,0,PhD,3,7150,28,21,1,3.16,FALSE,50+,7K+,medium
+680,Engineering,Male,44,Analyst,07-Nov-14,9,Bachelor,2,4800,26,33,0,1.69,FALSE,40-49,Below 6K,low
+681,Engineering,Male,39,Consultant,25-Oct-15,8,Master,1,6050,23,16,1,3.43,FALSE,30-39,6K-6.9K,low
+682,Operations,Male,51,Technician,24-Jan-22,2,Master,2,4200,7,31,0,1.72,TRUE,50+,Below 6K,low
+683,Operations,Male,46,Technician,15-Feb-22,2,High School,5,5250,23,63,0,4.72,FALSE,40-49,Below 6K,high
+684,Engineering,Female,45,Developer,11-Aug-20,4,Master,4,7000,23,72,1,4.27,FALSE,40-49,7K+,high
+685,Sales,Female,37,Technician,13-Dec-23,0,PhD,5,5250,10,48,0,2.06,FALSE,30-39,Below 6K,high
+686,Finance,Male,51,Engineer,29-Sep-14,9,High School,1,6600,15,93,2,4.77,TRUE,50+,6K-6.9K,low
+687,HR,Female,52,Technician,09-Jan-23,1,Master,4,4900,26,66,1,4.82,FALSE,50+,Below 6K,high
+688,IT,Male,32,Consultant,29-May-16,8,Bachelor,1,6050,23,50,0,2.43,FALSE,30-39,6K-6.9K,low
+689,Legal,Male,58,Manager,23-Dec-14,9,PhD,3,7800,18,15,0,1.56,FALSE,50+,7K+,medium
+690,Sales,Male,48,Technician,17-Sep-17,6,Bachelor,4,4900,26,3,2,1.54,FALSE,40-49,Below 6K,high
+691,Finance,Male,54,Engineer,03-Nov-17,6,High School,2,7200,2,6,2,3.9,FALSE,50+,7K+,low
+692,Marketing,Male,23,Engineer,13-Mar-21,3,Bachelor,4,8400,28,92,0,2.05,FALSE,20-29,7K+,high
+693,Sales,Male,50,Developer,17-Nov-21,2,Bachelor,1,5500,6,94,1,1.81,FALSE,50+,Below 6K,low
+694,Engineering,Male,27,Analyst,23-Aug-21,3,Master,1,4400,11,47,2,3.99,TRUE,20-29,Below 6K,low
+695,Sales,Male,24,Manager,23-Jul-17,7,High School,5,9000,10,81,0,4.76,FALSE,20-29,7K+,high
+696,Finance,Male,41,Manager,09-May-21,3,High School,3,7800,6,69,1,2.88,FALSE,40-49,7K+,medium
+697,Engineering,Male,33,Consultant,22-Aug-21,3,Bachelor,1,6050,16,53,0,3.62,FALSE,30-39,6K-6.9K,low
+698,Legal,Male,57,Manager,20-Aug-19,5,Bachelor,2,7200,13,32,1,4.83,FALSE,50+,7K+,low
+699,Customer Support,Female,42,Technician,03-Dec-15,8,Bachelor,4,4900,13,95,2,2.1,FALSE,40-49,Below 6K,high
+700,Legal,Male,57,Manager,27-Aug-24,0,Master,2,7200,8,90,0,2.53,FALSE,50+,7K+,low
+701,Sales,Female,44,Analyst,08-Jun-22,2,Bachelor,5,6000,5,96,0,1.47,FALSE,40-49,6K-6.9K,high
+702,IT,Male,26,Developer,16-Mar-23,1,Bachelor,4,7000,16,0,0,4.37,FALSE,20-29,7K+,high
+703,Marketing,Male,51,Specialist,22-May-16,8,Bachelor,3,5850,6,60,0,3.26,FALSE,50+,Below 6K,medium
+704,Sales,Male,38,Consultant,19-Mar-23,1,Bachelor,4,7700,14,55,2,4.77,FALSE,30-39,7K+,high
+705,Marketing,Male,26,Developer,24-Sep-21,2,Bachelor,1,5500,2,48,2,2.69,FALSE,20-29,Below 6K,low
+706,Engineering,Male,22,Developer,12-Mar-17,7,Master,2,6000,19,25,2,3.23,FALSE,20-29,6K-6.9K,low
+707,Customer Support,Male,40,Analyst,10-Jun-23,1,High School,4,5600,28,56,2,2.53,FALSE,40-49,Below 6K,high
+708,Customer Support,Male,55,Engineer,14-Feb-23,1,High School,5,9000,17,41,1,3.65,TRUE,50+,7K+,high
+709,Engineering,Female,60,Consultant,26-Jun-19,5,Bachelor,5,8250,2,53,0,2.19,FALSE,50+,7K+,high
+710,Finance,Female,40,Specialist,19-Dec-22,1,Master,4,6300,17,73,1,3.71,FALSE,40-49,6K-6.9K,high
+711,Finance,Female,46,Manager,22-Jan-21,3,High School,4,8400,0,96,1,2.1,FALSE,40-49,7K+,high
+712,Finance,Female,57,Manager,14-Apr-19,5,Bachelor,3,7800,6,74,0,1.84,FALSE,50+,7K+,medium
+713,Sales,Male,39,Specialist,10-Sep-19,4,High School,5,6750,27,46,1,1.89,TRUE,30-39,6K-6.9K,high
+714,Sales,Male,44,Consultant,29-Sep-21,2,Master,4,7700,8,88,0,2.85,FALSE,40-49,7K+,high
+715,Operations,Female,33,Developer,24-Aug-16,8,Bachelor,3,6500,13,53,1,2.62,FALSE,30-39,6K-6.9K,medium
+716,Operations,Male,49,Consultant,05-Apr-17,7,Master,4,7700,3,39,1,4.3,FALSE,40-49,7K+,high
+717,Marketing,Female,42,Consultant,01-Jan-16,8,High School,1,6050,14,36,1,1.76,FALSE,40-49,6K-6.9K,low
+718,Engineering,Other,48,Engineer,31-Oct-19,4,Bachelor,3,7800,0,19,2,3.41,FALSE,40-49,7K+,medium
+719,Legal,Male,35,Developer,23-Jun-19,5,High School,2,6000,17,14,1,4.85,FALSE,30-39,6K-6.9K,low
+720,Legal,Male,27,Manager,03-Jan-19,5,Bachelor,3,7800,2,37,0,1.21,TRUE,20-29,7K+,medium
+721,Finance,Male,46,Engineer,09-Aug-19,5,High School,1,6600,17,51,1,2.87,FALSE,40-49,6K-6.9K,low
+722,Engineering,Male,37,Engineer,20-Jul-24,0,Bachelor,4,8400,15,56,2,2.3,FALSE,30-39,7K+,high
+723,Operations,Male,52,Technician,19-Mar-22,2,Master,1,3850,7,84,1,3.13,FALSE,50+,Below 6K,low
+724,IT,Male,29,Consultant,14-Mar-18,6,Master,2,6600,12,19,2,3.85,FALSE,20-29,6K-6.9K,low
+725,Finance,Female,60,Consultant,03-Jun-20,4,Master,3,7150,28,2,2,3.45,FALSE,50+,7K+,medium
+726,Marketing,Female,60,Engineer,20-Jun-15,9,High School,3,7800,29,65,2,1.33,FALSE,50+,7K+,medium
+727,Marketing,Male,42,Analyst,27-Jul-16,8,Bachelor,2,4800,21,63,1,4.09,FALSE,40-49,Below 6K,low
+728,Customer Support,Female,43,Analyst,28-Jan-23,1,Bachelor,4,5600,25,4,2,1.04,FALSE,40-49,Below 6K,high
+729,Operations,Female,24,Technician,03-Dec-20,3,Master,3,4550,16,44,2,1.52,FALSE,20-29,Below 6K,medium
+730,HR,Female,26,Technician,21-Jul-24,0,High School,2,4200,9,31,1,4.82,FALSE,20-29,Below 6K,low
+731,Customer Support,Male,29,Specialist,13-Apr-16,8,PhD,4,6300,27,10,0,1.52,FALSE,20-29,6K-6.9K,high
+732,Operations,Male,52,Specialist,19-Sep-18,5,High School,3,5850,10,92,0,2.15,FALSE,50+,Below 6K,medium
+733,Legal,Other,51,Technician,24-Aug-24,0,High School,4,4900,28,9,0,1.78,FALSE,50+,Below 6K,high
+734,IT,Male,47,Developer,16-May-22,2,High School,5,7500,8,71,0,2.19,TRUE,40-49,7K+,high
+735,HR,Male,42,Manager,10-Feb-23,1,Master,4,8400,25,81,0,2.82,FALSE,40-49,7K+,high
+736,Marketing,Female,42,Specialist,25-Dec-23,0,Bachelor,1,4950,17,90,2,1.28,FALSE,40-49,Below 6K,low
+737,Engineering,Female,33,Developer,23-Oct-20,3,Bachelor,2,6000,20,43,2,4.24,FALSE,30-39,6K-6.9K,low
+738,IT,Female,32,Specialist,19-May-20,4,Bachelor,3,5850,17,65,1,4.39,FALSE,30-39,Below 6K,medium
+739,Sales,Female,45,Analyst,26-Jul-19,5,Bachelor,3,5200,25,89,0,4.03,TRUE,40-49,Below 6K,medium
+740,Marketing,Male,25,Manager,21-Oct-18,5,High School,3,7800,2,8,1,3.75,FALSE,20-29,7K+,medium
+741,Sales,Female,54,Engineer,09-Dec-17,6,High School,5,9000,24,71,1,3.57,FALSE,50+,7K+,high
+742,Customer Support,Male,55,Engineer,23-Dec-23,0,Bachelor,5,9000,27,63,0,1.8,FALSE,50+,7K+,high
+743,Customer Support,Male,31,Engineer,20-Jan-20,4,Bachelor,5,9000,11,75,1,2.44,FALSE,30-39,7K+,high
+744,IT,Female,51,Analyst,31-Jan-17,7,Master,4,5600,5,89,1,2.63,FALSE,50+,Below 6K,high
+745,Operations,Female,30,Manager,03-Aug-20,4,Master,4,8400,19,68,1,2.98,FALSE,30-39,7K+,high
+746,Legal,Male,39,Technician,13-Sep-17,6,Bachelor,4,4900,15,54,0,1.36,FALSE,30-39,Below 6K,high
+747,HR,Female,60,Manager,15-Jul-16,8,Bachelor,5,9000,4,74,2,1.65,FALSE,50+,7K+,high
+748,Finance,Male,53,Manager,14-Sep-18,5,High School,2,7200,15,86,2,3.05,FALSE,50+,7K+,low
+749,HR,Male,48,Technician,10-Sep-16,7,Bachelor,1,3850,28,32,1,2.22,FALSE,40-49,Below 6K,low
+750,Customer Support,Female,37,Consultant,07-Apr-21,3,Bachelor,2,6600,11,71,1,1.01,FALSE,30-39,6K-6.9K,low
+751,Engineering,Female,39,Engineer,24-Sep-23,0,Master,3,7800,9,63,0,2.58,FALSE,30-39,7K+,medium
+752,IT,Female,45,Manager,25-Dec-19,4,High School,1,6600,29,43,0,1.01,FALSE,40-49,6K-6.9K,low
+753,IT,Male,60,Engineer,21-Sep-23,0,Bachelor,1,6600,24,59,1,1.12,FALSE,50+,6K-6.9K,low
+754,HR,Female,59,Specialist,04-May-16,8,High School,2,5400,6,0,2,4.49,FALSE,50+,Below 6K,low
+755,Finance,Female,23,Consultant,09-May-19,5,Bachelor,2,6600,21,75,2,3.23,FALSE,20-29,6K-6.9K,low
+756,HR,Male,59,Manager,27-Apr-20,4,High School,1,6600,0,86,0,4.48,FALSE,50+,6K-6.9K,low
+757,HR,Female,49,Analyst,24-Nov-20,3,Bachelor,2,4800,12,68,1,2.64,FALSE,40-49,Below 6K,low
+758,HR,Male,58,Engineer,07-Jul-15,9,High School,5,9000,21,89,1,3.36,FALSE,50+,7K+,high
+759,Customer Support,Male,27,Consultant,09-Aug-16,8,High School,2,6600,3,31,0,3.34,FALSE,20-29,6K-6.9K,low
+760,Legal,Male,42,Specialist,23-Jun-18,6,Master,5,6750,19,43,2,3.46,TRUE,40-49,6K-6.9K,high
+761,Finance,Female,44,Engineer,19-Mar-23,1,Master,3,7800,14,2,1,3.74,FALSE,40-49,7K+,medium
+762,Customer Support,Male,50,Consultant,10-Dec-23,0,Bachelor,5,8250,22,19,2,2.19,FALSE,50+,7K+,high
+763,Engineering,Female,57,Specialist,25-Jul-23,1,High School,2,5400,22,26,0,3.08,FALSE,50+,Below 6K,low
+764,Customer Support,Male,44,Technician,06-Jun-17,7,Bachelor,5,5250,13,51,2,3.04,FALSE,40-49,Below 6K,high
+765,Operations,Male,29,Specialist,02-Dec-15,8,Bachelor,1,4950,8,55,0,1.41,FALSE,20-29,Below 6K,low
+766,IT,Female,33,Specialist,21-Feb-16,8,Master,5,6750,7,42,2,2.07,FALSE,30-39,6K-6.9K,high
+767,HR,Male,34,Analyst,07-Jul-20,4,High School,5,6000,15,68,0,1.52,FALSE,30-39,6K-6.9K,high
+768,Marketing,Female,26,Technician,10-Jul-21,3,Master,2,4200,11,83,0,3.47,FALSE,20-29,Below 6K,low
+769,Finance,Female,43,Consultant,16-Nov-21,2,Bachelor,4,7700,22,42,2,2.51,FALSE,40-49,7K+,high
+770,Engineering,Female,60,Analyst,08-May-21,3,Bachelor,3,5200,12,68,1,4.4,FALSE,50+,Below 6K,medium
+771,Customer Support,Male,45,Technician,21-Oct-15,8,Master,1,3850,11,62,2,1.61,FALSE,40-49,Below 6K,low
+772,Operations,Male,44,Specialist,29-Oct-23,0,Bachelor,5,6750,29,36,1,3.69,FALSE,40-49,6K-6.9K,high
+773,Customer Support,Other,39,Engineer,20-Aug-17,7,Bachelor,3,7800,6,56,2,1.72,FALSE,30-39,7K+,medium
+774,Finance,Male,49,Technician,22-May-16,8,High School,2,4200,15,27,2,1.28,FALSE,40-49,Below 6K,low
+775,Marketing,Female,52,Developer,03-Jan-24,0,High School,3,6500,6,29,2,4.08,FALSE,50+,6K-6.9K,medium
+776,Customer Support,Female,27,Technician,18-Aug-17,7,Bachelor,1,3850,25,44,2,4.02,FALSE,20-29,Below 6K,low
+777,Engineering,Female,42,Specialist,29-Jun-24,0,PhD,2,5400,25,98,1,4.5,FALSE,40-49,Below 6K,low
+778,IT,Female,30,Developer,29-Oct-15,8,Bachelor,4,7000,5,84,1,4.55,FALSE,30-39,7K+,high
+779,Engineering,Female,55,Specialist,14-Feb-19,5,Bachelor,3,5850,16,24,2,1.78,FALSE,50+,Below 6K,medium
+780,HR,Male,29,Developer,23-Jun-16,8,High School,5,7500,26,34,2,2.77,FALSE,20-29,7K+,high
+781,Engineering,Other,28,Specialist,06-Nov-20,3,High School,4,6300,26,10,1,2.75,FALSE,20-29,6K-6.9K,high
+782,Engineering,Female,43,Engineer,25-Nov-20,3,Bachelor,2,7200,3,15,1,2.76,FALSE,40-49,7K+,low
+783,HR,Female,29,Developer,09-Mar-19,5,Bachelor,2,6000,22,8,0,4.33,FALSE,20-29,6K-6.9K,low
+784,Sales,Female,33,Analyst,19-Feb-20,4,High School,2,4800,0,7,2,3.15,FALSE,30-39,Below 6K,low
+785,Engineering,Female,48,Specialist,05-Aug-15,9,Bachelor,1,4950,19,62,2,3.1,FALSE,40-49,Below 6K,low
+786,Legal,Female,56,Analyst,08-Apr-18,6,Bachelor,2,4800,1,16,2,2.13,TRUE,50+,Below 6K,low
+787,Legal,Male,32,Developer,19-Aug-23,1,Bachelor,3,6500,16,1,1,1.92,FALSE,30-39,6K-6.9K,medium
+788,Legal,Female,44,Specialist,21-Aug-18,6,High School,4,6300,6,66,0,4.23,FALSE,40-49,6K-6.9K,high
+789,Operations,Female,39,Engineer,05-Sep-15,9,Bachelor,5,9000,4,49,1,2.51,FALSE,30-39,7K+,high
+790,HR,Female,51,Technician,01-Nov-17,6,Bachelor,3,4550,7,33,2,4.12,TRUE,50+,Below 6K,medium
+791,Operations,Male,48,Analyst,28-Jul-19,5,Master,3,5200,5,64,2,2.27,FALSE,40-49,Below 6K,medium
+792,Sales,Male,36,Specialist,20-Aug-16,8,Bachelor,2,5400,29,25,0,1.27,FALSE,30-39,Below 6K,low
+793,IT,Female,39,Engineer,22-Nov-17,6,Bachelor,4,8400,23,80,2,3.65,TRUE,30-39,7K+,high
+794,Marketing,Female,33,Specialist,10-Dec-22,1,Bachelor,4,6300,7,30,0,3.59,FALSE,30-39,6K-6.9K,high
+795,Finance,Female,22,Specialist,31-Dec-21,2,Bachelor,1,4950,24,56,2,3.94,FALSE,20-29,Below 6K,low
+796,Finance,Female,35,Engineer,18-Jun-24,0,Bachelor,2,7200,3,87,2,1.05,FALSE,30-39,7K+,low
+797,Engineering,Male,49,Specialist,17-Jan-23,1,Bachelor,2,5400,8,43,0,1.11,FALSE,40-49,Below 6K,low
+798,Operations,Male,41,Consultant,18-Jul-17,7,Master,3,7150,3,0,1,3.84,FALSE,40-49,7K+,medium
+799,Operations,Male,54,Consultant,10-Dec-17,6,Bachelor,1,6050,1,3,1,1.27,FALSE,50+,6K-6.9K,low
+800,Sales,Female,27,Developer,06-Jan-19,5,Bachelor,4,7000,0,17,1,4.42,FALSE,20-29,7K+,high
+801,Marketing,Male,27,Specialist,17-Sep-20,3,High School,1,4950,27,20,2,2.97,FALSE,20-29,Below 6K,low
+802,Operations,Male,46,Specialist,04-Jul-24,0,Bachelor,2,5400,16,29,1,4.27,FALSE,40-49,Below 6K,low
+803,Marketing,Female,33,Specialist,18-Feb-23,1,Bachelor,5,6750,0,81,1,2.9,FALSE,30-39,6K-6.9K,high
+804,Engineering,Female,45,Consultant,06-Mar-24,0,Master,5,8250,17,54,1,3.79,FALSE,40-49,7K+,high
+805,IT,Male,28,Manager,22-Sep-20,3,Bachelor,2,7200,24,55,2,4.01,TRUE,20-29,7K+,low
+806,Engineering,Male,60,Specialist,05-Jul-15,9,Bachelor,1,4950,9,74,1,1.9,FALSE,50+,Below 6K,low
+807,Finance,Male,55,Engineer,20-Mar-17,7,Bachelor,3,7800,4,95,1,1.34,FALSE,50+,7K+,medium
+808,Engineering,Female,44,Engineer,14-Aug-19,5,High School,4,8400,7,93,2,3.18,FALSE,40-49,7K+,high
+809,Engineering,Male,44,Consultant,14-Jan-19,5,Bachelor,1,6050,9,16,0,3.49,FALSE,40-49,6K-6.9K,low
+810,Sales,Female,30,Manager,09-Dec-17,6,High School,3,7800,10,29,1,1.14,FALSE,30-39,7K+,medium
+811,Sales,Female,24,Developer,20-Jun-18,6,Master,1,5500,11,81,0,2.08,FALSE,20-29,Below 6K,low
+812,Marketing,Male,27,Technician,27-Sep-14,9,High School,3,4550,11,41,1,3.92,FALSE,20-29,Below 6K,medium
+813,Sales,Male,24,Manager,18-May-19,5,Bachelor,3,7800,14,5,2,1.23,FALSE,20-29,7K+,medium
+814,HR,Female,31,Consultant,21-Aug-20,4,High School,3,7150,26,37,0,3.02,FALSE,30-39,7K+,medium
+815,Engineering,Female,26,Analyst,05-Feb-18,6,PhD,4,5600,27,55,1,2.29,FALSE,20-29,Below 6K,high
+816,Marketing,Female,54,Consultant,06-Apr-20,4,Bachelor,1,6050,16,42,2,4.87,FALSE,50+,6K-6.9K,low
+817,Legal,Male,51,Consultant,02-Aug-19,5,Bachelor,5,8250,22,40,0,3.79,FALSE,50+,7K+,high
+818,Operations,Male,44,Technician,27-Sep-23,0,High School,4,4900,20,79,2,1.22,FALSE,40-49,Below 6K,high
+819,Marketing,Male,32,Technician,24-Jul-16,8,Bachelor,5,5250,22,78,0,3.88,FALSE,30-39,Below 6K,high
+820,Sales,Male,31,Specialist,05-Oct-17,6,Bachelor,1,4950,28,65,1,4.13,FALSE,30-39,Below 6K,low
+821,Legal,Male,25,Technician,21-Jun-23,1,Bachelor,4,4900,25,70,1,1.74,FALSE,20-29,Below 6K,high
+822,Sales,Male,32,Developer,10-Jul-18,6,Master,5,7500,28,98,1,3.5,FALSE,30-39,7K+,high
+823,Legal,Female,54,Specialist,07-Jul-17,7,Bachelor,5,6750,2,32,1,3.27,TRUE,50+,6K-6.9K,high
+824,Marketing,Female,29,Specialist,25-Dec-22,1,Master,2,5400,19,54,1,3.59,FALSE,20-29,Below 6K,low
+825,Finance,Male,22,Engineer,07-Aug-16,8,High School,5,9000,16,27,0,4.2,FALSE,20-29,7K+,high
+826,Operations,Male,59,Technician,12-May-21,3,Bachelor,4,4900,17,2,1,4.6,TRUE,50+,Below 6K,high
+827,IT,Female,58,Specialist,15-Jul-20,4,Bachelor,3,5850,21,68,2,2.74,FALSE,50+,Below 6K,medium
+828,Engineering,Female,51,Technician,31-Jul-16,8,Master,4,4900,26,89,0,3.44,FALSE,50+,Below 6K,high
+829,Customer Support,Female,48,Analyst,13-Apr-20,4,Bachelor,1,4400,11,50,1,2.55,FALSE,40-49,Below 6K,low
+830,Sales,Female,28,Analyst,04-Apr-23,1,Bachelor,3,5200,28,34,1,2.24,FALSE,20-29,Below 6K,medium
+831,Legal,Female,47,Manager,31-May-24,0,Master,1,6600,5,45,1,3.27,FALSE,40-49,6K-6.9K,low
+832,Sales,Female,37,Specialist,20-Jun-22,2,Bachelor,2,5400,16,86,0,1.38,FALSE,30-39,Below 6K,low
+833,Operations,Male,34,Analyst,13-Oct-14,9,High School,1,4400,19,54,2,2.98,FALSE,30-39,Below 6K,low
+834,Customer Support,Male,52,Technician,15-Apr-19,5,Bachelor,4,4900,12,54,0,1.46,FALSE,50+,Below 6K,high
+835,Sales,Female,60,Manager,12-Apr-21,3,Bachelor,5,9000,18,16,2,4.94,FALSE,50+,7K+,high
+836,Finance,Male,38,Technician,25-Jun-19,5,Bachelor,3,4550,7,42,2,4.27,FALSE,30-39,Below 6K,medium
+837,Finance,Male,30,Specialist,08-Sep-17,6,Bachelor,4,6300,25,89,0,2.85,FALSE,30-39,6K-6.9K,high
+838,Finance,Female,47,Analyst,20-Feb-16,8,Bachelor,5,6000,8,88,1,1.32,FALSE,40-49,6K-6.9K,high
+839,Operations,Female,37,Engineer,28-Oct-23,0,Bachelor,1,6600,3,85,1,3.64,FALSE,30-39,6K-6.9K,low
+840,Customer Support,Female,44,Manager,11-Jul-20,4,High School,1,6600,10,7,1,3.99,FALSE,40-49,6K-6.9K,low
+841,Marketing,Male,39,Analyst,01-Oct-19,4,High School,1,4400,20,21,0,1.17,FALSE,30-39,Below 6K,low
+842,HR,Male,42,Specialist,26-Dec-22,1,Master,1,4950,25,43,2,1.47,FALSE,40-49,Below 6K,low
+843,Customer Support,Female,29,Manager,07-Feb-17,7,Bachelor,5,9000,0,7,2,2.17,FALSE,20-29,7K+,high
+844,Legal,Female,53,Analyst,15-Aug-16,8,High School,3,5200,10,45,0,2.38,FALSE,50+,Below 6K,medium
+845,Operations,Male,59,Engineer,16-Jun-22,2,Master,5,9000,11,23,2,2.56,FALSE,50+,7K+,high
+846,Sales,Male,37,Specialist,14-Mar-19,5,Bachelor,2,5400,21,32,1,4.67,FALSE,30-39,Below 6K,low
+847,Finance,Male,30,Developer,26-Aug-24,0,High School,3,6500,3,42,0,4.46,TRUE,30-39,6K-6.9K,medium
+848,Legal,Male,40,Engineer,11-Jul-17,7,PhD,4,8400,3,81,2,2.56,FALSE,40-49,7K+,high
+849,Operations,Male,38,Specialist,18-Apr-18,6,High School,1,4950,27,87,2,2.28,FALSE,30-39,Below 6K,low
+850,Marketing,Female,53,Manager,20-Aug-22,2,Bachelor,3,7800,24,75,1,4.29,FALSE,50+,7K+,medium
+851,Operations,Female,35,Manager,25-Aug-21,3,Bachelor,3,7800,25,22,0,3.07,FALSE,30-39,7K+,medium
+852,Customer Support,Female,54,Specialist,09-Feb-16,8,Bachelor,4,6300,12,61,1,4.04,FALSE,50+,6K-6.9K,high
+853,HR,Other,40,Manager,24-Jun-18,6,High School,1,6600,22,80,1,3.01,FALSE,40-49,6K-6.9K,low
+854,IT,Female,44,Technician,15-Feb-17,7,PhD,4,4900,20,98,0,1.93,FALSE,40-49,Below 6K,high
+855,HR,Female,45,Analyst,29-Sep-18,5,Bachelor,1,4400,16,84,1,4.87,FALSE,40-49,Below 6K,low
+856,Customer Support,Female,59,Technician,29-Dec-20,3,High School,5,5250,5,40,1,4.85,FALSE,50+,Below 6K,high
+857,Customer Support,Male,33,Technician,10-Jan-21,3,High School,4,4900,8,56,0,1.61,FALSE,30-39,Below 6K,high
+858,Sales,Female,24,Consultant,26-Dec-18,5,High School,3,7150,2,57,2,4.62,FALSE,20-29,7K+,medium
+859,Marketing,Male,56,Manager,24-Jan-17,7,Bachelor,3,7800,26,11,1,2.15,FALSE,50+,7K+,medium
+860,Marketing,Male,42,Specialist,31-Aug-16,8,Master,4,6300,20,33,0,2.98,FALSE,40-49,6K-6.9K,high
+861,Finance,Female,59,Analyst,29-Feb-16,8,Bachelor,1,4400,5,18,0,4.12,FALSE,50+,Below 6K,low
+862,HR,Female,44,Technician,20-Sep-14,9,Bachelor,4,4900,6,24,1,3.52,FALSE,40-49,Below 6K,high
+863,Sales,Male,37,Engineer,13-Jul-15,9,PhD,5,9000,16,71,1,1.28,FALSE,30-39,7K+,high
+864,HR,Female,50,Technician,19-Oct-17,6,Bachelor,1,3850,25,65,2,1.5,FALSE,50+,Below 6K,low
+865,IT,Male,35,Specialist,30-Jul-19,5,Bachelor,4,6300,0,24,0,3.98,FALSE,30-39,6K-6.9K,high
+866,Engineering,Male,25,Consultant,18-Oct-14,9,Bachelor,4,7700,7,10,2,3.06,FALSE,20-29,7K+,high
+867,Engineering,Male,32,Specialist,04-Sep-23,1,High School,3,5850,4,52,2,1.01,FALSE,30-39,Below 6K,medium
+868,Finance,Male,26,Specialist,03-Dec-22,1,Master,3,5850,5,32,1,3.02,FALSE,20-29,Below 6K,medium
+869,Sales,Female,54,Consultant,27-Apr-18,6,Bachelor,1,6050,15,0,1,2.92,FALSE,50+,6K-6.9K,low
+870,Operations,Female,45,Technician,25-Aug-20,4,Bachelor,2,4200,24,14,2,2.42,FALSE,40-49,Below 6K,low
+871,Legal,Male,33,Engineer,31-Jul-22,2,Bachelor,1,6600,12,60,1,1.56,FALSE,30-39,6K-6.9K,low
+872,Customer Support,Female,57,Analyst,08-Jul-16,8,Bachelor,1,4400,12,30,2,3.27,FALSE,50+,Below 6K,low
+873,IT,Female,51,Engineer,28-Mar-17,7,Bachelor,1,6600,27,9,0,2.31,FALSE,50+,6K-6.9K,low
+874,Legal,Male,38,Consultant,27-May-20,4,PhD,4,7700,0,89,1,3.88,FALSE,30-39,7K+,high
+875,Legal,Female,34,Technician,11-Apr-22,2,Bachelor,5,5250,19,82,0,2.54,FALSE,30-39,Below 6K,high
+876,Finance,Female,22,Specialist,16-Sep-22,1,Master,1,4950,18,16,2,2.77,FALSE,20-29,Below 6K,low
+877,Legal,Female,37,Consultant,08-Sep-14,9,High School,4,7700,6,92,2,4.88,TRUE,30-39,7K+,high
+878,Marketing,Female,56,Manager,28-May-15,9,High School,5,9000,11,83,0,3.32,TRUE,50+,7K+,high
+879,Finance,Female,52,Specialist,11-Sep-16,7,Bachelor,1,4950,29,44,2,3.6,FALSE,50+,Below 6K,low
+880,Sales,Male,22,Analyst,18-Sep-22,1,Bachelor,1,4400,2,59,2,1.3,FALSE,20-29,Below 6K,low
+881,Finance,Female,23,Manager,19-Aug-22,2,Bachelor,4,8400,1,15,1,1.03,FALSE,20-29,7K+,high
+882,Customer Support,Male,48,Developer,03-Nov-14,9,Bachelor,4,7000,21,77,2,1.16,FALSE,40-49,7K+,high
+883,Operations,Male,44,Specialist,25-Jan-17,7,High School,5,6750,4,86,1,3.6,FALSE,40-49,6K-6.9K,high
+884,Finance,Female,36,Analyst,16-Apr-23,1,Bachelor,4,5600,21,77,1,3.05,FALSE,30-39,Below 6K,high
+885,Marketing,Female,26,Developer,14-May-21,3,High School,4,7000,7,27,2,3.25,FALSE,20-29,7K+,high
+886,Finance,Male,53,Developer,22-Feb-15,9,Bachelor,4,7000,25,29,2,3.92,TRUE,50+,7K+,high
+887,IT,Male,45,Developer,06-May-21,3,Bachelor,1,5500,21,56,0,4.13,FALSE,40-49,Below 6K,low
+888,Customer Support,Female,46,Consultant,23-Aug-18,6,Bachelor,3,7150,26,56,0,2.21,FALSE,40-49,7K+,medium
+889,Sales,Male,27,Manager,26-Feb-24,0,Master,4,8400,29,51,0,1.5,TRUE,20-29,7K+,high
+890,Finance,Female,43,Manager,08-Jun-15,9,Bachelor,3,7800,20,13,1,2.89,FALSE,40-49,7K+,medium
+891,Legal,Male,23,Engineer,03-Dec-16,7,Bachelor,4,8400,0,24,1,1.3,FALSE,20-29,7K+,high
+892,Legal,Male,49,Analyst,11-Jun-24,0,Bachelor,1,4400,21,24,0,1.74,FALSE,40-49,Below 6K,low
+893,Operations,Male,57,Developer,26-Oct-15,8,Bachelor,3,6500,25,7,1,3,TRUE,50+,6K-6.9K,medium
+894,Sales,Female,23,Developer,13-Dec-23,0,Bachelor,2,6000,0,54,1,3.13,FALSE,20-29,6K-6.9K,low
+895,Finance,Male,34,Technician,07-Jul-15,9,Bachelor,4,4900,21,4,0,1.93,FALSE,30-39,Below 6K,high
+896,Customer Support,Male,39,Consultant,10-Jul-22,2,Master,1,6050,16,5,1,4.82,FALSE,30-39,6K-6.9K,low
+897,Customer Support,Female,52,Analyst,10-Jun-17,7,Bachelor,5,6000,19,35,2,2.5,FALSE,50+,6K-6.9K,high
+898,Engineering,Female,50,Consultant,01-Jan-23,1,Master,3,7150,20,64,0,3.84,FALSE,50+,7K+,medium
+899,Sales,Female,60,Analyst,07-Dec-20,3,Bachelor,2,4800,9,89,0,4.79,FALSE,50+,Below 6K,low
+900,Engineering,Male,40,Manager,09-Jan-23,1,High School,2,7200,2,69,2,3.28,FALSE,40-49,7K+,low
+901,Engineering,Male,57,Manager,16-Nov-17,6,Master,3,7800,6,14,0,1.96,FALSE,50+,7K+,medium
+902,HR,Female,55,Consultant,02-Jun-16,8,Bachelor,1,6050,19,19,2,1.96,FALSE,50+,6K-6.9K,low
+903,HR,Female,50,Specialist,31-Jul-20,4,Bachelor,4,6300,23,83,0,3.9,FALSE,50+,6K-6.9K,high
+904,Sales,Female,55,Specialist,06-Jul-20,4,Master,2,5400,23,32,0,2.71,FALSE,50+,Below 6K,low
+905,Sales,Female,55,Manager,28-Feb-17,7,High School,5,9000,3,33,1,2.77,FALSE,50+,7K+,high
+906,Customer Support,Female,40,Specialist,17-Nov-20,3,Bachelor,1,4950,9,67,2,3.55,FALSE,40-49,Below 6K,low
+907,Engineering,Male,53,Analyst,12-Aug-20,4,High School,2,4800,26,56,2,4.37,FALSE,50+,Below 6K,low
+908,Legal,Other,36,Specialist,25-Feb-16,8,High School,5,6750,23,2,2,4.4,FALSE,30-39,6K-6.9K,high
+909,Operations,Female,60,Engineer,27-Jan-23,1,Bachelor,2,7200,10,61,0,1.05,FALSE,50+,7K+,low
+910,Sales,Female,46,Developer,22-Feb-17,7,High School,1,5500,2,98,2,3.06,FALSE,40-49,Below 6K,low
+911,Operations,Male,47,Developer,09-Dec-14,9,Bachelor,4,7000,2,7,0,1.74,FALSE,40-49,7K+,high
+912,IT,Male,47,Consultant,09-Apr-22,2,Bachelor,4,7700,13,71,1,3.29,FALSE,40-49,7K+,high
+913,Customer Support,Male,30,Developer,31-Dec-15,8,Bachelor,1,5500,1,67,0,2.07,FALSE,30-39,Below 6K,low
+914,Sales,Female,40,Engineer,08-Sep-20,3,Bachelor,2,7200,8,76,2,1.06,FALSE,40-49,7K+,low
+915,Engineering,Female,40,Technician,07-Oct-19,4,Master,1,3850,26,62,2,3.53,FALSE,40-49,Below 6K,low
+916,Legal,Male,24,Technician,26-Mar-16,8,Master,3,4550,29,97,2,1.33,FALSE,20-29,Below 6K,medium
+917,Operations,Female,28,Developer,29-Aug-17,7,Bachelor,2,6000,17,94,0,1.14,FALSE,20-29,6K-6.9K,low
+918,Marketing,Female,28,Engineer,11-Oct-16,7,Bachelor,4,8400,1,89,2,4.3,FALSE,20-29,7K+,high
+919,Engineering,Male,45,Analyst,07-Sep-18,5,Master,3,5200,29,65,1,2.92,FALSE,40-49,Below 6K,medium
+920,Finance,Male,37,Developer,09-Sep-15,8,Bachelor,1,5500,8,66,0,3.47,TRUE,30-39,Below 6K,low
+921,Finance,Female,24,Manager,09-Mar-18,6,Bachelor,3,7800,16,29,2,1.17,FALSE,20-29,7K+,medium
+922,Finance,Male,54,Engineer,17-Mar-17,7,Bachelor,3,7800,11,62,1,2.81,FALSE,50+,7K+,medium
+923,IT,Male,40,Engineer,18-Oct-16,7,PhD,1,6600,14,21,1,3.07,FALSE,40-49,6K-6.9K,low
+924,Customer Support,Male,23,Technician,22-Oct-14,9,Bachelor,3,4550,27,40,2,4.49,FALSE,20-29,Below 6K,medium
+925,Marketing,Other,29,Consultant,04-Feb-17,7,High School,5,8250,27,4,1,3.58,FALSE,20-29,7K+,high
+926,Engineering,Male,43,Developer,17-Oct-14,9,Master,4,7000,21,16,2,3.2,FALSE,40-49,7K+,high
+927,IT,Male,49,Specialist,08-Jul-18,6,Master,5,6750,26,71,0,2.16,FALSE,40-49,6K-6.9K,high
+928,Operations,Female,39,Technician,21-Feb-15,9,High School,5,5250,10,76,0,2.35,FALSE,30-39,Below 6K,high
+929,Operations,Female,36,Developer,21-Jun-24,0,Bachelor,1,5500,19,34,2,3.74,FALSE,30-39,Below 6K,low
+930,Engineering,Female,32,Specialist,25-Aug-18,6,High School,2,5400,23,70,2,3.24,FALSE,30-39,Below 6K,low
+931,Sales,Male,48,Technician,01-Jan-20,4,Bachelor,5,5250,18,69,1,3.79,FALSE,40-49,Below 6K,high
+932,Sales,Female,54,Engineer,02-Nov-16,7,Bachelor,5,9000,5,72,2,3.17,FALSE,50+,7K+,high
+933,Engineering,Female,27,Engineer,10-Feb-24,0,Bachelor,5,9000,25,76,1,4,FALSE,20-29,7K+,high
+934,Engineering,Female,54,Consultant,30-Jul-22,2,Bachelor,2,6600,12,84,1,1.29,FALSE,50+,6K-6.9K,low
+935,IT,Female,35,Manager,13-Sep-23,0,Master,4,8400,9,74,1,1.45,FALSE,30-39,7K+,high
+936,Finance,Female,57,Developer,14-Sep-14,9,Bachelor,3,6500,1,49,2,4.78,FALSE,50+,6K-6.9K,medium
+937,Engineering,Male,24,Consultant,18-May-17,7,Master,1,6050,29,42,1,3.52,FALSE,20-29,6K-6.9K,low
+938,Legal,Female,52,Technician,24-Mar-23,1,Bachelor,4,4900,13,68,1,3.3,FALSE,50+,Below 6K,high
+939,Engineering,Male,59,Analyst,17-Feb-22,2,Bachelor,4,5600,18,66,0,4.83,FALSE,50+,Below 6K,high
+940,IT,Male,56,Consultant,31-Oct-20,3,Bachelor,3,7150,18,38,0,1.29,FALSE,50+,7K+,medium
+941,Legal,Male,47,Analyst,05-Jul-23,1,Bachelor,3,5200,4,69,0,4.33,TRUE,40-49,Below 6K,medium
+942,HR,Male,54,Manager,06-Sep-20,3,Bachelor,4,8400,11,69,1,2.79,FALSE,50+,7K+,high
+943,Operations,Male,55,Specialist,21-Sep-15,8,Master,1,4950,23,32,2,3.04,FALSE,50+,Below 6K,low
+944,IT,Female,43,Specialist,06-Dec-14,9,Bachelor,1,4950,2,42,1,4.78,FALSE,40-49,Below 6K,low
+945,HR,Male,57,Technician,14-Nov-18,5,High School,1,3850,7,14,0,3.49,FALSE,50+,Below 6K,low
+946,HR,Male,22,Technician,03-Oct-18,5,PhD,1,3850,22,7,0,2.29,FALSE,20-29,Below 6K,low
+947,Legal,Female,55,Consultant,29-Jan-19,5,Bachelor,2,6600,19,75,0,2.98,FALSE,50+,6K-6.9K,low
+948,Operations,Female,38,Consultant,11-Jan-20,4,Bachelor,3,7150,0,18,0,4.68,FALSE,30-39,7K+,medium
+949,Operations,Female,58,Developer,26-Feb-18,6,High School,2,6000,28,91,1,1.51,FALSE,50+,6K-6.9K,low
+950,IT,Male,23,Manager,21-May-17,7,Bachelor,3,7800,8,99,0,4.49,FALSE,20-29,7K+,medium
+951,Finance,Male,38,Specialist,06-Sep-15,9,Bachelor,2,5400,1,98,1,1,FALSE,30-39,Below 6K,low
+952,Engineering,Female,30,Analyst,22-Aug-20,4,PhD,1,4400,14,56,2,2.05,FALSE,30-39,Below 6K,low
+953,Operations,Male,46,Manager,08-Jul-20,4,Bachelor,1,6600,18,25,1,4.54,FALSE,40-49,6K-6.9K,low
+954,Sales,Male,31,Technician,30-Nov-15,8,Master,5,5250,8,23,2,4.71,FALSE,30-39,Below 6K,high
+955,Marketing,Female,60,Developer,12-May-19,5,Bachelor,5,7500,8,44,1,3.11,FALSE,50+,7K+,high
+956,Customer Support,Female,41,Engineer,22-Nov-16,7,Bachelor,1,6600,19,50,0,1.34,FALSE,40-49,6K-6.9K,low
+957,Operations,Male,57,Engineer,13-Jul-22,2,Bachelor,3,7800,14,59,2,3.4,FALSE,50+,7K+,medium
+958,Marketing,Male,60,Engineer,29-Apr-21,3,Bachelor,3,7800,1,76,2,4.42,FALSE,50+,7K+,medium
+959,Marketing,Female,25,Engineer,03-Oct-20,3,Bachelor,2,7200,6,99,1,3.39,FALSE,20-29,7K+,low
+960,IT,Female,53,Technician,18-Aug-22,2,Bachelor,4,4900,26,12,2,3.02,FALSE,50+,Below 6K,high
+961,Engineering,Male,34,Specialist,12-Nov-16,7,Bachelor,4,6300,9,2,2,3.43,TRUE,30-39,6K-6.9K,high
+962,Marketing,Male,22,Engineer,05-Nov-16,7,High School,3,7800,6,32,0,1.94,FALSE,20-29,7K+,medium
+963,Legal,Female,30,Technician,17-Mar-15,9,Master,4,4900,6,73,0,1.2,TRUE,30-39,Below 6K,high
+964,HR,Male,41,Consultant,30-Aug-18,6,High School,4,7700,14,57,0,1.96,FALSE,40-49,7K+,high
+965,Engineering,Female,42,Specialist,25-Dec-21,2,Bachelor,1,4950,8,42,0,2.09,FALSE,40-49,Below 6K,low
+966,Engineering,Male,59,Analyst,24-Jun-23,1,High School,5,6000,4,47,2,4.61,FALSE,50+,6K-6.9K,high
+967,Operations,Female,26,Engineer,24-Sep-23,0,Bachelor,1,6600,23,57,1,4.14,FALSE,20-29,6K-6.9K,low
+968,Customer Support,Male,30,Engineer,19-Oct-15,8,Bachelor,2,7200,2,83,0,2.59,FALSE,30-39,7K+,low
+969,Finance,Female,57,Technician,25-Jun-20,4,Bachelor,5,5250,22,61,0,1.06,FALSE,50+,Below 6K,high
+970,Finance,Female,60,Engineer,20-Apr-21,3,PhD,2,7200,8,93,0,3.5,FALSE,50+,7K+,low
+971,HR,Female,40,Manager,16-Jun-19,5,Bachelor,4,8400,11,10,2,4.68,TRUE,40-49,7K+,high
+972,Finance,Female,34,Engineer,30-Jun-21,3,High School,4,8400,1,29,0,3.02,FALSE,30-39,7K+,high
+973,IT,Male,60,Engineer,18-Nov-22,1,Bachelor,3,7800,19,15,2,3.93,TRUE,50+,7K+,medium
+974,IT,Male,52,Specialist,14-Dec-18,5,High School,5,6750,20,59,0,1.67,FALSE,50+,6K-6.9K,high
+975,Sales,Male,44,Manager,28-Dec-18,5,High School,4,8400,19,43,1,4,FALSE,40-49,7K+,high
+976,IT,Male,57,Engineer,20-May-15,9,Bachelor,3,7800,4,62,1,4.51,FALSE,50+,7K+,medium
+977,Engineering,Female,25,Manager,18-Sep-21,2,High School,4,8400,8,53,1,4.93,FALSE,20-29,7K+,high
+978,Customer Support,Female,41,Technician,08-Oct-18,5,Bachelor,2,4200,5,13,0,1.58,FALSE,40-49,Below 6K,low
+979,Customer Support,Female,43,Specialist,19-Aug-20,4,Bachelor,5,6750,19,97,0,1.61,FALSE,40-49,6K-6.9K,high
+980,Engineering,Female,44,Consultant,13-Jun-16,8,Bachelor,5,8250,9,95,2,3.62,FALSE,40-49,7K+,high
+981,Operations,Male,24,Technician,12-Nov-22,1,Master,5,5250,14,36,0,1.85,FALSE,20-29,Below 6K,high
+982,HR,Male,51,Engineer,28-Jun-18,6,High School,3,7800,1,95,2,3.61,FALSE,50+,7K+,medium
+983,Sales,Female,52,Manager,06-Jun-22,2,Bachelor,1,6600,4,28,1,2.4,FALSE,50+,6K-6.9K,low
+984,Sales,Female,37,Consultant,10-Nov-16,7,Bachelor,3,7150,27,27,0,2.64,FALSE,30-39,7K+,medium
+985,Marketing,Other,53,Technician,28-Jan-24,0,Bachelor,5,5250,7,73,2,1.62,FALSE,50+,Below 6K,high
+986,IT,Female,56,Developer,31-Jul-20,4,Master,1,5500,7,18,2,4.18,FALSE,50+,Below 6K,low
+987,Engineering,Male,35,Consultant,13-Sep-15,8,Bachelor,5,8250,14,79,2,1.34,FALSE,30-39,7K+,high
+988,Marketing,Male,29,Engineer,04-Jun-20,4,Bachelor,3,7800,21,68,2,2.95,FALSE,20-29,7K+,medium
+989,Customer Support,Male,42,Technician,14-Mar-17,7,Master,2,4200,8,91,1,3.65,FALSE,40-49,Below 6K,low
+990,Operations,Male,42,Technician,02-May-24,0,Bachelor,1,3850,28,4,0,4.44,FALSE,40-49,Below 6K,low
+991,IT,Male,46,Manager,11-Jan-22,2,Bachelor,2,7200,12,57,2,2.58,FALSE,40-49,7K+,low
+992,Marketing,Female,38,Technician,12-Apr-23,1,High School,3,4550,20,8,1,2.46,FALSE,30-39,Below 6K,medium
+993,Marketing,Female,44,Developer,04-Dec-14,9,PhD,4,7000,10,65,1,1.55,FALSE,40-49,7K+,high
+994,Operations,Male,41,Specialist,11-Oct-17,6,Bachelor,3,5850,3,29,2,3.75,FALSE,40-49,Below 6K,medium
+995,HR,Female,50,Manager,24-Jun-15,9,Bachelor,5,9000,5,5,2,3.41,FALSE,50+,7K+,high
+996,IT,Male,22,Engineer,01-Jun-21,3,High School,4,8400,20,2,0,2.94,FALSE,20-29,7K+,high
+997,IT,Female,54,Analyst,22-Apr-23,1,Master,3,5200,8,64,1,3.73,FALSE,50+,Below 6K,medium
+998,Engineering,Male,23,Developer,14-Nov-18,5,Bachelor,4,7000,2,27,1,4.26,TRUE,20-29,7K+,high
+999,Legal,Female,40,Consultant,15-May-23,1,High School,3,7150,20,15,1,4.1,FALSE,40-49,7K+,medium
+1000,HR,Female,28,Analyst,05-Feb-18,6,High School,1,4400,25,14,0,4.96,FALSE,20-29,Below 6K,low
+1001,Customer Support,Female,37,Manager,11-Jan-22,2,Bachelor,3,7800,18,59,2,4.45,TRUE,30-39,7K+,medium
+1002,IT,Female,52,Analyst,07-Nov-15,8,Bachelor,4,5600,28,87,1,2.98,FALSE,50+,Below 6K,high
+1003,IT,Male,45,Specialist,21-Feb-20,4,Master,2,5400,20,14,0,3.68,FALSE,40-49,Below 6K,low
+1004,Marketing,Male,35,Engineer,21-Mar-18,6,High School,2,7200,12,34,1,4.32,FALSE,30-39,7K+,low
+1005,IT,Female,29,Manager,04-Aug-15,9,Bachelor,1,6600,8,17,2,3.79,FALSE,20-29,6K-6.9K,low
+1006,Engineering,Male,33,Analyst,01-Oct-22,1,Master,1,4400,25,27,2,4.08,FALSE,30-39,Below 6K,low
+1007,Sales,Male,25,Analyst,05-Jun-24,0,High School,3,5200,27,27,0,2.68,FALSE,20-29,Below 6K,medium
+1008,Finance,Male,39,Manager,15-Aug-24,0,Bachelor,4,8400,22,26,0,2.37,FALSE,30-39,7K+,high
+1009,Operations,Female,52,Technician,13-Aug-16,8,Bachelor,4,4900,3,71,1,2.66,FALSE,50+,Below 6K,high
+1010,Legal,Other,51,Analyst,30-Jun-15,9,Master,4,5600,10,49,1,4.35,FALSE,50+,Below 6K,high
+1011,Marketing,Male,49,Technician,07-Sep-15,9,High School,2,4200,13,60,2,3.53,FALSE,40-49,Below 6K,low
+1012,HR,Female,53,Manager,18-Dec-22,1,Bachelor,2,7200,7,89,2,3.38,FALSE,50+,7K+,low
+1013,IT,Female,60,Technician,26-Aug-21,3,High School,2,4200,22,87,1,4.49,TRUE,50+,Below 6K,low
+1014,Engineering,Male,57,Technician,30-Sep-18,5,Bachelor,3,4550,11,83,0,1.52,FALSE,50+,Below 6K,medium
+1015,Operations,Male,22,Consultant,22-Jul-23,1,Bachelor,2,6600,8,47,1,2.31,FALSE,20-29,6K-6.9K,low
+1016,HR,Male,45,Technician,24-May-17,7,High School,5,5250,7,91,2,4.03,FALSE,40-49,Below 6K,high
+1017,Finance,Male,33,Engineer,13-Jun-15,9,Bachelor,2,7200,22,26,0,1.2,FALSE,30-39,7K+,low
+1018,Engineering,Female,50,Specialist,09-Aug-15,9,High School,3,5850,21,76,2,3.31,FALSE,50+,Below 6K,medium
+1019,HR,Female,43,Analyst,25-May-20,4,Bachelor,1,4400,22,27,0,2.25,FALSE,40-49,Below 6K,low
+1020,Operations,Female,45,Specialist,31-Oct-17,6,Bachelor,5,6750,16,90,2,2.74,FALSE,40-49,6K-6.9K,high
+1021,Legal,Female,24,Technician,24-Apr-18,6,High School,4,4900,3,9,0,2.08,FALSE,20-29,Below 6K,high
+1022,Marketing,Female,42,Developer,08-Nov-19,4,High School,2,6000,22,34,2,3.06,FALSE,40-49,6K-6.9K,low
+1023,Engineering,Female,54,Developer,19-Jun-17,7,Master,3,6500,27,36,1,3.85,FALSE,50+,6K-6.9K,medium
+1024,Legal,Female,33,Engineer,18-May-21,3,Bachelor,2,7200,25,44,0,1.46,TRUE,30-39,7K+,low
+1025,HR,Female,36,Manager,18-Jan-18,6,Bachelor,2,7200,9,88,2,1.33,FALSE,30-39,7K+,low
+1026,Customer Support,Female,26,Manager,10-Jan-21,3,High School,5,9000,14,31,0,2.3,FALSE,20-29,7K+,high
+1027,HR,Male,51,Specialist,04-Jun-16,8,Bachelor,1,4950,5,81,1,4.29,FALSE,50+,Below 6K,low
+1028,Legal,Female,49,Manager,17-Dec-19,4,Master,2,7200,18,8,2,4.61,FALSE,40-49,7K+,low
+1029,Engineering,Male,22,Developer,09-May-20,4,High School,4,7000,13,53,0,4.81,FALSE,20-29,7K+,high
+1030,Sales,Female,56,Developer,18-Mar-16,8,Master,4,7000,25,20,2,3.96,FALSE,50+,7K+,high
+1031,IT,Male,47,Technician,17-Sep-15,8,High School,1,3850,19,52,2,3.16,FALSE,40-49,Below 6K,low
+1032,Customer Support,Female,53,Developer,12-Mar-21,3,High School,5,7500,2,59,1,2.78,FALSE,50+,7K+,high
+1033,HR,Male,43,Manager,23-Mar-18,6,Bachelor,4,8400,16,47,1,3.51,FALSE,40-49,7K+,high
+1034,Finance,Male,26,Manager,24-Nov-23,0,High School,2,7200,5,47,2,4.81,FALSE,20-29,7K+,low
+1035,Marketing,Male,48,Specialist,13-Nov-17,6,Bachelor,4,6300,28,90,0,1.77,FALSE,40-49,6K-6.9K,high
+1036,IT,Female,50,Consultant,11-Dec-20,3,Bachelor,4,7700,24,76,0,4.92,FALSE,50+,7K+,high
+1037,Marketing,Male,50,Consultant,18-Jun-21,3,Master,5,8250,20,38,0,2.85,FALSE,50+,7K+,high
+1038,Finance,Female,54,Analyst,15-Apr-22,2,Bachelor,2,4800,23,23,0,3.85,FALSE,50+,Below 6K,low
+1039,Legal,Male,47,Manager,25-Apr-22,2,Master,2,7200,10,55,2,2.34,FALSE,40-49,7K+,low
+1040,Customer Support,Female,48,Developer,06-Dec-22,1,Bachelor,2,6000,21,92,0,3.54,FALSE,40-49,6K-6.9K,low
+1041,Legal,Female,36,Developer,18-Feb-22,2,Master,1,5500,1,79,1,1.23,FALSE,30-39,Below 6K,low
+1042,Sales,Female,58,Consultant,22-Apr-19,5,Bachelor,1,6050,29,6,0,1.27,FALSE,50+,6K-6.9K,low
+1043,IT,Female,43,Specialist,26-Nov-16,7,High School,2,5400,2,75,2,3.18,FALSE,40-49,Below 6K,low
+1044,Legal,Male,38,Analyst,02-Jan-21,3,High School,5,6000,1,37,2,2.71,FALSE,30-39,6K-6.9K,high
+1045,Legal,Female,52,Engineer,08-Aug-19,5,High School,3,7800,7,72,1,3.23,FALSE,50+,7K+,medium
+1046,Engineering,Female,51,Developer,20-Feb-19,5,Bachelor,2,6000,24,37,2,4.02,FALSE,50+,6K-6.9K,low
+1047,Customer Support,Other,43,Manager,28-Nov-20,3,High School,3,7800,18,25,1,4.02,FALSE,40-49,7K+,medium
+1048,Sales,Female,36,Engineer,25-Oct-15,8,Bachelor,1,6600,19,77,1,2.42,TRUE,30-39,6K-6.9K,low
+1049,Operations,Male,36,Technician,21-Feb-22,2,Bachelor,4,4900,3,18,0,1.18,FALSE,30-39,Below 6K,high
+1050,IT,Female,41,Developer,17-Sep-19,4,Master,5,7500,26,80,1,1.56,FALSE,40-49,7K+,high
+1051,Finance,Male,37,Analyst,11-Dec-20,3,Bachelor,2,4800,14,62,2,4.1,FALSE,30-39,Below 6K,low
+1052,HR,Male,50,Consultant,05-Dec-19,4,Bachelor,3,7150,2,21,0,1.68,TRUE,50+,7K+,medium
+1053,Customer Support,Female,35,Analyst,28-Mar-21,3,High School,4,5600,2,99,2,3.77,FALSE,30-39,Below 6K,high
+1054,Finance,Female,31,Specialist,10-May-22,2,Bachelor,3,5850,16,22,0,2,FALSE,30-39,Below 6K,medium
+1055,Legal,Female,45,Analyst,01-May-16,8,Bachelor,3,5200,3,96,1,1.14,FALSE,40-49,Below 6K,medium
+1056,Marketing,Male,30,Engineer,23-Mar-18,6,Bachelor,4,8400,18,61,2,4.58,FALSE,30-39,7K+,high
+1057,Finance,Male,39,Engineer,11-Aug-18,6,High School,2,7200,25,15,2,3.21,FALSE,30-39,7K+,low
+1058,Engineering,Male,42,Technician,02-Oct-23,0,Bachelor,4,4900,1,91,0,3.55,FALSE,40-49,Below 6K,high
+1059,Customer Support,Male,36,Consultant,19-Sep-19,4,Bachelor,2,6600,22,18,1,4.04,FALSE,30-39,6K-6.9K,low
+1060,Marketing,Female,53,Developer,27-Dec-14,9,High School,2,6000,26,87,1,3.19,FALSE,50+,6K-6.9K,low
+1061,IT,Female,35,Manager,20-Aug-18,6,Bachelor,4,8400,10,73,1,2.62,FALSE,30-39,7K+,high
+1062,Customer Support,Male,39,Technician,26-May-23,1,Bachelor,5,5250,18,71,0,2.87,FALSE,30-39,Below 6K,high
+1063,Marketing,Other,48,Consultant,02-Oct-15,8,Master,3,7150,26,30,1,3.59,FALSE,40-49,7K+,medium
+1064,Operations,Male,40,Developer,06-Jan-19,5,High School,4,7000,9,87,1,1.51,FALSE,40-49,7K+,high
+1065,Engineering,Male,31,Specialist,19-Sep-18,5,Master,3,5850,25,57,2,1.92,FALSE,30-39,Below 6K,medium
+1066,Customer Support,Female,59,Analyst,13-Nov-23,0,Master,5,6000,10,35,0,3.66,FALSE,50+,6K-6.9K,high
+1067,Operations,Female,49,Specialist,28-Feb-23,1,Bachelor,3,5850,27,32,0,1.74,FALSE,40-49,Below 6K,medium
+1068,Engineering,Male,43,Specialist,13-Feb-15,9,Master,4,6300,9,90,0,1.66,FALSE,40-49,6K-6.9K,high
+1069,Legal,Female,29,Engineer,28-Dec-17,6,High School,2,7200,25,62,1,2.79,FALSE,20-29,7K+,low
+1070,Sales,Male,55,Manager,29-Sep-20,3,Bachelor,4,8400,16,90,1,4.29,FALSE,50+,7K+,high
+1071,Sales,Male,52,Developer,28-Jan-16,8,High School,2,6000,8,13,1,4.28,TRUE,50+,6K-6.9K,low
+1072,Legal,Female,54,Technician,16-Feb-20,4,Bachelor,2,4200,18,22,0,4.71,FALSE,50+,Below 6K,low
+1073,IT,Female,43,Analyst,30-Nov-22,1,Bachelor,1,4400,5,76,1,2,TRUE,40-49,Below 6K,low
+1074,Sales,Female,42,Engineer,24-Apr-16,8,Master,2,7200,15,10,0,4.64,FALSE,40-49,7K+,low
+1075,Legal,Male,51,Technician,04-Jan-20,4,High School,2,4200,8,99,1,2.6,FALSE,50+,Below 6K,low
+1076,Customer Support,Female,24,Developer,23-Nov-18,5,Master,3,6500,26,62,0,4.34,FALSE,20-29,6K-6.9K,medium
+1077,Legal,Female,26,Specialist,13-Sep-19,4,Master,3,5850,2,65,0,4.7,FALSE,20-29,Below 6K,medium
+1078,Finance,Female,52,Consultant,19-Sep-19,4,High School,4,7700,12,40,0,4.03,FALSE,50+,7K+,high
+1079,Engineering,Female,57,Analyst,25-Sep-17,6,Bachelor,3,5200,3,74,2,3.06,FALSE,50+,Below 6K,medium
+1080,Customer Support,Other,45,Engineer,20-Sep-22,1,Bachelor,2,7200,28,38,1,3.23,TRUE,40-49,7K+,low
+1081,Operations,Male,59,Analyst,10-May-24,0,Bachelor,4,5600,29,13,2,3.28,FALSE,50+,Below 6K,high
+1082,Finance,Male,59,Technician,11-Apr-24,0,High School,5,5250,14,20,1,4.62,FALSE,50+,Below 6K,high
+1083,Sales,Male,30,Consultant,10-Nov-19,4,High School,2,6600,2,70,0,4,FALSE,30-39,6K-6.9K,low
+1084,Engineering,Other,34,Specialist,20-May-20,4,High School,1,4950,24,16,2,3.13,FALSE,30-39,Below 6K,low
+1085,Finance,Male,56,Manager,13-Apr-22,2,Bachelor,2,7200,24,46,1,1.14,FALSE,50+,7K+,low
+1086,Marketing,Female,37,Manager,14-Oct-16,7,PhD,4,8400,23,41,0,3.87,TRUE,30-39,7K+,high
+1087,Sales,Other,55,Technician,10-Mar-17,7,High School,2,4200,26,13,0,1.78,FALSE,50+,Below 6K,low
+1088,Marketing,Male,50,Technician,17-Sep-20,3,Bachelor,4,4900,21,22,0,1.09,FALSE,50+,Below 6K,high
+1089,HR,Female,51,Specialist,31-Jul-15,9,Bachelor,3,5850,17,10,1,3.56,FALSE,50+,Below 6K,medium
+1090,IT,Male,26,Developer,18-Aug-18,6,Master,2,6000,21,91,2,3.52,FALSE,20-29,6K-6.9K,low
+1091,Legal,Male,55,Specialist,22-Oct-17,6,Bachelor,5,6750,23,6,2,2.73,FALSE,50+,6K-6.9K,high
+1092,Sales,Male,46,Specialist,25-Jun-16,8,Bachelor,1,4950,9,93,1,4.16,FALSE,40-49,Below 6K,low
+1093,Engineering,Female,50,Specialist,14-Oct-23,0,Master,4,6300,4,53,1,2.95,FALSE,50+,6K-6.9K,high
+1094,Engineering,Male,42,Specialist,14-Aug-24,0,High School,5,6750,29,2,0,3.53,TRUE,40-49,6K-6.9K,high
+1095,Legal,Male,52,Technician,10-Aug-24,0,Bachelor,1,3850,10,21,2,2.01,FALSE,50+,Below 6K,low
+1096,Sales,Female,34,Technician,06-Dec-16,7,Bachelor,5,5250,12,53,0,3.54,FALSE,30-39,Below 6K,high
+1097,Legal,Male,59,Consultant,05-Sep-15,9,Bachelor,5,8250,22,84,0,1.48,FALSE,50+,7K+,high
+1098,Engineering,Female,55,Consultant,22-Jun-20,4,High School,1,6050,18,14,1,3.42,FALSE,50+,6K-6.9K,low
+1099,Engineering,Female,23,Specialist,31-Oct-15,8,Bachelor,2,5400,29,91,1,2.54,FALSE,20-29,Below 6K,low
+1100,Operations,Male,48,Specialist,01-Aug-21,3,Bachelor,3,5850,29,60,2,3.88,FALSE,40-49,Below 6K,medium
+1101,Engineering,Male,47,Manager,19-Oct-22,1,Bachelor,5,9000,3,26,1,4.29,FALSE,40-49,7K+,high
+1102,Legal,Female,47,Engineer,23-Aug-15,9,Bachelor,3,7800,25,98,2,3.19,FALSE,40-49,7K+,medium
+1103,IT,Male,30,Specialist,12-Jul-19,5,Bachelor,4,6300,29,97,0,1.3,FALSE,30-39,6K-6.9K,high
+1104,HR,Female,54,Analyst,04-Feb-16,8,PhD,2,4800,7,10,0,4.88,FALSE,50+,Below 6K,low
+1105,Marketing,Male,31,Engineer,17-Jun-18,6,High School,3,7800,11,52,2,1.14,FALSE,30-39,7K+,medium
+1106,IT,Female,60,Engineer,28-Nov-15,8,Bachelor,3,7800,21,59,1,4.73,TRUE,50+,7K+,medium
+1107,Operations,Male,25,Developer,22-Feb-16,8,High School,2,6000,8,37,1,3,FALSE,20-29,6K-6.9K,low
+1108,HR,Male,48,Manager,22-Dec-22,1,Bachelor,3,7800,4,79,2,4.06,FALSE,40-49,7K+,medium
+1109,HR,Female,53,Analyst,28-Dec-18,5,Master,4,5600,4,16,0,3.6,FALSE,50+,Below 6K,high
+1110,Sales,Male,27,Technician,04-Jan-24,0,PhD,3,4550,20,64,2,4.61,FALSE,20-29,Below 6K,medium
+1111,Sales,Male,28,Technician,02-May-18,6,Master,3,4550,23,20,2,1.29,FALSE,20-29,Below 6K,medium
+1112,Customer Support,Female,31,Consultant,13-Dec-19,4,Bachelor,2,6600,4,32,1,1.92,FALSE,30-39,6K-6.9K,low
+1113,Customer Support,Female,45,Developer,05-Dec-16,7,Bachelor,3,6500,14,28,2,4.23,FALSE,40-49,6K-6.9K,medium
+1114,Engineering,Female,55,Engineer,11-Mar-18,6,High School,4,8400,25,43,0,4.72,FALSE,50+,7K+,high
+1115,Marketing,Male,26,Engineer,27-Mar-17,7,Bachelor,3,7800,5,96,0,2.83,FALSE,20-29,7K+,medium
+1116,Marketing,Male,55,Technician,17-Mar-22,2,Bachelor,1,3850,4,47,2,2.32,FALSE,50+,Below 6K,low
+1117,HR,Female,26,Consultant,01-Mar-17,7,Bachelor,2,6600,17,20,1,3.75,FALSE,20-29,6K-6.9K,low
+1118,Finance,Female,49,Developer,07-Oct-17,6,Bachelor,4,7000,19,97,0,3.51,FALSE,40-49,7K+,high
+1119,Marketing,Male,49,Consultant,27-May-15,9,High School,5,8250,17,24,2,1.18,FALSE,40-49,7K+,high
+1120,Legal,Female,34,Specialist,28-May-16,8,Bachelor,5,6750,14,6,1,3.62,FALSE,30-39,6K-6.9K,high
+1121,Legal,Female,54,Manager,10-Oct-21,2,Bachelor,2,7200,18,43,2,3.46,FALSE,50+,7K+,low
+1122,Operations,Female,51,Developer,14-Apr-21,3,High School,4,7000,26,35,0,2.49,FALSE,50+,7K+,high
+1123,Operations,Male,31,Specialist,21-Oct-15,8,Bachelor,2,5400,13,37,1,2.97,FALSE,30-39,Below 6K,low
+1124,Finance,Female,39,Consultant,23-May-15,9,High School,2,6600,8,87,2,1.24,FALSE,30-39,6K-6.9K,low
+1125,Legal,Female,29,Consultant,01-Aug-23,1,Bachelor,5,8250,29,21,0,3.48,FALSE,20-29,7K+,high
+1126,Operations,Female,49,Analyst,14-Dec-23,0,PhD,2,4800,6,77,0,3.31,FALSE,40-49,Below 6K,low
+1127,IT,Male,31,Manager,12-Aug-15,9,High School,1,6600,14,11,2,2.63,FALSE,30-39,6K-6.9K,low
+1128,Engineering,Male,47,Technician,19-Apr-21,3,High School,4,4900,19,96,0,4.61,FALSE,40-49,Below 6K,high
+1129,Legal,Female,22,Consultant,22-Jun-21,3,Bachelor,3,7150,8,85,2,4.28,FALSE,20-29,7K+,medium
+1130,Marketing,Female,32,Analyst,24-Jan-23,1,High School,1,4400,28,1,0,4.68,FALSE,30-39,Below 6K,low
+1131,Customer Support,Female,59,Technician,29-Jun-22,2,High School,3,4550,5,16,1,4.34,FALSE,50+,Below 6K,medium
+1132,Legal,Female,58,Engineer,25-Nov-23,0,Bachelor,2,7200,11,76,2,4.68,FALSE,50+,7K+,low
+1133,Finance,Female,55,Developer,01-Jun-20,4,High School,5,7500,16,55,1,4.5,FALSE,50+,7K+,high
+1134,Sales,Female,42,Developer,05-Mar-19,5,High School,3,6500,12,2,0,3.83,FALSE,40-49,6K-6.9K,medium
+1135,Finance,Other,43,Engineer,19-Dec-23,0,Bachelor,5,9000,5,24,1,1.3,FALSE,40-49,7K+,high
+1136,IT,Male,22,Specialist,02-Jan-21,3,High School,4,6300,6,85,2,1.16,FALSE,20-29,6K-6.9K,high
+1137,Finance,Female,35,Technician,19-Sep-15,8,High School,2,4200,22,90,1,1.3,FALSE,30-39,Below 6K,low
+1138,Sales,Male,49,Specialist,16-Nov-23,0,Bachelor,5,6750,3,34,0,3.87,FALSE,40-49,6K-6.9K,high
+1139,Engineering,Female,59,Technician,11-Apr-21,3,High School,1,3850,3,11,2,1.23,FALSE,50+,Below 6K,low
+1140,Sales,Male,47,Developer,14-Jan-15,9,Bachelor,2,6000,25,94,0,2.92,FALSE,40-49,6K-6.9K,low
+1141,Operations,Other,41,Technician,29-Oct-17,6,High School,2,4200,9,77,2,2.47,FALSE,40-49,Below 6K,low
+1142,Engineering,Male,29,Technician,20-Mar-20,4,Bachelor,1,3850,13,96,2,2.48,FALSE,20-29,Below 6K,low
+1143,Marketing,Female,25,Analyst,18-Sep-15,8,Bachelor,2,4800,12,45,0,2.15,TRUE,20-29,Below 6K,low
+1144,Customer Support,Male,43,Manager,31-Jan-23,1,High School,5,9000,17,67,0,2.44,FALSE,40-49,7K+,high
+1145,Engineering,Female,33,Engineer,08-Nov-17,6,Bachelor,4,8400,23,42,2,2.83,FALSE,30-39,7K+,high
+1146,Finance,Male,25,Developer,21-Sep-18,5,High School,1,5500,20,71,2,1.36,FALSE,20-29,Below 6K,low
+1147,Finance,Female,58,Manager,30-Aug-16,8,Bachelor,5,9000,15,27,1,2.21,FALSE,50+,7K+,high
+1148,IT,Male,41,Developer,20-Jan-17,7,Bachelor,2,6000,14,9,1,1.67,FALSE,40-49,6K-6.9K,low
+1149,Marketing,Male,38,Analyst,25-Jan-20,4,PhD,1,4400,26,63,1,3.87,FALSE,30-39,Below 6K,low
+1150,Sales,Male,25,Technician,11-May-23,1,High School,2,4200,28,28,0,1.53,FALSE,20-29,Below 6K,low
+1151,Marketing,Male,25,Analyst,07-Feb-15,9,Bachelor,2,4800,23,2,1,3.93,FALSE,20-29,Below 6K,low
+1152,Engineering,Female,47,Specialist,23-Nov-16,7,High School,2,5400,7,52,1,2.13,TRUE,40-49,Below 6K,low
+1153,Legal,Female,38,Technician,05-Apr-21,3,High School,1,3850,19,15,1,2.66,FALSE,30-39,Below 6K,low
+1154,Sales,Female,39,Analyst,03-Jan-23,1,High School,2,4800,14,45,0,4.21,TRUE,30-39,Below 6K,low
+1155,Engineering,Male,30,Manager,03-Nov-21,2,Master,4,8400,15,88,2,4.27,FALSE,30-39,7K+,high
+1156,Engineering,Male,52,Consultant,30-Jul-15,9,Master,3,7150,17,75,1,2.58,FALSE,50+,7K+,medium
+1157,Marketing,Male,56,Technician,26-Sep-20,3,High School,4,4900,3,88,2,2.23,FALSE,50+,Below 6K,high
+1158,IT,Male,47,Specialist,09-Nov-15,8,Master,2,5400,20,85,1,4.45,FALSE,40-49,Below 6K,low
+1159,Legal,Male,24,Engineer,20-Jan-15,9,High School,4,8400,26,33,0,4.09,FALSE,20-29,7K+,high
+1160,IT,Female,59,Analyst,24-May-24,0,High School,1,4400,2,73,1,4.11,FALSE,50+,Below 6K,low
+1161,IT,Female,30,Specialist,12-Jul-22,2,High School,1,4950,3,63,2,1.8,FALSE,30-39,Below 6K,low
+1162,Finance,Male,56,Consultant,17-Feb-16,8,PhD,3,7150,23,77,0,2.14,FALSE,50+,7K+,medium
+1163,Legal,Male,43,Engineer,25-Dec-18,5,Bachelor,4,8400,23,74,0,1.33,FALSE,40-49,7K+,high
+1164,Operations,Male,51,Specialist,07-Dec-21,2,High School,5,6750,25,58,1,3.49,FALSE,50+,6K-6.9K,high
+1165,Finance,Female,50,Developer,28-Aug-22,2,Bachelor,5,7500,10,70,1,3.38,FALSE,50+,7K+,high
+1166,Sales,Female,54,Developer,30-Jul-20,4,High School,3,6500,7,3,2,3.4,FALSE,50+,6K-6.9K,medium
+1167,Legal,Female,46,Developer,12-Oct-14,9,High School,2,6000,7,89,2,3.97,FALSE,40-49,6K-6.9K,low
+1168,Operations,Female,23,Manager,27-Sep-16,7,Bachelor,5,9000,6,74,1,3.19,FALSE,20-29,7K+,high
+1169,Sales,Male,25,Specialist,22-Nov-17,6,Bachelor,2,5400,4,98,2,2.63,FALSE,20-29,Below 6K,low
+1170,Operations,Female,59,Specialist,21-Jan-16,8,Bachelor,3,5850,5,1,0,4.91,TRUE,50+,Below 6K,medium
+1171,Operations,Male,50,Engineer,15-Feb-24,0,Master,3,7800,14,94,2,2.24,FALSE,50+,7K+,medium
+1172,Operations,Male,31,Developer,21-Feb-17,7,Bachelor,4,7000,7,84,2,3.11,FALSE,30-39,7K+,high
+1173,Marketing,Female,39,Technician,18-Apr-17,7,Bachelor,5,5250,9,44,1,1.99,TRUE,30-39,Below 6K,high
+1174,IT,Other,40,Engineer,25-Oct-14,9,Bachelor,5,9000,10,69,1,4.08,FALSE,40-49,7K+,high
+1175,Sales,Male,35,Specialist,11-Dec-17,6,PhD,4,6300,8,58,0,1.26,FALSE,30-39,6K-6.9K,high
+1176,Operations,Female,25,Engineer,02-Mar-23,1,Master,4,8400,9,28,1,3.49,FALSE,20-29,7K+,high
+1177,Engineering,Female,34,Technician,09-Nov-20,3,PhD,3,4550,12,38,0,4.2,FALSE,30-39,Below 6K,medium
+1178,Engineering,Female,43,Analyst,31-Mar-22,2,High School,2,4800,1,21,1,4.29,TRUE,40-49,Below 6K,low
+1179,Finance,Female,58,Technician,01-Jul-15,9,Bachelor,5,5250,22,14,1,3.31,FALSE,50+,Below 6K,high
+1180,Legal,Male,59,Engineer,16-Feb-17,7,Bachelor,3,7800,4,7,1,3.8,FALSE,50+,7K+,medium
+1181,Sales,Male,33,Technician,11-Mar-16,8,Bachelor,3,4550,8,76,2,4.88,FALSE,30-39,Below 6K,medium
+1182,Legal,Male,35,Analyst,05-Jul-15,9,High School,4,5600,11,58,2,1.57,FALSE,30-39,Below 6K,high
+1183,HR,Male,54,Specialist,07-Apr-15,9,Bachelor,2,5400,10,91,1,4,FALSE,50+,Below 6K,low
+1184,Engineering,Male,32,Manager,21-Jan-19,5,High School,1,6600,1,90,1,3.55,FALSE,30-39,6K-6.9K,low
+1185,Marketing,Female,46,Specialist,08-Jun-22,2,High School,2,5400,24,45,2,1.66,FALSE,40-49,Below 6K,low
+1186,IT,Male,33,Manager,30-May-20,4,PhD,3,7800,7,74,2,4.21,FALSE,30-39,7K+,medium
+1187,IT,Female,23,Specialist,07-Jan-18,6,Bachelor,5,6750,2,15,2,3.64,FALSE,20-29,6K-6.9K,high
+1188,Finance,Male,59,Developer,23-Dec-23,0,Bachelor,3,6500,4,6,0,3.72,FALSE,50+,6K-6.9K,medium
+1189,Operations,Female,31,Developer,28-Apr-22,2,High School,2,6000,1,93,1,2.88,TRUE,30-39,6K-6.9K,low
+1190,Marketing,Other,43,Engineer,09-Feb-17,7,Bachelor,5,9000,19,28,2,1.12,FALSE,40-49,7K+,high
+1191,HR,Female,32,Developer,08-Jan-24,0,Bachelor,5,7500,2,73,2,1.16,FALSE,30-39,7K+,high
+1192,Finance,Male,36,Developer,05-Oct-16,7,Bachelor,4,7000,7,19,0,2.23,FALSE,30-39,7K+,high
+1193,HR,Male,36,Analyst,26-Dec-19,4,Master,5,6000,9,7,1,2.1,FALSE,30-39,6K-6.9K,high
+1194,HR,Male,25,Developer,31-Mar-21,3,Master,4,7000,18,58,0,4.6,FALSE,20-29,7K+,high
+1195,Customer Support,Female,52,Analyst,27-Dec-22,1,High School,4,5600,14,69,0,4.13,FALSE,50+,Below 6K,high
+1196,Marketing,Male,40,Consultant,16-Aug-17,7,High School,3,7150,13,98,1,3.3,FALSE,40-49,7K+,medium
+1197,Operations,Male,48,Engineer,28-Nov-16,7,Bachelor,2,7200,23,55,0,2.54,FALSE,40-49,7K+,low
+1198,Customer Support,Male,54,Consultant,04-Apr-16,8,Bachelor,1,6050,27,6,2,3.65,FALSE,50+,6K-6.9K,low
+1199,HR,Male,43,Manager,17-Oct-15,8,High School,3,7800,29,37,0,3.39,FALSE,40-49,7K+,medium
+1200,HR,Male,30,Engineer,04-Apr-16,8,PhD,1,6600,20,66,2,3.37,FALSE,30-39,6K-6.9K,low
+1201,Customer Support,Female,52,Consultant,01-Apr-17,7,Master,5,8250,14,15,2,1.26,FALSE,50+,7K+,high
+1202,Engineering,Female,32,Engineer,25-Feb-23,1,High School,4,8400,22,39,0,2.03,FALSE,30-39,7K+,high
+1203,Sales,Male,45,Specialist,02-Jun-21,3,Bachelor,1,4950,0,13,0,3.77,FALSE,40-49,Below 6K,low
+1204,Legal,Female,35,Manager,01-Nov-17,6,High School,2,7200,11,3,0,2.21,TRUE,30-39,7K+,low
+1205,Sales,Male,56,Manager,03-Jan-16,8,Bachelor,2,7200,14,71,2,4.74,FALSE,50+,7K+,low
+1206,Operations,Male,29,Consultant,02-Jun-23,1,High School,5,8250,6,8,2,2.46,FALSE,20-29,7K+,high
+1207,Marketing,Male,50,Analyst,01-Nov-19,4,High School,4,5600,28,55,1,1.79,FALSE,50+,Below 6K,high
+1208,Legal,Male,43,Manager,07-May-21,3,High School,5,9000,1,81,1,4.39,FALSE,40-49,7K+,high
+1209,Marketing,Male,26,Analyst,20-Sep-21,2,High School,4,5600,22,35,0,1.34,FALSE,20-29,Below 6K,high
+1210,Operations,Other,52,Engineer,06-Jun-24,0,Bachelor,4,8400,11,90,2,1.77,FALSE,50+,7K+,high
+1211,Customer Support,Female,44,Analyst,31-May-21,3,Bachelor,2,4800,18,24,1,3.44,FALSE,40-49,Below 6K,low
+1212,Finance,Male,26,Technician,01-Jun-23,1,Bachelor,2,4200,11,66,2,3.95,FALSE,20-29,Below 6K,low
+1213,Marketing,Male,58,Consultant,24-Feb-20,4,Bachelor,5,8250,12,34,0,2.54,FALSE,50+,7K+,high
+1214,HR,Female,57,Specialist,26-Jun-18,6,Bachelor,2,5400,26,44,1,4.02,FALSE,50+,Below 6K,low
+1215,IT,Male,22,Consultant,02-Aug-16,8,Bachelor,1,6050,22,76,0,1.34,FALSE,20-29,6K-6.9K,low
+1216,HR,Female,34,Engineer,09-Apr-18,6,PhD,4,8400,1,77,2,2.62,FALSE,30-39,7K+,high
+1217,Legal,Other,57,Manager,13-Mar-17,7,Bachelor,1,6600,22,37,1,3.24,FALSE,50+,6K-6.9K,low
+1218,Marketing,Female,55,Technician,03-Nov-18,5,Bachelor,3,4550,17,80,2,4.6,FALSE,50+,Below 6K,medium
+1219,Finance,Male,57,Technician,27-Feb-16,8,Bachelor,4,4900,16,20,2,4.37,FALSE,50+,Below 6K,high
+1220,Engineering,Female,34,Engineer,03-Feb-17,7,Master,2,7200,13,55,2,4.09,FALSE,30-39,7K+,low
+1221,Legal,Female,49,Specialist,22-May-20,4,Bachelor,2,5400,13,77,1,1.96,FALSE,40-49,Below 6K,low
+1222,Operations,Female,46,Technician,12-Jun-16,8,Bachelor,3,4550,12,4,0,4.66,FALSE,40-49,Below 6K,medium
+1223,Finance,Other,59,Technician,22-Feb-24,0,High School,5,5250,10,37,2,3.57,FALSE,50+,Below 6K,high
+1224,Marketing,Female,29,Specialist,25-Nov-15,8,Bachelor,2,5400,4,54,1,4.99,FALSE,20-29,Below 6K,low
+1225,Sales,Male,39,Consultant,22-Mar-21,3,High School,3,7150,13,17,2,4.09,FALSE,30-39,7K+,medium
+1226,IT,Male,36,Developer,14-Mar-17,7,PhD,1,5500,12,78,2,2.5,FALSE,30-39,Below 6K,low
+1227,Marketing,Female,35,Consultant,15-Nov-18,5,High School,3,7150,27,58,1,2.6,FALSE,30-39,7K+,medium
+1228,Legal,Male,32,Developer,05-Jun-21,3,Master,2,6000,15,60,0,2.03,FALSE,30-39,6K-6.9K,low
+1229,HR,Female,44,Engineer,12-May-17,7,High School,2,7200,4,53,0,1.7,TRUE,40-49,7K+,low
+1230,Customer Support,Male,38,Consultant,15-Jun-19,5,Bachelor,5,8250,28,6,1,1.86,FALSE,30-39,7K+,high
+1231,Operations,Male,22,Consultant,30-Jun-23,1,Bachelor,1,6050,0,53,1,3.02,FALSE,20-29,6K-6.9K,low
+1232,Engineering,Female,44,Technician,25-Feb-22,2,Bachelor,2,4200,18,94,0,2.99,FALSE,40-49,Below 6K,low
+1233,Marketing,Female,35,Analyst,16-May-18,6,Bachelor,5,6000,7,67,1,4.55,TRUE,30-39,6K-6.9K,high
+1234,Marketing,Male,30,Developer,12-Apr-15,9,High School,4,7000,23,64,2,4.99,TRUE,30-39,7K+,high
+1235,Operations,Male,43,Technician,22-Apr-22,2,Bachelor,2,4200,4,34,1,3.51,FALSE,40-49,Below 6K,low
+1236,HR,Female,25,Consultant,31-Jan-23,1,Bachelor,4,7700,10,50,2,2.35,FALSE,20-29,7K+,high
+1237,Engineering,Male,41,Analyst,02-Jun-24,0,Bachelor,3,5200,12,77,2,2.01,FALSE,40-49,Below 6K,medium
+1238,Engineering,Female,38,Consultant,20-Jul-21,3,High School,5,8250,26,54,2,1.7,FALSE,30-39,7K+,high
+1239,Legal,Female,59,Developer,27-Oct-14,9,High School,5,7500,1,26,2,1.51,FALSE,50+,7K+,high
+1240,Marketing,Male,32,Manager,04-Mar-22,2,Bachelor,1,6600,20,77,0,3.52,TRUE,30-39,6K-6.9K,low
+1241,Customer Support,Male,30,Specialist,10-Oct-21,2,Bachelor,4,6300,19,4,2,1.78,FALSE,30-39,6K-6.9K,high
+1242,Customer Support,Female,24,Engineer,13-Mar-22,2,Master,2,7200,25,14,1,1.44,FALSE,20-29,7K+,low
+1243,HR,Male,31,Specialist,20-Jan-22,2,Bachelor,4,6300,10,0,0,3.85,FALSE,30-39,6K-6.9K,high
+1244,Sales,Other,51,Technician,06-Jan-16,8,Bachelor,5,5250,18,83,1,3.2,FALSE,50+,Below 6K,high
+1245,Operations,Female,35,Engineer,12-Oct-22,1,High School,5,9000,23,64,1,1.01,FALSE,30-39,7K+,high
+1246,HR,Female,34,Specialist,12-May-16,8,Bachelor,2,5400,21,90,0,3.18,FALSE,30-39,Below 6K,low
+1247,Customer Support,Male,27,Analyst,23-May-24,0,Bachelor,1,4400,21,76,1,4.91,FALSE,20-29,Below 6K,low
+1248,Legal,Male,49,Manager,05-Oct-14,9,Master,3,7800,12,61,0,3.51,FALSE,40-49,7K+,medium
+1249,Engineering,Female,55,Developer,23-Apr-22,2,Bachelor,4,7000,23,65,2,1.12,FALSE,50+,7K+,high
+1250,Finance,Female,24,Manager,11-Jan-16,8,Master,2,7200,11,26,1,3.32,FALSE,20-29,7K+,low
+1251,Marketing,Male,57,Engineer,22-Jul-20,4,Bachelor,3,7800,27,34,2,2.67,FALSE,50+,7K+,medium
+1252,Legal,Male,25,Technician,10-May-18,6,Master,2,4200,5,91,0,3.86,FALSE,20-29,Below 6K,low
+1253,Legal,Male,59,Specialist,29-Jul-21,3,Bachelor,3,5850,12,72,2,1.15,FALSE,50+,Below 6K,medium
+1254,Operations,Female,34,Developer,15-Jul-15,9,Bachelor,1,5500,12,68,2,1.76,FALSE,30-39,Below 6K,low
+1255,Legal,Male,53,Analyst,15-May-15,9,Master,1,4400,5,33,1,3.03,FALSE,50+,Below 6K,low
+1256,Engineering,Male,24,Technician,08-Mar-15,9,High School,2,4200,22,31,1,1.26,FALSE,20-29,Below 6K,low
+1257,Legal,Female,41,Specialist,23-Jan-18,6,Bachelor,4,6300,29,61,1,1.38,FALSE,40-49,6K-6.9K,high
+1258,Finance,Male,28,Developer,15-Aug-19,5,Bachelor,3,6500,14,66,2,3.24,FALSE,20-29,6K-6.9K,medium
+1259,Engineering,Female,48,Manager,11-Apr-24,0,Bachelor,3,7800,20,56,0,4.68,FALSE,40-49,7K+,medium
+1260,Legal,Male,43,Developer,16-Dec-17,6,High School,5,7500,14,69,2,3.84,FALSE,40-49,7K+,high
+1261,Sales,Female,51,Developer,02-Dec-23,0,Bachelor,1,5500,20,37,2,2.45,FALSE,50+,Below 6K,low
+1262,Customer Support,Male,46,Manager,16-Feb-19,5,High School,4,8400,11,57,0,2.49,FALSE,40-49,7K+,high
+1263,Marketing,Male,24,Developer,17-Jan-17,7,Bachelor,3,6500,20,52,0,2.6,FALSE,20-29,6K-6.9K,medium
+1264,Engineering,Male,31,Consultant,20-Aug-17,7,Master,4,7700,22,51,0,1.75,FALSE,30-39,7K+,high
+1265,Marketing,Male,47,Consultant,24-Sep-17,6,High School,5,8250,0,90,2,2.14,FALSE,40-49,7K+,high
+1266,Marketing,Male,48,Technician,24-Mar-22,2,Master,1,3850,19,16,0,1.85,FALSE,40-49,Below 6K,low
+1267,Marketing,Male,50,Consultant,10-Mar-20,4,Master,4,7700,26,87,1,2.48,FALSE,50+,7K+,high
+1268,Finance,Female,51,Developer,26-Dec-15,8,High School,2,6000,27,45,1,3.38,FALSE,50+,6K-6.9K,low
+1269,HR,Female,38,Developer,07-Aug-16,8,Bachelor,3,6500,19,29,0,2.18,FALSE,30-39,6K-6.9K,medium
+1270,HR,Female,43,Analyst,25-Jan-17,7,Master,1,4400,26,61,2,1.84,FALSE,40-49,Below 6K,low
+1271,Operations,Female,58,Consultant,20-May-18,6,Bachelor,4,7700,2,62,2,2.58,FALSE,50+,7K+,high
+1272,Sales,Female,39,Specialist,06-Apr-16,8,High School,4,6300,21,95,2,1.34,FALSE,30-39,6K-6.9K,high
+1273,Customer Support,Other,34,Specialist,01-Jul-18,6,PhD,5,6750,14,27,0,2.44,FALSE,30-39,6K-6.9K,high
+1274,Operations,Female,54,Manager,08-Dec-22,1,High School,2,7200,27,79,0,3.7,FALSE,50+,7K+,low
+1275,Sales,Male,42,Specialist,05-Mar-17,7,Bachelor,2,5400,0,57,2,1.69,FALSE,40-49,Below 6K,low
+1276,Sales,Male,56,Engineer,08-Jun-20,4,High School,4,8400,12,59,1,4.77,FALSE,50+,7K+,high
+1277,Customer Support,Other,26,Consultant,14-Oct-18,5,Bachelor,2,6600,21,34,2,3.46,FALSE,20-29,6K-6.9K,low
+1278,IT,Male,31,Engineer,01-Apr-24,0,High School,3,7800,28,16,2,1.64,FALSE,30-39,7K+,medium
+1279,HR,Female,46,Manager,15-Apr-19,5,Bachelor,1,6600,20,7,2,3.75,FALSE,40-49,6K-6.9K,low
+1280,Operations,Male,43,Engineer,15-Dec-16,7,Master,4,8400,18,4,1,4.46,FALSE,40-49,7K+,high
+1281,Finance,Male,37,Manager,12-Jun-17,7,Master,5,9000,2,92,2,1.37,FALSE,30-39,7K+,high
+1282,Customer Support,Male,31,Engineer,08-Sep-17,6,High School,1,6600,4,2,0,2.4,FALSE,30-39,6K-6.9K,low
+1283,HR,Male,29,Consultant,08-May-15,9,High School,3,7150,27,28,1,1.75,FALSE,20-29,7K+,medium
+1284,Customer Support,Female,23,Developer,01-Nov-20,3,Bachelor,3,6500,2,17,0,1.95,FALSE,20-29,6K-6.9K,medium
+1285,Customer Support,Male,60,Engineer,26-Aug-19,5,Bachelor,1,6600,8,49,0,4.04,FALSE,50+,6K-6.9K,low
+1286,Sales,Male,29,Specialist,15-Dec-23,0,Bachelor,3,5850,28,38,1,3.59,FALSE,20-29,Below 6K,medium
+1287,Sales,Female,30,Technician,07-Mar-15,9,High School,3,4550,26,30,0,1.6,TRUE,30-39,Below 6K,medium
+1288,Operations,Male,41,Manager,28-Oct-22,1,Master,2,7200,20,2,0,1.89,FALSE,40-49,7K+,low
+1289,IT,Female,23,Manager,12-Nov-17,6,Bachelor,5,9000,20,69,2,1.88,FALSE,20-29,7K+,high
+1290,HR,Female,41,Analyst,27-Feb-21,3,High School,4,5600,29,40,1,1.37,FALSE,40-49,Below 6K,high
+1291,HR,Male,26,Engineer,16-Sep-17,6,Bachelor,1,6600,22,56,2,3.31,FALSE,20-29,6K-6.9K,low
+1292,Marketing,Male,48,Analyst,06-Oct-16,7,High School,3,5200,3,36,2,2.31,TRUE,40-49,Below 6K,medium
+1293,Engineering,Other,24,Consultant,04-Jul-17,7,Bachelor,3,7150,9,42,1,2.9,FALSE,20-29,7K+,medium
+1294,Finance,Male,44,Engineer,06-Jun-23,1,High School,3,7800,13,63,2,4.2,TRUE,40-49,7K+,medium
+1295,Engineering,Male,45,Engineer,19-Aug-23,1,Master,1,6600,25,89,1,3.44,FALSE,40-49,6K-6.9K,low
+1296,HR,Female,55,Engineer,01-Dec-19,4,High School,2,7200,2,2,2,3.75,TRUE,50+,7K+,low
+1297,IT,Male,34,Consultant,29-May-19,5,High School,4,7700,20,6,0,3.82,FALSE,30-39,7K+,high
+1298,Engineering,Female,44,Consultant,07-Aug-18,6,Bachelor,4,7700,20,11,2,2.02,FALSE,40-49,7K+,high
+1299,Sales,Male,48,Consultant,08-Mar-22,2,Bachelor,4,7700,13,30,1,2.09,FALSE,40-49,7K+,high
+1300,HR,Other,33,Technician,01-Dec-17,6,Bachelor,1,3850,21,82,1,4,FALSE,30-39,Below 6K,low
+1301,HR,Female,33,Developer,04-Jul-16,8,Bachelor,4,7000,22,93,1,2.83,FALSE,30-39,7K+,high
+1302,Legal,Male,58,Developer,04-Sep-20,4,High School,5,7500,21,30,2,3.6,FALSE,50+,7K+,high
+1303,Operations,Male,33,Engineer,29-Oct-18,5,Bachelor,2,7200,12,65,0,1.25,FALSE,30-39,7K+,low
+1304,IT,Female,32,Specialist,01-Apr-15,9,Bachelor,4,6300,12,56,1,4.59,FALSE,30-39,6K-6.9K,high
+1305,Legal,Male,34,Consultant,18-Sep-17,6,High School,5,8250,11,27,0,1.22,FALSE,30-39,7K+,high
+1306,Finance,Male,43,Analyst,06-Sep-23,0,High School,2,4800,18,65,2,4.74,FALSE,40-49,Below 6K,low
+1307,Sales,Female,31,Manager,17-Apr-22,2,Bachelor,1,6600,24,97,2,3.05,FALSE,30-39,6K-6.9K,low
+1308,HR,Male,35,Technician,02-Jan-23,1,Bachelor,4,4900,27,38,0,2.05,FALSE,30-39,Below 6K,high
+1309,IT,Female,29,Specialist,12-Jan-24,0,Master,5,6750,24,50,0,4.01,FALSE,20-29,6K-6.9K,high
+1310,Finance,Female,23,Manager,30-May-23,1,Bachelor,4,8400,21,19,1,3.16,FALSE,20-29,7K+,high
+1311,Finance,Female,59,Specialist,10-Oct-20,3,PhD,4,6300,6,66,0,3.98,FALSE,50+,6K-6.9K,high
+1312,IT,Male,39,Consultant,16-Feb-17,7,Bachelor,2,6600,15,86,1,2.04,FALSE,30-39,6K-6.9K,low
+1313,Customer Support,Male,47,Specialist,31-Oct-23,0,PhD,3,5850,5,37,1,3.92,FALSE,40-49,Below 6K,medium
+1314,IT,Male,41,Manager,29-Apr-18,6,Bachelor,5,9000,15,42,2,1.95,FALSE,40-49,7K+,high
+1315,IT,Female,42,Analyst,05-Aug-20,4,Master,2,4800,15,61,2,4.93,FALSE,40-49,Below 6K,low
+1316,Engineering,Female,22,Technician,26-Apr-21,3,High School,2,4200,4,4,1,3.33,TRUE,20-29,Below 6K,low
+1317,Finance,Female,27,Specialist,05-Aug-21,3,Bachelor,5,6750,19,54,0,1.54,FALSE,20-29,6K-6.9K,high
+1318,Finance,Male,58,Developer,12-May-21,3,Bachelor,2,6000,21,38,1,2.07,FALSE,50+,6K-6.9K,low
+1319,Customer Support,Other,24,Developer,01-Aug-22,2,Master,2,6000,4,76,1,1.68,FALSE,20-29,6K-6.9K,low
+1320,HR,Female,34,Specialist,04-Aug-18,6,High School,2,5400,5,12,1,3.19,FALSE,30-39,Below 6K,low
+1321,IT,Male,39,Engineer,23-Oct-17,6,Master,3,7800,21,25,2,2.5,FALSE,30-39,7K+,medium
+1322,Customer Support,Female,29,Developer,04-Apr-19,5,High School,1,5500,2,8,2,1.11,FALSE,20-29,Below 6K,low
+1323,HR,Male,42,Consultant,11-Nov-15,8,High School,5,8250,22,6,0,4.53,FALSE,40-49,7K+,high
+1324,IT,Male,46,Engineer,28-May-22,2,Bachelor,2,7200,26,48,1,4.62,FALSE,40-49,7K+,low
+1325,Sales,Male,28,Analyst,08-Jun-24,0,High School,5,6000,26,13,1,2.06,FALSE,20-29,6K-6.9K,high
+1326,Legal,Female,37,Developer,23-Jun-21,3,Master,2,6000,2,27,0,2.61,FALSE,30-39,6K-6.9K,low
+1327,Sales,Male,54,Consultant,15-Feb-16,8,Bachelor,1,6050,2,2,0,1.02,FALSE,50+,6K-6.9K,low
+1328,Legal,Male,58,Specialist,10-Dec-22,1,Bachelor,1,4950,21,81,2,1.38,TRUE,50+,Below 6K,low
+1329,Sales,Female,35,Technician,14-May-20,4,High School,2,4200,12,92,2,3.01,FALSE,30-39,Below 6K,low
+1330,Operations,Male,39,Consultant,27-Mar-18,6,High School,1,6050,1,78,2,1.95,FALSE,30-39,6K-6.9K,low
+1331,Legal,Female,52,Consultant,10-May-20,4,Bachelor,5,8250,7,39,0,1.78,FALSE,50+,7K+,high
+1332,Finance,Male,45,Engineer,06-Jun-15,9,Bachelor,1,6600,29,49,1,3.18,FALSE,40-49,6K-6.9K,low
+1333,HR,Male,32,Analyst,11-Sep-15,8,High School,2,4800,4,76,2,3.75,FALSE,30-39,Below 6K,low
+1334,IT,Female,44,Consultant,14-Aug-21,3,Master,5,8250,0,75,2,4.53,FALSE,40-49,7K+,high
+1335,Marketing,Male,25,Developer,14-Dec-15,8,Bachelor,5,7500,20,61,2,1.98,FALSE,20-29,7K+,high
+1336,Marketing,Female,56,Manager,04-Oct-20,3,High School,4,8400,22,40,0,1.13,FALSE,50+,7K+,high
+1337,Operations,Male,31,Analyst,24-Mar-18,6,High School,3,5200,26,14,1,1.43,FALSE,30-39,Below 6K,medium
+1338,IT,Male,56,Specialist,21-Nov-20,3,Master,5,6750,15,76,0,4.5,FALSE,50+,6K-6.9K,high
+1339,Marketing,Other,42,Specialist,05-Jul-17,7,Master,1,4950,18,14,0,2.22,FALSE,40-49,Below 6K,low
+1340,Finance,Male,46,Specialist,07-Feb-19,5,High School,4,6300,5,1,0,3.8,FALSE,40-49,6K-6.9K,high
+1341,Finance,Female,46,Consultant,19-Jul-19,5,Bachelor,5,8250,13,75,2,3.01,FALSE,40-49,7K+,high
+1342,HR,Male,29,Manager,21-Sep-23,0,Bachelor,3,7800,29,37,2,1.27,FALSE,20-29,7K+,medium
+1343,Engineering,Male,45,Consultant,04-Nov-21,2,Bachelor,3,7150,25,29,2,4.06,FALSE,40-49,7K+,medium
+1344,IT,Female,49,Consultant,29-Sep-18,5,Bachelor,1,6050,23,21,0,2.01,FALSE,40-49,6K-6.9K,low
+1345,Sales,Male,28,Engineer,24-Nov-17,6,Bachelor,1,6600,15,80,2,3.44,TRUE,20-29,6K-6.9K,low
+1346,Legal,Female,53,Manager,16-Nov-17,6,Master,3,7800,18,91,1,3.27,FALSE,50+,7K+,medium
+1347,Customer Support,Male,28,Manager,17-May-23,1,Bachelor,4,8400,8,23,0,1.58,FALSE,20-29,7K+,high
+1348,Marketing,Male,28,Engineer,31-Dec-15,8,Master,1,6600,28,88,1,4.16,FALSE,20-29,6K-6.9K,low
+1349,Marketing,Female,57,Consultant,18-Nov-19,4,Bachelor,5,8250,27,36,0,2.22,FALSE,50+,7K+,high
+1350,Engineering,Female,52,Analyst,04-Dec-22,1,Bachelor,2,4800,22,31,0,2.15,FALSE,50+,Below 6K,low
+1351,Finance,Female,54,Developer,12-Mar-18,6,High School,4,7000,10,3,2,2.63,TRUE,50+,7K+,high
+1352,Operations,Female,39,Specialist,26-Sep-23,0,Bachelor,3,5850,2,91,0,1.91,FALSE,30-39,Below 6K,medium
+1353,Marketing,Male,60,Engineer,10-Sep-15,8,Bachelor,2,7200,21,55,2,3.86,FALSE,50+,7K+,low
+1354,Sales,Female,36,Technician,10-Jun-20,4,High School,3,4550,12,65,1,3.27,FALSE,30-39,Below 6K,medium
+1355,Engineering,Male,38,Engineer,05-Jun-24,0,High School,1,6600,28,35,0,1.56,FALSE,30-39,6K-6.9K,low
+1356,Legal,Male,56,Engineer,29-Dec-20,3,Bachelor,5,9000,0,52,0,1.36,FALSE,50+,7K+,high
+1357,Marketing,Female,35,Engineer,09-Mar-21,3,High School,4,8400,9,96,0,1.11,FALSE,30-39,7K+,high
+1358,Customer Support,Female,31,Manager,10-May-18,6,Bachelor,4,8400,2,7,1,2.46,FALSE,30-39,7K+,high
+1359,Sales,Female,58,Manager,03-Jun-19,5,Bachelor,5,9000,14,20,1,3.6,FALSE,50+,7K+,high
+1360,Marketing,Male,60,Technician,09-Jun-15,9,High School,2,4200,6,88,0,3.82,FALSE,50+,Below 6K,low
+1361,Marketing,Female,52,Analyst,28-Jan-17,7,High School,3,5200,9,42,1,3.31,FALSE,50+,Below 6K,medium
+1362,Legal,Female,45,Technician,24-Sep-23,0,High School,5,5250,27,60,2,1.64,FALSE,40-49,Below 6K,high
+1363,Sales,Male,37,Engineer,26-Feb-20,4,Bachelor,4,8400,4,21,2,4.99,FALSE,30-39,7K+,high
+1364,HR,Female,50,Developer,23-Sep-22,1,High School,2,6000,0,29,1,3.76,FALSE,50+,6K-6.9K,low
+1365,Sales,Female,41,Manager,29-Jun-22,2,Bachelor,1,6600,21,28,2,2.52,FALSE,40-49,6K-6.9K,low
+1366,Finance,Male,28,Analyst,04-Apr-17,7,High School,4,5600,18,19,2,1.73,FALSE,20-29,Below 6K,high
+1367,Customer Support,Male,40,Manager,25-Mar-18,6,Master,1,6600,23,48,0,3.61,FALSE,40-49,6K-6.9K,low
+1368,Sales,Female,46,Consultant,18-Jun-22,2,High School,2,6600,12,48,0,4.01,FALSE,40-49,6K-6.9K,low
+1369,Engineering,Female,37,Engineer,12-Sep-19,4,Bachelor,4,8400,22,66,1,3.5,FALSE,30-39,7K+,high
+1370,Marketing,Female,27,Manager,31-Jul-21,3,High School,4,8400,7,18,2,1.52,FALSE,20-29,7K+,high
+1371,IT,Male,25,Specialist,27-Nov-20,3,Bachelor,2,5400,12,66,1,4.56,TRUE,20-29,Below 6K,low
+1372,Sales,Female,42,Specialist,01-Nov-23,0,Bachelor,4,6300,14,97,0,2.21,TRUE,40-49,6K-6.9K,high
+1373,Customer Support,Female,56,Specialist,23-Mar-20,4,High School,2,5400,14,77,0,1.13,FALSE,50+,Below 6K,low
+1374,HR,Female,29,Manager,02-Dec-16,7,High School,3,7800,14,21,1,2.19,FALSE,20-29,7K+,medium
+1375,Legal,Female,53,Developer,30-Oct-17,6,High School,3,6500,6,18,0,3.19,FALSE,50+,6K-6.9K,medium
+1376,HR,Female,37,Specialist,04-Aug-16,8,High School,3,5850,7,11,0,3.37,FALSE,30-39,Below 6K,medium
+1377,Engineering,Female,45,Technician,11-Dec-18,5,Bachelor,2,4200,26,95,1,1.51,FALSE,40-49,Below 6K,low
+1378,Sales,Female,45,Engineer,05-Jun-22,2,Master,2,7200,16,9,2,2.39,FALSE,40-49,7K+,low
+1379,Operations,Male,30,Manager,22-Jul-16,8,Bachelor,3,7800,14,62,0,3.75,FALSE,30-39,7K+,medium
+1380,Sales,Male,45,Developer,02-Aug-21,3,Bachelor,1,5500,11,5,2,3.98,FALSE,40-49,Below 6K,low
+1381,Legal,Male,38,Technician,19-Feb-23,1,Master,4,4900,28,35,0,3.13,FALSE,30-39,Below 6K,high
+1382,Engineering,Female,44,Specialist,17-May-16,8,Bachelor,5,6750,2,19,0,1.51,TRUE,40-49,6K-6.9K,high
+1383,Finance,Male,22,Specialist,13-Jan-20,4,Bachelor,2,5400,16,4,0,1.92,FALSE,20-29,Below 6K,low
+1384,Customer Support,Female,49,Analyst,08-Jan-22,2,High School,5,6000,17,40,2,4.3,FALSE,40-49,6K-6.9K,high
+1385,Customer Support,Female,44,Developer,03-Apr-23,1,Bachelor,5,7500,10,65,1,4.58,FALSE,40-49,7K+,high
+1386,Sales,Male,24,Specialist,17-Apr-21,3,Bachelor,3,5850,14,70,2,3.44,FALSE,20-29,Below 6K,medium
+1387,Legal,Male,28,Manager,07-Sep-19,4,Bachelor,5,9000,4,68,1,2.14,FALSE,20-29,7K+,high
+1388,Legal,Female,53,Analyst,02-Jun-17,7,Bachelor,3,5200,4,74,1,3.12,FALSE,50+,Below 6K,medium
+1389,IT,Female,50,Specialist,01-Oct-22,1,High School,1,4950,11,45,1,1.83,TRUE,50+,Below 6K,low
+1390,Marketing,Female,54,Consultant,22-Sep-17,6,High School,2,6600,8,14,2,1.8,FALSE,50+,6K-6.9K,low
+1391,IT,Male,23,Specialist,08-Feb-18,6,Bachelor,5,6750,21,30,2,3.54,FALSE,20-29,6K-6.9K,high
+1392,Customer Support,Male,27,Developer,14-May-23,1,High School,5,7500,13,59,2,4.54,FALSE,20-29,7K+,high
+1393,Operations,Female,33,Technician,30-Dec-22,1,Bachelor,1,3850,10,12,2,3.85,FALSE,30-39,Below 6K,low
+1394,Marketing,Male,57,Technician,11-Feb-21,3,High School,1,3850,28,77,2,2.62,FALSE,50+,Below 6K,low
+1395,Sales,Male,37,Specialist,13-May-15,9,Master,5,6750,0,4,1,2.87,FALSE,30-39,6K-6.9K,high
+1396,Customer Support,Male,28,Engineer,02-Jul-17,7,Bachelor,5,9000,9,19,1,4.28,FALSE,20-29,7K+,high
+1397,Customer Support,Male,43,Consultant,27-Sep-20,3,High School,4,7700,18,48,1,2.16,TRUE,40-49,7K+,high
+1398,Marketing,Male,23,Engineer,15-Apr-24,0,Bachelor,1,6600,2,58,1,4.66,FALSE,20-29,6K-6.9K,low
+1399,Operations,Female,52,Technician,30-Sep-15,8,Bachelor,1,3850,27,26,1,4.76,FALSE,50+,Below 6K,low
+1400,Customer Support,Male,53,Developer,27-Mar-18,6,Bachelor,2,6000,11,79,1,2.53,FALSE,50+,6K-6.9K,low
+1401,Finance,Male,39,Technician,16-Jan-15,9,Bachelor,5,5250,20,61,0,4.09,TRUE,30-39,Below 6K,high
+1402,Marketing,Female,48,Engineer,02-Apr-18,6,High School,4,8400,8,39,2,2.01,TRUE,40-49,7K+,high
+1403,Legal,Male,27,Manager,17-Feb-24,0,Master,1,6600,22,6,1,4.48,TRUE,20-29,6K-6.9K,low
+1404,Finance,Male,47,Specialist,23-Sep-16,7,Bachelor,3,5850,20,29,2,4.81,FALSE,40-49,Below 6K,medium
+1405,Sales,Male,41,Technician,09-Oct-18,5,High School,5,5250,7,60,0,3.37,FALSE,40-49,Below 6K,high
+1406,IT,Female,46,Consultant,27-May-21,3,Bachelor,5,8250,6,98,0,2.8,FALSE,40-49,7K+,high
+1407,Legal,Female,43,Manager,12-Apr-20,4,High School,3,7800,29,14,1,4.53,FALSE,40-49,7K+,medium
+1408,Finance,Male,26,Analyst,24-Jan-22,2,Bachelor,2,4800,8,42,0,1.59,FALSE,20-29,Below 6K,low
+1409,Legal,Male,31,Engineer,24-Dec-18,5,Master,3,7800,28,72,1,2.54,TRUE,30-39,7K+,medium
+1410,Finance,Other,26,Manager,01-Nov-20,3,Master,2,7200,15,91,2,3.58,FALSE,20-29,7K+,low
+1411,Sales,Male,44,Developer,06-Dec-21,2,High School,5,7500,9,46,0,3.83,FALSE,40-49,7K+,high
+1412,Legal,Female,42,Consultant,20-Apr-24,0,High School,3,7150,9,70,1,2.95,FALSE,40-49,7K+,medium
+1413,Sales,Other,53,Developer,18-Jul-18,6,PhD,3,6500,13,8,1,2.05,FALSE,50+,6K-6.9K,medium
+1414,Legal,Other,47,Engineer,09-Feb-21,3,Bachelor,4,8400,23,34,2,2.32,FALSE,40-49,7K+,high
+1415,Operations,Male,48,Developer,03-Aug-24,0,Bachelor,1,5500,6,1,1,1.03,FALSE,40-49,Below 6K,low
+1416,Engineering,Female,24,Technician,06-Nov-22,1,Bachelor,4,4900,20,29,2,4.86,FALSE,20-29,Below 6K,high
+1417,Operations,Female,57,Analyst,03-Dec-18,5,Bachelor,3,5200,2,80,1,2.58,FALSE,50+,Below 6K,medium
+1418,Finance,Female,23,Consultant,14-Sep-16,7,Bachelor,2,6600,7,38,1,3.8,FALSE,20-29,6K-6.9K,low
+1419,Marketing,Female,33,Specialist,17-Jul-23,1,Bachelor,1,4950,29,61,0,2.39,FALSE,30-39,Below 6K,low
+1420,Sales,Male,29,Specialist,23-Nov-22,1,Bachelor,1,4950,16,47,0,3.02,TRUE,20-29,Below 6K,low
+1421,Operations,Male,38,Engineer,09-Jun-21,3,Bachelor,2,7200,5,93,1,3.97,FALSE,30-39,7K+,low
+1422,Customer Support,Female,44,Specialist,19-Jun-22,2,Bachelor,4,6300,11,26,2,1.95,FALSE,40-49,6K-6.9K,high
+1423,IT,Female,46,Consultant,17-Nov-18,5,Bachelor,2,6600,6,94,1,4.74,FALSE,40-49,6K-6.9K,low
+1424,Legal,Male,27,Manager,09-Feb-18,6,High School,2,7200,25,16,1,4.75,TRUE,20-29,7K+,low
+1425,IT,Male,46,Analyst,10-Nov-14,9,Bachelor,1,4400,9,44,0,4.66,FALSE,40-49,Below 6K,low
+1426,Legal,Female,36,Consultant,13-Jun-21,3,Bachelor,3,7150,4,4,0,3.75,FALSE,30-39,7K+,medium
+1427,Finance,Female,41,Manager,31-Jan-22,2,PhD,3,7800,8,96,0,3.44,FALSE,40-49,7K+,medium
+1428,Finance,Male,43,Consultant,11-May-22,2,PhD,5,8250,16,4,2,3.68,FALSE,40-49,7K+,high
+1429,IT,Female,26,Engineer,04-Jun-19,5,Bachelor,2,7200,6,47,0,3.46,TRUE,20-29,7K+,low
+1430,IT,Female,25,Engineer,28-Jun-15,9,Bachelor,3,7800,15,69,1,2.34,FALSE,20-29,7K+,medium
+1431,HR,Male,44,Consultant,18-Apr-18,6,High School,1,6050,1,71,1,1.15,FALSE,40-49,6K-6.9K,low
+1432,Marketing,Female,29,Specialist,04-Jul-17,7,Master,1,4950,9,8,0,2.77,FALSE,20-29,Below 6K,low
+1433,Sales,Female,58,Specialist,18-Apr-21,3,PhD,2,5400,14,94,0,1.1,FALSE,50+,Below 6K,low
+1434,Customer Support,Female,26,Developer,01-Sep-21,3,High School,2,6000,15,67,1,3.48,FALSE,20-29,6K-6.9K,low
+1435,Marketing,Female,45,Developer,30-Jun-21,3,High School,4,7000,13,17,1,1.57,FALSE,40-49,7K+,high
+1436,IT,Female,53,Manager,28-Apr-23,1,Bachelor,3,7800,10,70,1,3.18,FALSE,50+,7K+,medium
+1437,IT,Female,37,Engineer,09-Jul-18,6,High School,4,8400,9,78,0,3.82,FALSE,30-39,7K+,high
+1438,IT,Female,60,Analyst,23-Jun-20,4,Master,3,5200,21,45,1,2.39,FALSE,50+,Below 6K,medium
+1439,Engineering,Male,53,Engineer,01-Mar-20,4,Bachelor,2,7200,5,74,0,2.44,TRUE,50+,7K+,low
+1440,Operations,Male,40,Technician,18-Nov-17,6,Bachelor,2,4200,0,12,0,1.84,FALSE,40-49,Below 6K,low
+1441,Sales,Female,43,Specialist,08-Mar-24,0,Bachelor,3,5850,16,9,0,1.16,FALSE,40-49,Below 6K,medium
+1442,Finance,Female,52,Manager,13-Jan-15,9,Bachelor,1,6600,6,45,0,4.87,FALSE,50+,6K-6.9K,low
+1443,Sales,Female,52,Engineer,27-Nov-14,9,Bachelor,3,7800,29,51,2,2.94,TRUE,50+,7K+,medium
+1444,HR,Male,45,Developer,03-Jul-18,6,Master,5,7500,13,90,0,3.08,FALSE,40-49,7K+,high
+1445,Finance,Female,54,Developer,24-Mar-21,3,Bachelor,1,5500,15,95,0,4.89,FALSE,50+,Below 6K,low
+1446,Engineering,Male,33,Engineer,13-May-17,7,High School,1,6600,25,13,0,3.83,FALSE,30-39,6K-6.9K,low
+1447,Engineering,Female,56,Analyst,11-Oct-18,5,Master,3,5200,11,18,0,4.71,FALSE,50+,Below 6K,medium
+1448,Marketing,Female,28,Developer,21-Jun-20,4,Bachelor,1,5500,3,99,0,4.8,FALSE,20-29,Below 6K,low
+1449,Customer Support,Female,56,Specialist,03-Dec-15,8,Bachelor,1,4950,6,58,1,2.64,FALSE,50+,Below 6K,low
+1450,Marketing,Male,30,Consultant,18-Aug-22,2,Bachelor,1,6050,2,79,1,2.25,FALSE,30-39,6K-6.9K,low
+1451,Marketing,Female,48,Developer,17-Mar-18,6,High School,3,6500,7,42,0,3.29,FALSE,40-49,6K-6.9K,medium
+1452,Sales,Other,51,Technician,24-Jul-17,7,High School,3,4550,27,97,2,2.06,FALSE,50+,Below 6K,medium
+1453,Operations,Female,31,Developer,02-Nov-19,4,Bachelor,1,5500,16,59,1,3.67,FALSE,30-39,Below 6K,low
+1454,Legal,Male,47,Specialist,23-Jan-23,1,Master,5,6750,9,88,2,3.07,FALSE,40-49,6K-6.9K,high
+1455,Finance,Male,39,Analyst,09-Jun-19,5,Master,2,4800,11,66,2,4.26,FALSE,30-39,Below 6K,low
+1456,Operations,Female,35,Developer,24-May-24,0,Bachelor,5,7500,6,87,1,2.12,TRUE,30-39,7K+,high
+1457,Engineering,Female,24,Consultant,23-Aug-17,7,Master,5,8250,1,2,1,1.24,FALSE,20-29,7K+,high
+1458,Operations,Female,55,Technician,20-Oct-19,4,Master,1,3850,16,88,1,1.74,FALSE,50+,Below 6K,low
+1459,Operations,Female,30,Engineer,13-Feb-19,5,Bachelor,3,7800,15,88,1,4.09,FALSE,30-39,7K+,medium
+1460,IT,Female,37,Specialist,15-May-17,7,High School,2,5400,25,29,1,4.09,FALSE,30-39,Below 6K,low
+1461,HR,Male,29,Manager,20-Aug-19,5,Bachelor,3,7800,16,97,1,2.64,FALSE,20-29,7K+,medium
+1462,Engineering,Female,24,Developer,23-Nov-21,2,Bachelor,1,5500,19,84,0,2.41,FALSE,20-29,Below 6K,low
+1463,HR,Male,42,Engineer,23-Jan-23,1,Master,5,9000,0,47,0,4.98,FALSE,40-49,7K+,high
+1464,IT,Male,53,Engineer,18-Mar-19,5,High School,5,9000,12,97,0,3.66,FALSE,50+,7K+,high
+1465,Sales,Female,50,Specialist,19-Jun-17,7,Master,2,5400,6,59,1,1.3,FALSE,50+,Below 6K,low
+1466,HR,Other,55,Specialist,13-Jan-15,9,High School,5,6750,5,45,0,2.4,FALSE,50+,6K-6.9K,high
+1467,Customer Support,Male,45,Analyst,26-Dec-22,1,Bachelor,1,4400,13,40,0,3.33,FALSE,40-49,Below 6K,low
+1468,Sales,Male,60,Developer,09-Feb-15,9,Bachelor,3,6500,11,20,0,4.43,FALSE,50+,6K-6.9K,medium
+1469,Legal,Male,36,Engineer,18-May-15,9,High School,3,7800,8,3,2,1.96,FALSE,30-39,7K+,medium
+1470,Sales,Female,25,Specialist,10-Feb-20,4,Bachelor,5,6750,10,82,2,2.23,FALSE,20-29,6K-6.9K,high
+1471,Finance,Female,44,Specialist,09-Nov-16,7,Bachelor,1,4950,17,55,1,3.32,FALSE,40-49,Below 6K,low
+1472,Engineering,Female,36,Analyst,22-Jul-21,3,High School,4,5600,14,91,1,4.02,FALSE,30-39,Below 6K,high
+1473,Legal,Male,53,Manager,21-Jan-16,8,High School,5,9000,10,35,1,2.42,FALSE,50+,7K+,high
+1474,HR,Male,58,Analyst,30-Dec-19,4,Master,3,5200,16,17,0,3.28,FALSE,50+,Below 6K,medium
+1475,Legal,Male,54,Analyst,14-Nov-14,9,Bachelor,2,4800,2,6,2,1.54,FALSE,50+,Below 6K,low
+1476,Legal,Male,57,Specialist,23-Oct-22,1,Master,4,6300,24,43,0,4.14,FALSE,50+,6K-6.9K,high
+1477,Legal,Male,55,Manager,09-Dec-23,0,High School,1,6600,21,73,1,4.83,FALSE,50+,6K-6.9K,low
+1478,Customer Support,Male,29,Technician,06-Mar-21,3,Bachelor,1,3850,10,98,1,2.46,FALSE,20-29,Below 6K,low
+1479,Engineering,Male,43,Manager,20-Dec-16,7,High School,4,8400,13,41,0,1.04,FALSE,40-49,7K+,high
+1480,Customer Support,Female,44,Engineer,12-Oct-22,1,Bachelor,5,9000,14,56,2,3.37,FALSE,40-49,7K+,high
+1481,HR,Female,23,Consultant,02-Aug-18,6,Bachelor,5,8250,3,91,1,3.88,FALSE,20-29,7K+,high
+1482,Marketing,Male,38,Consultant,25-Jul-16,8,Bachelor,4,7700,19,52,0,2.27,FALSE,30-39,7K+,high
+1483,Marketing,Female,56,Consultant,27-Dec-17,6,Bachelor,4,7700,14,8,2,3.54,FALSE,50+,7K+,high
+1484,Legal,Female,24,Manager,06-Dec-21,2,Master,3,7800,15,98,1,2.49,FALSE,20-29,7K+,medium
+1485,Legal,Female,41,Specialist,26-Jan-17,7,Bachelor,2,5400,28,43,1,3.24,FALSE,40-49,Below 6K,low
+1486,Finance,Male,42,Manager,29-Jul-20,4,Master,1,6600,13,56,1,4.24,FALSE,40-49,6K-6.9K,low
+1487,Sales,Female,48,Manager,05-Oct-17,6,Bachelor,3,7800,18,34,2,3.23,FALSE,40-49,7K+,medium
+1488,IT,Female,29,Engineer,11-Jul-23,1,High School,4,8400,10,17,1,2,FALSE,20-29,7K+,high
+1489,Sales,Female,56,Engineer,04-Aug-16,8,High School,5,9000,4,71,0,3.82,FALSE,50+,7K+,high
+1490,IT,Female,44,Technician,17-Feb-17,7,High School,3,4550,27,34,2,3.84,FALSE,40-49,Below 6K,medium
+1491,HR,Female,36,Analyst,02-Jul-22,2,Bachelor,3,5200,2,0,0,3.41,TRUE,30-39,Below 6K,medium
+1492,HR,Male,43,Specialist,22-Jun-18,6,Bachelor,3,5850,24,13,0,3.22,FALSE,40-49,Below 6K,medium
+1493,HR,Male,49,Manager,27-Sep-22,1,High School,3,7800,24,72,1,1.56,FALSE,40-49,7K+,medium
+1494,Customer Support,Female,54,Developer,30-Aug-20,4,Master,3,6500,14,81,0,2.45,FALSE,50+,6K-6.9K,medium
+1495,IT,Female,43,Developer,20-Jul-20,4,High School,4,7000,25,21,1,1.59,TRUE,40-49,7K+,high
+1496,HR,Female,29,Developer,11-Aug-19,5,High School,1,5500,29,78,2,1,FALSE,20-29,Below 6K,low
+1497,Operations,Male,46,Technician,18-Nov-14,9,High School,5,5250,23,41,0,3.02,TRUE,40-49,Below 6K,high
+1498,HR,Male,46,Consultant,10-Aug-22,2,High School,2,6600,26,22,1,2.34,FALSE,40-49,6K-6.9K,low
